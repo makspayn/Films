@@ -1,6 +1,6 @@
-﻿namespace Films
+﻿namespace Films.Forms
 {
-  partial class frMain
+  partial class MainForm
   {
     private System.ComponentModel.IContainer components = null;
     protected override void Dispose(bool disposing)
@@ -271,9 +271,9 @@
 
     }
 
-    #endregion
+		#endregion
 
-    public System.Windows.Forms.DataGridView dgFilms;
+	private System.Windows.Forms.DataGridView dgFilms;
     private System.Windows.Forms.Button btnAdd;
     private System.Windows.Forms.Button btnInsert;
     private System.Windows.Forms.Button btnEdit;

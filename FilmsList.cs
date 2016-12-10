@@ -1,117 +1,169 @@
 ﻿using System;
-using System.Collections;
+using System.Collections.Generic;
+using System.Drawing;
 
 namespace Films
 {
-  public struct Film
-  {
-    public String russianTitle;
-    public String originalTitle;
-    public String year;
-    public String country;
-    public String genre;
-    public String director;
-    public String actors;
-    public String worldDate;
-    public String russianDate;
-    public String discDate;
-    public String description;
-    public String link;
-    public String code;
-    public int width;
-    public int height;
-    public String duration;
-    public String qualityTitle;
-    public String qualityPixel;
-    public String translateTitle;
-    public String translateComment;
-    public String Color;
-    public String videoCodec;
-    public int originalWidth;
-    public int originalHeight;
-    public int videoKbps;
-    public double fps;
-    public String audioCodec;
-    public int channels;
-    public int audioKbps;
-    public String dataCheck;
-  }
+	public struct Film
+	{
+		public string russianTitle;
+		public string originalTitle;
+		public string year;
+		public string country;
+		public string genre;
+		public string director;
+		public string actors;
+		public string worldDate;
+		public string russianDate;
+		public string discDate;
+		public string description;
+		public string link;
+		public string code;
+		public int width;
+		public int height;
+		public string duration;
+		public string qualityTitle;
+		public string qualityPixel;
+		public string translateTitle;
+		public string translateComment;
+		public string Color;
+		public string videoCodec;
+		public int originalWidth;
+		public int originalHeight;
+		public int videoKbps;
+		public double fps;
+		public string audioCodec;
+		public int channels;
+		public int audioKbps;
+		public string dataCheck;
+	}
 
-  public class FilmsList
-  {
-    ArrayList arrayFilms;
+	public class FilmsList
+	{
+		private List<Film> films;
 
-    public FilmsList()
-    {
-      arrayFilms = new ArrayList();
-    }
+		public FilmsList()
+		{
+			films = new List<Film>();
+		}
 
-    public void Add(Film f)
-    {
-      arrayFilms.Add(f);
-    }
+		public void Add(Film film)
+		{
+			films.Add(film);
+		}
 
-    public void Insert(Film f, int i)
-    {
-      arrayFilms.Insert(i, f);
-    }
+		public void Insert(Film film, int index)
+		{
+			films.Insert(index, film);
+		}
 
-    public void Edit(Film f, int i)
-    {
-      arrayFilms[i] = f;
-    }
+		public void Edit(Film film, int index)
+		{
+			films[index] = film;
+		}
 
-    public void Delete(int i)
-    {
-      arrayFilms.RemoveAt(i);
-    }
-    public Film GetFilm(int index)
-    {
-      return (Film)arrayFilms[index];
-    }
+		public void Delete(int index)
+		{
+			films.RemoveAt(index);
+		}
 
-    public Film CopyTo(Film f, Film temp)
-    {
-      f.russianTitle = temp.russianTitle;
-      f.originalTitle = temp.originalTitle;
-      f.year = temp.year;
-      f.country = temp.country;
-      f.genre = temp.genre;
-      f.director = temp.director;
-      f.actors = temp.actors;
-      f.worldDate = temp.worldDate;
-      f.russianDate = temp.russianDate;
-      f.discDate = temp.discDate;
-      f.description = temp.description;
-      f.link = temp.link;
-      f.code = temp.code;
-      f.width = temp.width;
-      f.height = temp.height;
-      f.duration = temp.duration;
-      f.qualityTitle = temp.qualityTitle;
-      f.qualityPixel = temp.qualityPixel;
-      f.translateTitle = temp.translateTitle;
-      f.translateComment = temp.translateComment;
-      f.Color = temp.Color;
-      f.videoCodec = temp.videoCodec;
-      f.originalWidth = temp.originalWidth;
-      f.originalHeight = temp.originalHeight;
-      f.videoKbps = temp.videoKbps;
-      f.fps = temp.fps;
-      f.audioCodec = temp.audioCodec;
-      f.channels = temp.channels;
-      f.audioKbps = temp.audioKbps;
-      f.dataCheck = temp.dataCheck;
-      return f;
-    }
+		public Film GetFilm(int index)
+		{
+			return films[index];
+		}
 
-    public Film[] GetArray()
-    {
-      Film[] aFilms = new Film[arrayFilms.Count];
-      for (int i = 0; i < arrayFilms.Count; i++) {
-        aFilms[i] = this.GetFilm(i);
-      }
-      return aFilms;
-    }
-  }
+		public string GetFilmDisplayedName(int index)
+		{
+			return GetFilmDisplayedName(films[index]);
+		}
+
+		public string GetFilmDisplayedName(Film film)
+		{
+			return film.originalTitle == "" ? $"{film.russianTitle} ({film.year})" :
+				$"{film.russianTitle} / {film.originalTitle} ({film.year})";
+		}
+
+		public string GetFilmReleaseDate(int index)
+		{
+			Film film = films[index];
+			if (film.worldDate == "" && film.russianDate == "")
+			{
+				return DateTime.Now.ToShortDateString();
+			}
+			return film.russianDate == "" ? film.worldDate : film.russianDate;
+		}
+
+		public string GetFilmQuality(int index)
+		{
+			Film film = films[index];
+			string quality = $"{film.qualityTitle} {film.qualityPixel} {film.videoKbps} Kbps, {film.audioCodec} {film.channels} ch {film.audioKbps} Kbps - {film.translateTitle} {film.translateComment}";
+			return quality;
+		}
+
+		public Color GetFilmColor(int index)
+		{
+			Film film = films[index];
+			switch (film.Color)
+			{
+				case "Хороший":
+					return Color.LightGreen;
+				case "Нейтральный":
+					return Color.Yellow;
+				case "Плохой":
+					return Color.IndianRed;
+				default:
+					return Color.White;
+			}
+		}
+
+		public Film GetCopyFilm(Film film)
+		{
+			Film newFilm = new Film
+			{
+				russianTitle = film.russianTitle,
+				originalTitle = film.originalTitle,
+				year = film.year,
+				country = film.country,
+				genre = film.genre,
+				director = film.director,
+				actors = film.actors,
+				worldDate = film.worldDate,
+				russianDate = film.russianDate,
+				discDate = film.discDate,
+				description = film.description,
+				link = film.link,
+				code = film.code,
+				width = film.width,
+				height = film.height,
+				duration = film.duration,
+				qualityTitle = film.qualityTitle,
+				qualityPixel = film.qualityPixel,
+				translateTitle = film.translateTitle,
+				translateComment = film.translateComment,
+				Color = film.Color,
+				videoCodec = film.videoCodec,
+				originalWidth = film.originalWidth,
+				originalHeight = film.originalHeight,
+				videoKbps = film.videoKbps,
+				fps = film.fps,
+				audioCodec = film.audioCodec,
+				channels = film.channels,
+				audioKbps = film.audioKbps,
+				dataCheck = film.dataCheck
+			};
+			return newFilm;
+		}
+
+		public Film GetCopyFilm(int index)
+		{
+			return GetCopyFilm(films[index]);
+		}
+
+		public Film[] GetArray()
+		{
+			return films.ToArray();
+		}
+
+		public int Length => films.Count;
+	}
 }

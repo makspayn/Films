@@ -1,4 +1,4 @@
-﻿namespace Films
+﻿namespace Films.Forms
 {
   partial class LogForm
   {

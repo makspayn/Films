@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Films.Properties {
+namespace Films.Services.Services.Properties {
     using System;
     
     
