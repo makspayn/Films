@@ -85,6 +85,7 @@ namespace Films.Forms
 			films.Edit(film, logUnit.filmIndex);
 			updateService.GetLog().RemoveAt(lbInfo.SelectedIndex);
 			frMain.UpdateEvent();
+			frMain.FilmUpdateEvent(logUnit.filmIndex);
 			lbInfo.Items.RemoveAt(lbInfo.SelectedIndex);
 			tbRussianTitle.Clear();
 			tbOriginalTitle.Clear();

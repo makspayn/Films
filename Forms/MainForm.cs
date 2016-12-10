@@ -46,6 +46,11 @@ namespace Films.Forms
 			dgFilms.Rows[index].Selected = true;
 		}
 
+		public void FilmUpdateEvent(int index)
+		{
+			FilmToForm(index);
+		}
+
 		public FilmsList GetFilmsList()
 		{
 			return films;
