@@ -7,28 +7,18 @@ namespace Films.Forms
 {
 	public partial class EditForm : Form
 	{
-		private static EditForm instance;
 		private Film film;
 		private int index;
 		private MainForm frMain;
 		private bool changed;
 		private bool loaded;
 
-		private EditForm()
+		public EditForm(int index)
 		{
 			InitializeComponent();
 			frMain = MainForm.GetInstance();
-		}
-
-		public static EditForm GetInstance(int index)
-		{
-			if (instance == null)
-			{
-				instance = new EditForm();
-			}
-			instance.index = index;
-			instance.film = instance.frMain.GetFilmsList().GetFilm(index);
-			return instance;
+			this.index = index;
+			film = frMain.GetFilmsList().GetFilm(index);
 		}
 
 		private void EditForm_Shown(object sender, EventArgs e)
@@ -160,43 +150,52 @@ namespace Films.Forms
 			e.Cancel = true;
 		}
 
+		private void SwitchButtonState(bool state)
+		{
+			btnLoad.Enabled = state;
+			btnClear.Enabled = state;
+			btnOK.Enabled = state;
+		}
+
 		private void FilmInfoToForm(FilmInfo filmInfo)
 		{
-			tbRussianTitle.BeginInvoke(new Action<string>(s => tbRussianTitle.Text = s), filmInfo.russianTitle);
-			tbOriginalTitle.BeginInvoke(new Action<string>(s => tbOriginalTitle.Text = s), filmInfo.originalTitle);
-			tbYear.BeginInvoke(new Action<string>(s => tbYear.Text = s), filmInfo.year);
-			tbCountry.BeginInvoke(new Action<string>(s => tbCountry.Text = s), filmInfo.country);
-			tbGenre.BeginInvoke(new Action<string>(s => tbGenre.Text = s), filmInfo.genre);
-			tbDirector.BeginInvoke(new Action<string>(s => tbDirector.Text = s), filmInfo.director);
-			rtbActors.BeginInvoke(new Action<string>(s => rtbActors.Text = s), filmInfo.actors);
-			tbWorldDate.BeginInvoke(new Action<string>(s => tbWorldDate.Text = s), filmInfo.worldPremiere);
-			tbRussianDate.BeginInvoke(new Action<string>(s => tbRussianDate.Text = s), filmInfo.russianPremiere);
-			tbDiscDate.BeginInvoke(new Action<string>(s => tbDiscDate.Text = s), filmInfo.discPremiere);
+			tbRussianTitle.Text = filmInfo.russianTitle;
+			tbOriginalTitle.Text = filmInfo.originalTitle;
+			tbYear.Text = filmInfo.year;
+			tbCountry.Text = filmInfo.country;
+			tbGenre.Text = filmInfo.genre;
+			tbDirector.Text = filmInfo.director;
+			rtbActors.Text = filmInfo.actors;
+			tbWorldDate.Text = filmInfo.worldPremiere;
+			tbRussianDate.Text = filmInfo.russianPremiere;
+			tbDiscDate.Text = filmInfo.discPremiere;
 		}
 
 		private void Loading()
 		{
 			if (tbCode.Text == "")
 				return;
-			btnLoad.BeginInvoke(new Action<bool>(s => btnLoad.Enabled = s), false);
-			btnClear.BeginInvoke(new Action<bool>(s => btnClear.Enabled = s), false);
-			btnOK.BeginInvoke(new Action<bool>(s => btnOK.Enabled = s), false);
-			FilmInfoToForm(ParsingService.GetInstance().GetFilmInfo(tbCode.Text));
-			btnLoad.BeginInvoke(new Action<bool>(s => btnLoad.Enabled = s), true);
-			btnClear.BeginInvoke(new Action<bool>(s => btnClear.Enabled = s), true);
-			btnOK.BeginInvoke(new Action<bool>(s => btnOK.Enabled = s), true);
+			SwitchButtonState(false);
+			try
+			{
+				FilmInfoToForm(ParsingService.GetFilmInfo(tbCode.Text));
+			}
+			catch
+			{
+				MessageBox.Show(@"Не удалось загрузить информацию о фильме!");
+			}
+			SwitchButtonState(true);
 		}
 
 		private void btnLoad_Click(object sender, EventArgs e)
 		{
 			new Thread(Loading).Start();
-			Loading();
 			loaded = true;
 		}
 
 		private void btnCalc_Click(object sender, EventArgs e)
 		{
-			CalcForm.GetInstance().ShowDialog();
+			new CalcForm().ShowDialog();
 		}
 	}
 }

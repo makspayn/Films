@@ -1,29 +1,18 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using Films.Rip;
+using Films.Services;
 
 namespace Films.Forms
 {
 	public partial class CardForm : Form
 	{
-		private static CardForm instance;
 		private Film film;
-		private RipCreator creator;
 
-		private CardForm()
+		public CardForm(Film film)
 		{
 			InitializeComponent();
-		}
-
-		public static CardForm GetInstance(Film film)
-		{
-			if (instance == null)
-			{
-				instance = new CardForm();
-			}
-			instance.film = film;
-			return instance;
+			this.film = film;
 		}
 
 		private void Render()
@@ -53,7 +42,7 @@ namespace Films.Forms
 			label12.Top = lblTranslate.Bottom; lblVideo.Top = lblTranslate.Bottom;
 			lblAudio.Text = $"{film.audioCodec}, {film.channels} ch, {film.audioKbps} Kbps";
 			label13.Top = lblVideo.Bottom; lblAudio.Top = lblVideo.Bottom;
-			lblSize.Text = FilmRip.GetRipSize(film.duration, film.videoKbps, film.audioKbps, film.originalWidth, film.originalHeight, film.fps);
+			lblSize.Text = RipService.GetRipSize(film.duration, film.videoKbps, film.audioKbps, film.originalWidth, film.originalHeight, film.fps);
 			label14.Top = lblAudio.Bottom; lblSize.Top = lblAudio.Bottom;
 			int point = label14.Bottom;
 			if (lblLink.Bottom > point)
@@ -61,7 +50,6 @@ namespace Films.Forms
 				point = lblLink.Bottom;
 			}
 			label15.Left = (int)((Size.Width - label15.Size.Width) / 2.0); label15.Top = point + 10;
-			cbFormat.Left = label15.Right + 10; cbFormat.Top = point + 12; cbFormat.SelectedIndex = 0;
 			dgRips.Top = label15.Bottom + 10;
 			DoRips();
 			AutoScrollPosition = new Point(0, 0);
@@ -70,13 +58,7 @@ namespace Films.Forms
 		private void DoRips()
 		{
 			dgRips.Rows.Clear();
-			switch (cbFormat.SelectedIndex)
-			{
-				case 0: creator = new MkvCreator(); break;
-				case 1: creator = new AviCreator(); break;
-				default: creator = new MkvCreator(); break;
-			}
-			FilmRip[] rips = creator.Create(film);
+			FilmRip[] rips = RipService.CreateRip(film);
 			for (int i = 0; i < rips.Length; i++)
 			{
 				dgRips.Rows.Add();
@@ -97,16 +79,16 @@ namespace Films.Forms
 			if (film.code == "") return;
 			string poster = $"http://www.kinopoisk.ru/images/film_big/{film.code}.jpg";
 			pbPoster.LoadAsync(poster);
-			pbPoster.LoadCompleted += ((senderLoad, eLoad) =>
+			pbPoster.LoadCompleted += (senderLoad, eLoad) =>
 			{
 				Render();
-			});
+			};
 			string rating = $"http://rating.kinopoisk.ru/{film.code}.gif";
 			pbRating.LoadAsync(rating);
-			pbRating.LoadCompleted += ((senderLoad, eLoad) =>
+			pbRating.LoadCompleted += (senderLoad, eLoad) =>
 			{
 				Render();
-			});
+			};
 
 		}
 
@@ -123,11 +105,6 @@ namespace Films.Forms
 			{
 				MessageBox.Show($"Невозможно перейти по ссылке: {film.link}");
 			}
-		}
-
-		private void cbFormat_SelectedIndexChanged(object sender, EventArgs e)
-		{
-			DoRips();
 		}
 	}
 }

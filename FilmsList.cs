@@ -4,7 +4,7 @@ using System.Drawing;
 
 namespace Films
 {
-	public struct Film
+	public class Film
 	{
 		public string russianTitle;
 		public string originalTitle;
@@ -72,6 +72,18 @@ namespace Films
 			return films[index];
 		}
 
+		public int GetFilmIndex(Film film)
+		{
+			for (int i = 0; i < films.Count; i++)
+			{
+				if (films[i] == film)
+				{
+					return i;
+				}
+			}
+			return -1;
+		}
+
 		public string GetFilmDisplayedName(int index)
 		{
 			return GetFilmDisplayedName(films[index]);
@@ -96,7 +108,10 @@ namespace Films
 		public string GetFilmQuality(int index)
 		{
 			Film film = films[index];
-			string quality = $"{film.qualityTitle} {film.qualityPixel} {film.videoKbps} Kbps, {film.audioCodec} {film.channels} ch {film.audioKbps} Kbps - {film.translateTitle} {film.translateComment}";
+			string quality = $"{film.qualityTitle} {film.qualityPixel} " +
+			                 $"{film.videoKbps} Kbps, {film.audioCodec} " +
+			                 $"{film.channels} ch {film.audioKbps} Kbps - " +
+			                 $"{film.translateTitle} {film.translateComment}";
 			return quality;
 		}
 

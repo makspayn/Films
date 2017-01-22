@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Globalization;
+using Films.Services;
 
-namespace Films.Rip
+namespace Films
 {
-	public class MkvRip : FilmRip
+	public class FilmRip
 	{
 		private Film film;
 		private string title;
@@ -15,7 +17,7 @@ namespace Films.Rip
 		private int videoKbps, audioKbps;
 		private int channels;
 
-		public MkvRip(Film film, string title, int maxHeight, double qualityVideo, double fps, int qualityAudio, int maxChannels)
+		public FilmRip(Film film, string title, int maxHeight, double qualityVideo, double fps, int qualityAudio, int maxChannels)
 		{
 			this.film = film;
 			this.title = title;
@@ -26,12 +28,12 @@ namespace Films.Rip
 			this.maxChannels = maxChannels;
 		}
 
-		public override string GetTitle()
+		public string GetTitle()
 		{
 			return title;
 		}
 
-		public override string GetVideo()
+		public string GetVideo()
 		{
 			double aspect = film.width / (double) film.height;
 			if (aspect < 1.777) {
@@ -58,16 +60,16 @@ namespace Films.Rip
 			return $"{width}x{height}, {videoKbps} Kbps, {fps} fps";
 		}
 
-		public override string GetAudio()
+		public string GetAudio()
 		{
 			channels = film.channels < maxChannels ? film.channels : maxChannels;
 			audioKbps = qualityAudio * channels;
 			return $"{channels} ch, {audioKbps} Kbps";
 		}
 
-		public override string GetSize()
+		public string GetSize()
 		{
-			return GetRipSize(film.duration, videoKbps, audioKbps, width, height, fps);
+			return RipService.GetRipSize(film.duration, videoKbps, audioKbps, width, height, fps);
 		}
 	}
 }

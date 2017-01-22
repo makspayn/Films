@@ -3,35 +3,32 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.IO;
 using System.Net;
-using Films.Rip;
+using System.Threading;
+using Films.Services;
 
 namespace Films.Forms
 {
 	public partial class CalcForm : Form
 	{
-		private static CalcForm instance;
 		private Bitmap bmpOriginal;
 		private Bitmap bmp;
-		private bool analyzing;
+		private bool canResize;
 		private int left, up, right, down;
 		private int sensetivity;
+		private Thread loadThread;
+		private Thread analyzeThread;
 
-		private CalcForm()
+		public CalcForm()
 		{
 			InitializeComponent();
 			bmpOriginal = null;
 			bmp = null;
-			analyzing = false;
+			canResize = false;
 			left = 0;
 			up = 0;
 			right = 0;
 			down = 0;
 			sensetivity = (int) numSensitivity.Value;
-		}
-
-		public static CalcForm GetInstance()
-		{
-			return instance ?? (instance = new CalcForm());
 		}
 
 		private void btnCalc_Click(object sender, EventArgs e)
@@ -48,8 +45,7 @@ namespace Films.Forms
 				double fps = Convert.ToDouble(tbFPS.Text);
 				int qualityAudio = Convert.ToInt32(tbQualityAudio.Text);
 				dgRips.Rows.Clear();
-				RipCreator creator = new MkvCreator();
-				FilmRip[] rips = creator.Create(film, qualityVideo, fps, qualityAudio);
+				FilmRip[] rips = RipService.CreateRip(film, qualityVideo, fps, qualityAudio);
 				for (int i = 0; i < rips.Length; i++) {
 					dgRips.Rows.Add();
 					dgRips.Rows[i].Cells[0].Value = rips[i].GetTitle();
@@ -77,7 +73,14 @@ namespace Films.Forms
 			}
 		}
 
-		private void btnLoad_Click(object sender, EventArgs e)
+		private void SwitchButtonState(bool state)
+		{
+			canResize = state;
+			btnLoad.Enabled = state;
+			btnAnalyse.Enabled = state;
+		}
+
+		private void LoadPicture()
 		{
 			WebRequest request;
 			try
@@ -89,9 +92,9 @@ namespace Films.Forms
 				MessageBox.Show(@"Проверьте корректность заполнения всех полей!");
 				return;
 			}
-			btnLoad.Enabled = false;
 			try
 			{
+				SwitchButtonState(false);
 				WebResponse response = request.GetResponse();
 				using (Stream responseStream = response.GetResponseStream())
 				{
@@ -106,7 +109,7 @@ namespace Films.Forms
 			catch
 			{
 				MessageBox.Show(@"Невозможо загрузить изображение!");
-				btnLoad.Enabled = true;
+				SwitchButtonState(true);
 				return;
 			}
 			pbFrame.Image = bmp;
@@ -124,8 +127,15 @@ namespace Films.Forms
 			up = 0;
 			right = 0;
 			down = 0;
-			sensetivity = (int) numSensitivity.Value;
-			btnLoad.Enabled = true;
+			sensetivity = (int)numSensitivity.Value;
+			SwitchButtonState(true);
+		}
+
+		private void btnLoad_Click(object sender, EventArgs e)
+		{
+			loadThread = new Thread(LoadPicture);
+			loadThread.IsBackground = true;
+			loadThread.Start();
 		}
 
 		private bool IsBlack(Color color)
@@ -150,6 +160,12 @@ namespace Films.Forms
 			label17.Top = pbFrame.Bottom + 10; numDown.Top = pbFrame.Bottom + 10;
 			label19.Top = label17.Bottom + 10; numSensitivity.Top = label17.Bottom + 10;
 			btnAnalyse.Top = pbFrame.Bottom + 10; label18.Top = pbFrame.Bottom + 10;
+		}
+
+		private void CalcForm_FormClosing(object sender, FormClosingEventArgs e)
+		{
+			loadThread?.Abort();
+			analyzeThread?.Abort();
 		}
 
 		private void ResizeBitMap()
@@ -218,6 +234,74 @@ namespace Films.Forms
 			label18.Text = $"{bmp.Width} x {bmp.Height} -> {bmp.Width - numLeft.Value - numRight.Value} x {bmp.Height - numUp.Value - numDown.Value}";
 		}
 
+		private void Analyze()
+		{
+			pbFrame.Image = null;
+			SwitchButtonState(false);
+			for (int i = 0; i < bmp.Width; i++)
+			{
+				for (int j = 0; j < bmp.Height; j++)
+				{
+					bmp.SetPixel(i, j, bmpOriginal.GetPixel(i, j));
+				}
+			}
+			bool flag;
+			for (int i = 0; i < bmp.Width / 2; i++)
+			{
+				flag = false;
+				for (int j = 0; j < bmp.Height; j++)
+				{
+					if (IsBlack(bmp.GetPixel(i, j))) continue;
+					flag = true;
+					break;
+				}
+				if (!flag) continue;
+				numLeft.Value = i;
+				break;
+			}
+			for (int i = bmp.Width - 1; i > bmp.Width / 2; i--)
+			{
+				flag = false;
+				for (int j = 0; j < bmp.Height; j++)
+				{
+					if (IsBlack(bmp.GetPixel(i, j))) continue;
+					flag = true;
+					break;
+				}
+				if (!flag) continue;
+				numRight.Value = bmp.Width - 1 - i;
+				break;
+			}
+			for (int j = 0; j < bmp.Height / 2; j++)
+			{
+				flag = false;
+				for (int i = 0; i < bmp.Width; i++)
+				{
+					if (IsBlack(bmp.GetPixel(i, j))) continue;
+					flag = true;
+					break;
+				}
+				if (!flag) continue;
+				numUp.Value = j;
+				break;
+			}
+			for (int j = bmp.Height - 1; j > bmp.Height / 2; j--)
+			{
+				flag = false;
+				for (int i = 0; i < bmp.Width; i++)
+				{
+					if (IsBlack(bmp.GetPixel(i, j))) continue;
+					flag = true;
+					break;
+				}
+				if (!flag) continue;
+				numDown.Value = bmp.Height - 1 - j;
+				break;
+			}
+			ResizeBitMap();
+			SwitchButtonState(true);
+		}
+
 		private void btnAnalyse_Click(object sender, EventArgs e)
 		{
 			if (bmp == null || bmpOriginal == null)
@@ -234,67 +318,14 @@ namespace Films.Forms
 			right = 0;
 			down = 0;
 			sensetivity = (int) numSensitivity.Value;
-			btnAnalyse.Enabled = false;
-			Application.DoEvents();
-			analyzing = true;
-			for (int i = 0; i < bmp.Width; i++) {
-				for (int j = 0; j < bmp.Height; j++) {
-					bmp.SetPixel(i, j, bmpOriginal.GetPixel(i, j));
-				}
-			}
-			bool flag;
-			for (int i = 0; i < bmp.Width / 2; i++) {
-				flag = false;
-				for (int j = 0; j < bmp.Height; j++) {
-					if (IsBlack(bmp.GetPixel(i, j))) continue;
-					flag = true;
-					break;
-				}
-				if (!flag) continue;
-				numLeft.Value = i;
-				break;
-			}
-			for (int i = bmp.Width - 1; i > bmp.Width / 2; i--) {
-				flag = false;
-				for (int j = 0; j < bmp.Height; j++) {
-					if (IsBlack(bmp.GetPixel(i, j))) continue;
-					flag = true;
-					break;
-				}
-				if (!flag) continue;
-				numRight.Value = bmp.Width - 1 - i;
-				break;
-			}
-			for (int j = 0; j < bmp.Height / 2; j++) {
-				flag = false;
-				for (int i = 0; i < bmp.Width; i++) {
-					if (IsBlack(bmp.GetPixel(i, j))) continue;
-					flag = true;
-					break;
-				}
-				if (!flag) continue;
-				numUp.Value = j;
-				break;
-			}
-			for (int j = bmp.Height - 1; j > bmp.Height / 2; j--) {
-				flag = false;
-				for (int i = 0; i < bmp.Width; i++) {
-					if (IsBlack(bmp.GetPixel(i, j))) continue;
-					flag = true;
-					break;
-				}
-				if (!flag) continue;
-				numDown.Value = bmp.Height - 1 - j;
-				break;
-			}
-			ResizeBitMap();
-			analyzing = false;
-			btnAnalyse.Enabled = true;
+			analyzeThread = new Thread(Analyze);
+			analyzeThread.IsBackground = true;
+			analyzeThread.Start();
 		}
 
 		private void num_ValueChanged(object sender, EventArgs e)
 		{
-			if (!analyzing) {
+			if (canResize) {
 				ResizeBitMap();
 			}
 		}

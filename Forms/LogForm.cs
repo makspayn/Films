@@ -6,33 +6,23 @@ namespace Films.Forms
 {
 	public partial class LogForm : Form
 	{
-		private static LogForm instance;
 		private MainForm frMain;
 		private FilmsList films;
 		private UpdateService updateService;
 
-		private LogForm()
+		public LogForm()
 		{
 			InitializeComponent();
 			frMain = MainForm.GetInstance();
 			updateService = UpdateService.GetInstance();
-		}
-
-		public static LogForm GetInstance()
-		{
-			if (instance == null)
-			{
-				instance = new LogForm();
-			}
-			instance.films = instance.frMain.GetFilmsList();
-			return instance;
+			films = frMain.GetFilmsList();
 		}
 
 		private void LogForm_Shown(object sender, EventArgs e)
 		{
 			lbInfo.Items.Clear();
 			foreach (LogUnit logUnit in updateService.GetLog()) {
-				lbInfo.Items.Add(films.GetFilmDisplayedName(logUnit.filmIndex));
+				lbInfo.Items.Add(films.GetFilmDisplayedName(logUnit.film));
 			}
 		}
 
@@ -41,7 +31,7 @@ namespace Films.Forms
 			if (lbInfo.SelectedIndex == -1)
 				return;
 			LogUnit logUnit = (LogUnit) updateService.GetLog()[lbInfo.SelectedIndex];
-			Film film = films.GetFilm(logUnit.filmIndex);
+			Film film = logUnit.film;
 			FilmInfo filmInfo = logUnit.filmInfo;
 			tbRussianTitle.Text = film.russianTitle;
 			tbOriginalTitle.Text = film.originalTitle;
@@ -70,7 +60,13 @@ namespace Films.Forms
 			if (lbInfo.SelectedIndex == -1)
 				return;
 			LogUnit logUnit = (LogUnit) updateService.GetLog()[lbInfo.SelectedIndex];
-			Film film = films.GetFilm(logUnit.filmIndex);
+			Film film = logUnit.film;
+			int index = films.GetFilmIndex(film);
+			if (index == -1)
+			{
+				MessageBox.Show(@"Данный фильм не найден в базе!");
+				return;
+			}
 			film.russianTitle = tbRusTitle.Text;
 			film.originalTitle = tbOrigTitle.Text;
 			film.year = tbY.Text;
@@ -82,10 +78,10 @@ namespace Films.Forms
 			film.russianDate = tbRDate.Text;
 			film.discDate = tbDDate.Text;
 			film.dataCheck = DateTime.Now.ToString();     
-			films.Edit(film, logUnit.filmIndex);
+			films.Edit(film, index);
 			updateService.GetLog().RemoveAt(lbInfo.SelectedIndex);
 			frMain.UpdateEvent();
-			frMain.FilmUpdateEvent(logUnit.filmIndex);
+			frMain.FilmUpdateEvent(index);
 			lbInfo.Items.RemoveAt(lbInfo.SelectedIndex);
 			tbRussianTitle.Clear();
 			tbOriginalTitle.Clear();

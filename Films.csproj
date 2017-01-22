@@ -68,15 +68,8 @@
     <Compile Include="Forms\EditForm.Designer.cs">
       <DependentUpon>EditForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Rip\AviRip.cs" />
-    <Compile Include="Rip\FilmRip.cs" />
-    <Compile Include="Rip\MkvRip.cs" />
+    <Compile Include="FilmRip.cs" />
     <Compile Include="FilmsList.cs" />
-    <Compile Include="Rip\AviCreator.cs" />
-    <Compile Include="Rip\MkvCreator.cs" />
-    <Compile Include="Rip\RipCreator.cs" />
-    <Compile Include="Services\IObservable.cs" />
-    <Compile Include="Services\IObserver.cs" />
     <Compile Include="Forms\LogForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,12 +85,11 @@
     <Compile Include="Services\ParsingService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Forms\SearchForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Forms\SearchForm.cs" />
     <Compile Include="Forms\SearchForm.Designer.cs">
       <DependentUpon>SearchForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Services\RipService.cs" />
     <Compile Include="Services\UpdateService.cs" />
     <EmbeddedResource Include="Forms\CardForm.resx">
       <DependentUpon>CardForm.cs</DependentUpon>

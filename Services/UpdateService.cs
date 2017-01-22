@@ -1,28 +1,26 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
 using System.Threading;
 using Films.Forms;
 
 namespace Films.Services
 {
-	public struct LogUnit
+	public class LogUnit
 	{
 		public FilmInfo filmInfo;
-		public int filmIndex;
+		public Film film;
 	}
 
-	public struct UpdateStatus
+	public class UpdateStatus
 	{
 		public int countChecked;
 		public int countChanged;
 		public string title;
 	}
 
-	class UpdateService : IObservable
+	public class UpdateService
 	{
 		private static UpdateService instance;
-		private List<IObserver> observers;
 		private ArrayList log;
 		private Thread threadUpdate;
 		private MainForm frMain;
@@ -32,7 +30,6 @@ namespace Films.Services
 
 		private UpdateService()
 		{
-			observers = new List<IObserver>();
 			log = ArrayList.Synchronized(new ArrayList());
 			frMain = MainForm.GetInstance();
 		}
@@ -42,45 +39,25 @@ namespace Films.Services
 			return instance ?? (instance = new UpdateService());
 		}
 
-		public void AddObserver(IObserver observer)
+		public void UpdateStatus()
 		{
-			if (!observers.Contains(observer))
-			{
-				observers.Add(observer);
-			}
-		}
-
-		public void RemoveObserver(IObserver observer)
-		{
-			if (observers.Contains(observer))
-			{
-				observers.Remove(observer);
-			}
-		}
-
-		public void NotifyObservers()
-		{
-			foreach (IObserver observer in observers)
-			{
-				observer.UpdateEvent();
-			}
+			frMain.UpdateEvent();
 		}
 
 		public void Start()
 		{
-			films = frMain.GetFilmsList();
 			if (threadUpdate != null)
 				return;
-			threadUpdate = new Thread(Update);
 			log.Clear();
+			films = frMain.GetFilmsList();
+			threadUpdate = new Thread(Update);
+			threadUpdate.IsBackground = true;
 			threadUpdate.Start();
 		}
 
 		public void Stop()
 		{
-			if (threadUpdate == null)
-				return;
-			threadUpdate.Abort();
+			threadUpdate?.Abort();
 			threadUpdate = null;
 		}
 
@@ -91,10 +68,12 @@ namespace Films.Services
 
 		public UpdateStatus GetStatus()
 		{
-			UpdateStatus status = new UpdateStatus();
-			status.countChecked = countChecked;
-			status.countChanged = log.Count;
-			status.title = title;
+			UpdateStatus status = new UpdateStatus
+			{
+				countChecked = countChecked,
+				countChanged = log.Count,
+				title = title
+			};
 			return status;
 		}
 
@@ -105,7 +84,7 @@ namespace Films.Services
 			{
 				Film film = films.GetFilm(i);
 				title = films.GetFilmDisplayedName(i);
-				NotifyObservers();
+				UpdateStatus();
 				if (film.code == "")
 				{
 					continue;
@@ -115,55 +94,34 @@ namespace Films.Services
 				DateTime dtCheck = Convert.ToDateTime(film.dataCheck);
 				TimeSpan ts1 = dtNow - dtPremiere;
 				TimeSpan ts2 = dtNow - dtCheck;
-				if ((ts1.TotalDays / 10.0) > ts2.TotalDays)
+				if (ts1.TotalDays / 10.0 > ts2.TotalDays)
 				{
 					continue;
 				}
 				countChecked++;
-				bool flag = false;
-				FilmInfo filmInfo = ParsingService.GetInstance().GetFilmInfo(film.code);
-				if (filmInfo.originalTitle != film.originalTitle)
+				FilmInfo filmInfo;
+				try
 				{
-					flag = true;
+					filmInfo = ParsingService.GetFilmInfo(film.code);
 				}
-				if (filmInfo.year != film.year)
+				catch
 				{
-					flag = true;
+					continue;
 				}
-				if (filmInfo.country != film.country)
-				{
-					flag = true;
-				}
-				if (filmInfo.director != film.director)
-				{
-					flag = true;
-				}
-				if (filmInfo.genre != film.genre)
-				{
-					flag = true;
-				}
-				if (filmInfo.actors != film.actors)
-				{
-					flag = true;
-				}
-				if (filmInfo.worldPremiere != film.worldDate)
-				{
-					flag = true;
-				}
-				if (filmInfo.russianPremiere != film.russianDate)
-				{
-					flag = true;
-				}
-				if (filmInfo.discPremiere != film.discDate)
-				{
-					flag = true;
-				}
-				if (flag)
+				if (filmInfo.originalTitle != film.originalTitle || 
+					filmInfo.year != film.year || 
+					filmInfo.country != film.country || 
+					filmInfo.director != film.director || 
+					filmInfo.genre != film.genre || 
+					filmInfo.actors != film.actors || 
+					filmInfo.worldPremiere != film.worldDate || 
+					filmInfo.russianPremiere != film.russianDate || 
+					filmInfo.discPremiere != film.discDate)
 				{
 					LogUnit logUnit = new LogUnit
 					{
 						filmInfo = filmInfo,
-						filmIndex = i
+						film = film
 					};
 					log.Add(logUnit);
 				}
@@ -174,7 +132,7 @@ namespace Films.Services
 				}
 			}
 			title = "";
-			NotifyObservers();
+			UpdateStatus();
 		}
 	}
 }

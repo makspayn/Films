@@ -6,7 +6,7 @@ using Films.Services;
 
 namespace Films.Forms
 {
-	public partial class MainForm : Form, IObserver
+	public partial class MainForm : Form
 	{
 		private static MainForm instance;
 		private FilmsList films;
@@ -18,6 +18,7 @@ namespace Films.Forms
 			InitializeComponent();
 			films = new FilmsList();
 			changed = false;
+			CheckForIllegalCrossThreadCalls = false;
 		}
 
 		public static MainForm GetInstance()
@@ -28,16 +29,9 @@ namespace Films.Forms
 		public void UpdateEvent()
 		{
 			UpdateStatus status = updateService.GetStatus();
-			if (lblFilm.InvokeRequired || lblFilms.InvokeRequired)
-			{
-				lblFilm.BeginInvoke(new Action<string>(s => lblFilm.Text = s), $"Проверяется: {status.title}");
-				lblFilms.BeginInvoke(new Action<string>(s => lblFilms.Text = s), $"Проверено: {status.countChecked} Изменения: {status.countChanged}");
-			}
-			else
-			{
-				lblFilm.Text = $"Проверяется: {status.title}";
-				lblFilms.Text = $"Проверено: {status.countChecked} Изменения: {status.countChanged}";
-			}
+			lblFilm.Text = $"Проверяется: {status.title}";
+			lblFilms.Text = $"Проверено: {status.countChecked} " +
+			                $"Изменения: {status.countChanged}";
 		}
 
 		public void SearchEvent(int index)
@@ -70,7 +64,7 @@ namespace Films.Forms
 		{
 			dgFilms.Rows.Add();
 			films.Add(new Film());
-			EditForm.GetInstance(dgFilms.Rows.Count - 1).ShowDialog();
+			new EditForm(dgFilms.Rows.Count - 1).ShowDialog();
 			FilmToForm(dgFilms.Rows.Count - 1);
 			changed = true;
 		}
@@ -82,7 +76,7 @@ namespace Films.Forms
 				Film film = new Film();
 				dgFilms.Rows.Insert(dgFilms.CurrentRow.Index, 1);
 				films.Insert(film, dgFilms.CurrentRow.Index - 1);
-				EditForm.GetInstance(dgFilms.CurrentRow.Index - 1).ShowDialog();
+				new EditForm(dgFilms.CurrentRow.Index - 1).ShowDialog();
 				FilmToForm(dgFilms.CurrentRow.Index - 1);
 				changed = true;
 			}
@@ -96,7 +90,7 @@ namespace Films.Forms
 		{
 			if (dgFilms.CurrentRow == null)
 				return;
-			EditForm.GetInstance(dgFilms.CurrentRow.Index).ShowDialog();
+			new EditForm(dgFilms.CurrentRow.Index).ShowDialog();
 			FilmToForm(dgFilms.CurrentRow.Index);
 			changed = true;
 		}
@@ -125,7 +119,6 @@ namespace Films.Forms
 				return;
 			}
 			updateService = UpdateService.GetInstance();
-			updateService.AddObserver(this);
 			updateService.Stop();
 			btnOpen.Enabled = false;
 			dgFilms.Rows.Clear();
@@ -163,7 +156,7 @@ namespace Films.Forms
 		private void dgFilms_DoubleClick(object sender, EventArgs e)
 		{
 			if (dgFilms.Rows.Count != 0 && dgFilms.CurrentRow != null) {
-				CardForm.GetInstance(films.GetFilm(dgFilms.CurrentRow.Index)).ShowDialog();
+				new CardForm(films.GetFilm(dgFilms.CurrentRow.Index)).ShowDialog();
 			}
 		}
 
@@ -216,17 +209,17 @@ namespace Films.Forms
 
 		private void btnFind_Click(object sender, EventArgs e)
 		{
-			SearchForm.GetInstance().ShowDialog();
+			new SearchForm().ShowDialog();
 		}
 
 		private void btnCoding_Click(object sender, EventArgs e)
 		{
-			CalcForm.GetInstance().ShowDialog();
+			new CalcForm().ShowDialog();
 		}
 
 		private void btnLog_Click(object sender, EventArgs e)
 		{
-			LogForm.GetInstance().ShowDialog();
+			new LogForm().ShowDialog();
 		}
 	}
 }

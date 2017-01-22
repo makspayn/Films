@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Films.Forms
 {
-	public struct Result
+	public class Result
 	{
 		public string Title;
 		public int Index;
@@ -12,25 +12,15 @@ namespace Films.Forms
 
 	public partial class SearchForm : Form
 	{
-		private static SearchForm instance;
 		private MainForm frMain;
 		private FilmsList films;
 		private List<Result> arrayResult;
 
-		private SearchForm()
+		public SearchForm()
 		{
 			InitializeComponent();
 			frMain = MainForm.GetInstance();
-		}
-
-		public static SearchForm GetInstance()
-		{
-			if (instance == null)
-			{
-				instance = new SearchForm();
-			}
-			instance.films = instance.frMain.GetFilmsList();
-			return instance;
+			films = frMain.GetFilmsList();
 		}
 
 		private void btnSearch_Click(object sender, EventArgs e)
@@ -44,7 +34,10 @@ namespace Films.Forms
 			arrayResult = new List<Result>();
 			for (int i = 0; i < films.Length; i++) {
 				Film film = films.GetFilm(i);
-				if (!film.russianTitle.Contains(searchText) && !film.originalTitle.Contains(searchText))
+				string russianTitle = film.russianTitle.ToLower();
+				string originalTitle = film.originalTitle.ToLower();
+				if (!russianTitle.Contains(searchText.ToLower()) && 
+					!originalTitle.Contains(searchText.ToLower()))
 					continue;
 				Result result = new Result
 				{
@@ -64,6 +57,14 @@ namespace Films.Forms
 			Result result = arrayResult[lbResults.SelectedIndex];
 			frMain.SearchEvent(result.Index);
 			Close();
+		}
+
+		private void tbTitle_KeyPress(object sender, KeyPressEventArgs e)
+		{
+			if (e.KeyChar == 0xD)
+			{
+				btnSearch.PerformClick();
+			}
 		}
 	}
 }
