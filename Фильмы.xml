@@ -261,6 +261,39 @@
     <dataCheck>27.08.2016 17:17:52</dataCheck>
   </Film>
   <Film>
+    <russianTitle>Марья-искусница</russianTitle>
+    <originalTitle />
+    <year>1960</year>
+    <country>СССР</country>
+    <genre>фэнтези, семейный</genre>
+    <director>Александр Роу</director>
+    <actors>Михаил Кузнецов, Виктор Перевалов, Анатолий Кубацкий, Георгий Милляр, Ольга Хачапуридзе, Нинель Мышкова, Вера Алтайская, Сергей Троицкий, Александр Хвыля, Валентин Брылеев</actors>
+    <worldDate />
+    <russianDate>24.03.1960</russianDate>
+    <discDate>18.06.2005</discDate>
+    <description>Закончилась у солдата служба, спешит солдат домой. Но по пути в родные места довелось ему сделать еще одно доброе дело: помочь мальчику Иванушке вызволить из плена матушку свою — Марью-Искусницу.
+Уж как ни старался могущественный и хитрый царь Водокрут совсей своей придворной нечистью, так и не смог побороть солдатскую смекалку и доброе сердце…</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=324375</link>
+    <code>46548</code>
+    <width>734</width>
+    <height>576</height>
+    <duration>01:14:55</duration>
+    <qualityTitle>DVD</qualityTitle>
+    <qualityPixel>576p</qualityPixel>
+    <translateTitle>Оригинал</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>MPEG-2</videoCodec>
+    <originalWidth>720</originalWidth>
+    <originalHeight>576</originalHeight>
+    <videoKbps>5978</videoKbps>
+    <fps>25</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>448</audioKbps>
+    <dataCheck>08.01.2017 17:47:38</dataCheck>
+  </Film>
+  <Film>
     <russianTitle>Полосатый рейс</russianTitle>
     <originalTitle />
     <year>1961</year>
@@ -1267,6 +1300,39 @@
     <channels>2</channels>
     <audioKbps>192</audioKbps>
     <dataCheck>27.08.2016 15:55:23</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Варвара-краса, длинная коса</russianTitle>
+    <originalTitle />
+    <year>1969</year>
+    <country>СССР</country>
+    <genre>фэнтези, драма, мелодрама, комедия, семейный</genre>
+    <director>Александр Роу</director>
+    <actors>Михаил Пуговкин, Георгий Милляр, Анатолий Кубацкий, Сергей Николаев, Алексей Катышев, Татьяна Клюева, Варвара Попова, Лидия Королёва, Александр Хвыля, Борис Сичкин</actors>
+    <worldDate />
+    <russianDate>30.12.1970</russianDate>
+    <discDate>27.08.2012</discDate>
+    <description>Жил да был царь Еремей. Отправился он в годовой поход, чтобы составить опись своего царства-государства. Наклонился он как-то к колодцу напиться, но тут его и схватил подводный царь Чудо — Юдо. Да потребовал выкуп за освобождение — такой, о чем Еремей не ведал и не гадал, что оно есть в его царстве. Царь согласился, еще не зная, что в его отсутствие царица родила ему сына.
+Фильм рассказывает о том, как несмотря на всевозможные коварства и интриги, Андрей рыбацкий сын и Варвара повстречались и полюбили друг друга, как царю Еремею пришлось краснеть за своего ленивого и глупого наследника, и как в конце концов все закончилось хорошо.</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=4175501</link>
+    <code>45665</code>
+    <width>1920</width>
+    <height>824</height>
+    <duration>01:20:24</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080i</qualityPixel>
+    <translateTitle>Оригинал</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>22988</videoKbps>
+    <fps>25</fps>
+    <audioCodec>DTS</audioCodec>
+    <channels>6</channels>
+    <audioKbps>768</audioKbps>
+    <dataCheck>08.01.2017 17:47:38</dataCheck>
   </Film>
   <Film>
     <russianTitle>12 стульев</russianTitle>
@@ -3929,7 +3995,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>25.08.2016 19:52:21</dataCheck>
+    <dataCheck>01.01.2017 9:25:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Рыжая Соня</russianTitle>
@@ -5363,7 +5429,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>25.08.2016 12:05:35</dataCheck>
+    <dataCheck>22.12.2016 7:06:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Назад в будущее 2</russianTitle>
@@ -6853,25 +6919,25 @@
     <description>В секретной военной лаборатории проводятся эксперименты по воскрешению мертвецов и превращению их в смертоносное биологическое оружие.
 Двое молодых людей, Курт, сын руководителя этого необычного научного проекта, и его девушка Джули, становятся случайными свидетелями исследований, и сбегают, не увидев жуткого финала одного из опытов. Ребята попадают в ужасную аварию и Джули погибает. Но Курт знает, что предпринять — вернуть свою любимую из мертвых в лаборатории отца.
 Но совершенно не предполагает какие кровавые события, за пределами самых кошмарных фантазий, ждут его впереди. Вместо любимой девушки он получает не поддающегося уничтожению монстра, чей укус превращает жертв в таких же зомби, жаждущих человеческой плоти.</description>
-    <link>http://kinozal.tv/details.php?id=1469471</link>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5339492</link>
     <code>36011</code>
-    <width>1006</width>
-    <height>576</height>
-    <duration>01:39:43</duration>
-    <qualityTitle>DVD</qualityTitle>
-    <qualityPixel>576p</qualityPixel>
+    <width>1920</width>
+    <height>1040</height>
+    <duration>01:36:57</duration>
+    <qualityTitle>BDRemux</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
     <translateTitle>Многоголосый</translateTitle>
     <translateComment>лицензия</translateComment>
     <Color>Хороший</Color>
-    <videoCodec>MPEG-2</videoCodec>
-    <originalWidth>1024</originalWidth>
-    <originalHeight>576</originalHeight>
-    <videoKbps>6986</videoKbps>
-    <fps>25</fps>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>26977</videoKbps>
+    <fps>23.976</fps>
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>22.08.2016 19:38:16</dataCheck>
+    <dataCheck>14.01.2017 13:42:36</dataCheck>
   </Film>
   <Film>
     <russianTitle>Страсти-мордасти во второй степени</russianTitle>
@@ -7048,27 +7114,27 @@
     <actors>Джо Мантенья, Лара Флинн Бойл, Джо Пантольяно, Брайан Хейли, Синтия Никсон, Фред Долтон Томпсон, Джон Невилл, Мэттью Глэйв, Адам Роберт Уортон, Джейкоб Джозеф Уортон</actors>
     <worldDate>01.07.1994</worldDate>
     <russianDate />
-    <discDate>29.11.2005</discDate>
+    <discDate />
     <description>Малыш Бинк путешествует по городу весь день: необычные места, потрясающие виды, но он гуляет совершенно один! Отчаянно разыскиваемый собственными родителями, ставший знаменитым, благодаря прессе, малыш противостоит группе гангстеров, охотящихся за ним ради денег, предложенных его богатыми родителями. Невозмутимый, собранный и абсолютно не сознающий всех разрушений, которые он производит, малыш создаст столько неприятностей бандитам, что никаких денег им не захочется!</description>
-    <link>https://rutracker.org/forum/viewtopic.php?t=4656085</link>
+    <link>http://kinozal.tv/details.php?id=1484152</link>
     <code>3912</code>
-    <width>1280</width>
-    <height>692</height>
-    <duration>01:38:50</duration>
+    <width>1914</width>
+    <height>1036</height>
+    <duration>01:38:49</duration>
     <qualityTitle>WEB-DL</qualityTitle>
-    <qualityPixel>720p</qualityPixel>
+    <qualityPixel>1080p</qualityPixel>
     <translateTitle>Многоголосый</translateTitle>
     <translateComment>лицензия</translateComment>
     <Color>Нейтральный</Color>
     <videoCodec>H.264</videoCodec>
-    <originalWidth>1280</originalWidth>
-    <originalHeight>692</originalHeight>
-    <videoKbps>4000</videoKbps>
+    <originalWidth>1914</originalWidth>
+    <originalHeight>1036</originalHeight>
+    <videoKbps>5335</videoKbps>
     <fps>23.976</fps>
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.08.2016 19:19:25</dataCheck>
+    <dataCheck>29.12.2016 19:23:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Правдивая ложь</russianTitle>
@@ -7409,25 +7475,25 @@
     <discDate />
     <description>Будучи единственным наследником богатейшего состояния мистера Рича, его сынишка Ричи живет в мире немыслимой роскоши. У него есть все, о чем только может мечтать мальчик этого возраста, все, что можно купить за деньги. Но этой тепличной жизни грозит опасность.
 Коварный мошенник Лоуренс ван Доу решил прикарманить все состояние Ричей и уже придумал хитроумный план. И пока старшие Ричи путешествуют где-то в море на своей яхте, молодой Ричи с помощью новых друзей и верного пса по кличке Доллар раскрывает замысел и спасает семейное достояние. Для себя же Ричи открывает одну истину — настоящая дружба стоит гораздо больше, чем все его состояние.</description>
-    <link>https://rutracker.org/forum/viewtopic.php?t=4574433</link>
+    <link>http://kinozal.tv/details.php?id=1509123</link>
     <code>19287</code>
-    <width>1914</width>
+    <width>1920</width>
     <height>1080</height>
-    <duration>01:34:30</duration>
+    <duration>01:34:28</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
     <translateComment>лицензия</translateComment>
     <Color>Нейтральный</Color>
     <videoCodec>H.264</videoCodec>
-    <originalWidth>1914</originalWidth>
+    <originalWidth>1920</originalWidth>
     <originalHeight>1080</originalHeight>
-    <videoKbps>5224</videoKbps>
+    <videoKbps>12185</videoKbps>
     <fps>23.976</fps>
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>22.08.2016 15:34:48</dataCheck>
+    <dataCheck>14.01.2017 13:18:11</dataCheck>
   </Film>
   <Film>
     <russianTitle>Плохие парни</russianTitle>
@@ -11330,25 +11396,25 @@
     <discDate>06.12.2011</discDate>
     <description>Жил-был в городе Ктограде человечек, и звали его — Гринч. Был он весь зеленый и волосатый, никто его не любил. Обиделся Гринч на ктовичей и ушел жить на одинокую, обдуваемую всеми ветрами гору. Сидел там в своей пещере и злился на весь свет. Больше всего Гринч ненавидел Рождество. В то время, как все население Ктограда веселилось от души, барометр и без того всегда плохого настроения Гринча показывал нечто ужасное.
 Каждое Рождество становилось для зеленого отшельника страшной пыткой. И вот однажды злобный житель горы решил покончить с этим праздником раз и навсегда. Пока беззаботные ктовичи сладко спали впредпраздничную ночь, вероломный Гринч решил украсть у горожан их Рождество.</description>
-    <link>https://rutracker.org/forum/viewtopic.php?t=2562898</link>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5325254</link>
     <code>5056</code>
     <width>1920</width>
-    <height>1040</height>
+    <height>1036</height>
     <duration>01:44:56</duration>
-    <qualityTitle>BDRemux</qualityTitle>
+    <qualityTitle>BD</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
     <translateComment>лицензия</translateComment>
     <Color>Хороший</Color>
-    <videoCodec>VC-1</videoCodec>
+    <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
     <originalHeight>1080</originalHeight>
-    <videoKbps>26226</videoKbps>
+    <videoKbps>29748</videoKbps>
     <fps>23.976</fps>
-    <audioCodec>AC3</audioCodec>
-    <channels>2</channels>
-    <audioKbps>192</audioKbps>
-    <dataCheck>18.08.2016 16:35:30</dataCheck>
+    <audioCodec>DTS</audioCodec>
+    <channels>6</channels>
+    <audioKbps>768</audioKbps>
+    <dataCheck>20.12.2016 7:05:29</dataCheck>
   </Film>
   <Film>
     <russianTitle>Бар «Гадкий койот»</russianTitle>
@@ -23446,6 +23512,38 @@
     <dataCheck>09.08.2016 9:06:25</dataCheck>
   </Film>
   <Film>
+    <russianTitle>Золотой компас</russianTitle>
+    <originalTitle>The Golden Compass</originalTitle>
+    <year>2007</year>
+    <country>США, Великобритания</country>
+    <genre>фэнтези, приключения, семейный</genre>
+    <director>Крис Вайц</director>
+    <actors>Николь Кидман, Дэниэл Крэйг, Дакота Блю Ричардс, Бен Уокер, Фредди Хаймор, Иэн МакКеллен, Ева Грин, Джим Картер, Том Кортни, Иэн МакШейн</actors>
+    <worldDate>27.11.2007</worldDate>
+    <russianDate>06.12.2007</russianDate>
+    <discDate>10.02.2011</discDate>
+    <description>Двенадцатилетняя Лира отправляется в удивительное путешествие к Северному Полюсу, чтобы спасти своего похищенного друга. На помощь к девочке приходят северные ведьмы под предводительством прекрасной Серафины Пеккала и огромный бронированный медведь. На пути их стоят зловещая Миссис Коултер и армия её монстров.</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=2898388</link>
+    <code>91843</code>
+    <width>1920</width>
+    <height>800</height>
+    <duration>01:53:17</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>VC-1</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>22631</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>448</audioKbps>
+    <dataCheck>08.01.2017 17:47:59</dataCheck>
+  </Film>
+  <Film>
     <russianTitle>Кошелек или жизнь</russianTitle>
     <originalTitle>Trick 'r Treat</originalTitle>
     <year>2007</year>
@@ -23475,7 +23573,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.08.2016 8:56:58</dataCheck>
+    <dataCheck>07.01.2017 17:43:37</dataCheck>
   </Film>
   <Film>
     <russianTitle>Американский пирог: Переполох в общаге</russianTitle>
@@ -27220,25 +27318,25 @@
     <russianDate />
     <discDate>21.02.2012</discDate>
     <description>Голод — это одно из самых страшных чувств человечества. Как далеко можно зайти, чтобы выжить в чрезвычайных обстоятельствах? Пятеро незнакомых друг с другом людей просыпаются в подземной темнице, из которой нет выхода. Вскоре они понимают, что стали жертвами садистского эксперимента по проверке желания человека выжить. Проходит день за днём без надежды на спасение, а вместо этого приходит чувство страшного голода, которое уничтожает всё человеческое в несчастных людях…</description>
-    <link>https://rutracker.org/forum/viewtopic.php?t=3969903</link>
+    <link>http://kinozal.tv/details.php?id=1505896</link>
     <code>403687</code>
-    <width>1024</width>
-    <height>576</height>
-    <duration>01:36:56</duration>
-    <qualityTitle>DVD</qualityTitle>
-    <qualityPixel>576p</qualityPixel>
+    <width>1920</width>
+    <height>1080</height>
+    <duration>01:36:57</duration>
+    <qualityTitle>BDRemux</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
     <translateTitle>Многоголосый</translateTitle>
     <translateComment>лицензия</translateComment>
     <Color>Хороший</Color>
-    <videoCodec>MPEG-2</videoCodec>
-    <originalWidth>1024</originalWidth>
-    <originalHeight>576</originalHeight>
-    <videoKbps>5194</videoKbps>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>19794</videoKbps>
     <fps>25</fps>
-    <audioCodec>AC3</audioCodec>
+    <audioCodec>DTS-HD HR</audioCodec>
     <channels>6</channels>
-    <audioKbps>384</audioKbps>
-    <dataCheck>24.07.2016 17:16:26</dataCheck>
+    <audioKbps>2046</audioKbps>
+    <dataCheck>05.01.2017 18:10:32</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ночь в музее 2</russianTitle>
@@ -28632,6 +28730,38 @@
     <channels>6</channels>
     <audioKbps>2013</audioKbps>
     <dataCheck>24.07.2016 11:09:22</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Рождественская история</russianTitle>
+    <originalTitle>A Christmas Carol</originalTitle>
+    <year>2009</year>
+    <country>США</country>
+    <genre>мультфильм, фэнтези, драма, семейный</genre>
+    <director>Роберт Земекис</director>
+    <actors>Джим Керри, Гари Олдман, Колин Фёрт, Кэри Элвис, Робин Райт, Боб Хоскинс, Стив Валентайн, Дэрил Сабара, Сэйдж Райан, Эмбер Гейни Миде</actors>
+    <worldDate>03.11.2009</worldDate>
+    <russianDate>19.11.2009</russianDate>
+    <discDate>09.11.2010</discDate>
+    <description>Это викторианская поучительная история о старом и ожесточившемся скупердяе Эбенезере Скрудже, который в течение одной ночи переживает испытание глубокого очищения. Мистер Скрудж — финансист/денежный меняла, который посвятил всю свою жизнь накоплению богатства. Он презирает всё, кроме денег, включая дружбу, любовь и рождественские праздники.</description>
+    <link>http://kinozal.tv/details.php?id=699385</link>
+    <code>391755</code>
+    <width>1920</width>
+    <height>800</height>
+    <duration>01:35:48</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>23917</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>640</audioKbps>
+    <dataCheck>08.01.2017 17:47:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>Сумерки. Сага. Новолуние</russianTitle>
@@ -34521,14 +34651,14 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2472</audioKbps>
-    <dataCheck>20.07.2016 11:51:21</dataCheck>
+    <dataCheck>22.01.2017 11:46:22</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хостел 3</russianTitle>
     <originalTitle>Hostel: Part III</originalTitle>
     <year>2011</year>
     <country>США</country>
-    <genre>ужасы, триллер, детектив</genre>
+    <genre>ужасы</genre>
     <director>Скотт Шпигель</director>
     <actors>Кип Парду, Брайан Хэллисей, Джон Хенсли, Сара Хабель, Крис Кой, Скайлер Стоун, Томас Кречман, Сулай Энао, Никола Шкрели, Деррик Карр</actors>
     <worldDate>22.12.2011</worldDate>
@@ -34553,7 +34683,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2287</audioKbps>
-    <dataCheck>20.07.2016 11:48:33</dataCheck>
+    <dataCheck>22.01.2017 11:46:38</dataCheck>
   </Film>
   <Film>
     <russianTitle>Иван Царевич и Серый Волк</russianTitle>
@@ -34585,7 +34715,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2590</audioKbps>
-    <dataCheck>20.07.2016 11:45:12</dataCheck>
+    <dataCheck>22.01.2017 11:46:20</dataCheck>
   </Film>
   <Film>
     <russianTitle>Монстр в Париже</russianTitle>
@@ -34617,7 +34747,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2017</audioKbps>
-    <dataCheck>20.07.2016 11:42:26</dataCheck>
+    <dataCheck>22.01.2017 11:46:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>О чём ещё говорят мужчины</russianTitle>
@@ -34649,7 +34779,7 @@
     <audioCodec>LPCM</audioCodec>
     <channels>6</channels>
     <audioKbps>6912</audioKbps>
-    <dataCheck>20.07.2016 11:38:55</dataCheck>
+    <dataCheck>22.01.2017 11:46:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Шерлок Холмс: Игра теней</russianTitle>
@@ -34681,7 +34811,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>20.07.2016 11:35:37</dataCheck>
+    <dataCheck>22.01.2017 11:46:15</dataCheck>
   </Film>
   <Film>
     <russianTitle>Элвин и бурундуки 3</russianTitle>
@@ -34713,7 +34843,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>20.07.2016 11:32:16</dataCheck>
+    <dataCheck>22.01.2017 11:46:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Моя безумная семья</russianTitle>
@@ -34746,7 +34876,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2254</audioKbps>
-    <dataCheck>20.07.2016 11:27:01</dataCheck>
+    <dataCheck>21.01.2017 8:08:51</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хранитель времени</russianTitle>
@@ -34778,7 +34908,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>20.07.2016 11:24:31</dataCheck>
+    <dataCheck>21.01.2017 8:08:48</dataCheck>
   </Film>
   <Film>
     <russianTitle>Контрабанда</russianTitle>
@@ -34810,7 +34940,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>20.07.2016 11:21:24</dataCheck>
+    <dataCheck>20.01.2017 7:14:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Царь скорпионов 3: Книга мертвых</russianTitle>
@@ -34842,7 +34972,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>20.07.2016 11:18:46</dataCheck>
+    <dataCheck>19.01.2017 18:18:45</dataCheck>
   </Film>
   <Film>
     <russianTitle>Другой мир: Пробуждение</russianTitle>
@@ -34874,7 +35004,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>20.07.2016 11:16:01</dataCheck>
+    <dataCheck>19.01.2017 7:05:20</dataCheck>
   </Film>
   <Film>
     <russianTitle>Камень</russianTitle>
@@ -34906,7 +35036,39 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>20.07.2016 11:13:31</dataCheck>
+    <dataCheck>19.01.2017 7:05:18</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Ржевский против Наполеона</russianTitle>
+    <originalTitle />
+    <year>2012</year>
+    <country>Россия, Украина</country>
+    <genre>комедия</genre>
+    <director>Марюс Вайсберг</director>
+    <actors>Павел Деревянко, Владимир Зеленский, Светлана Ходченкова, Михаил Галустян, Михаил Ефремов, Дмитрий Мухамадеев, Татьяна Орлова, Марат Башаров, Владимир Симонов, Игорь Рубашкин</actors>
+    <worldDate>18.01.2012</worldDate>
+    <russianDate>25.01.2012</russianDate>
+    <discDate>22.03.2012</discDate>
+    <description>Чтобы развеять скуку, Наполеон Бонапарт затеял мировую войну. Не пропуская ни одной юбки, он оказывается со своей армией у ворот Первопрестольной. Русские полководцы решают внедрить к нему неприступную красавицу, la femme fatal, чтобы отвлечь узурпатора от захватнической деятельности. Только какая настоящая женщина устоит перед обаянием этого великого бабника? Ненастоящая!!! В смысле — переодетый мужчина! И такой мужчина есть — поручик Ржевский…</description>
+    <link>http://kinozal.tv/details.php?id=1433413</link>
+    <code>417854</code>
+    <width>1920</width>
+    <height>804</height>
+    <duration>01:23:08</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Оригинал</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>20000</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>DTS-HD MA</audioCodec>
+    <channels>6</channels>
+    <audioKbps>2382</audioKbps>
+    <dataCheck>08.01.2017 8:54:56</dataCheck>
   </Film>
   <Film>
     <russianTitle>Путешествие 2: Таинственный остров</russianTitle>
@@ -34938,7 +35100,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>20.07.2016 11:10:24</dataCheck>
+    <dataCheck>17.01.2017 18:06:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Zолушка</russianTitle>
@@ -34973,7 +35135,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>19.07.2016 20:40:08</dataCheck>
+    <dataCheck>16.01.2017 7:34:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Значит, война</russianTitle>
@@ -35005,7 +35167,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>19.07.2016 20:37:48</dataCheck>
+    <dataCheck>16.01.2017 7:34:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Август. Восьмого</russianTitle>
@@ -35040,7 +35202,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2008</audioKbps>
-    <dataCheck>19.07.2016 20:35:36</dataCheck>
+    <dataCheck>14.01.2017 21:51:09</dataCheck>
   </Film>
   <Film>
     <russianTitle>Призрачный гонщик 2</russianTitle>
@@ -35049,7 +35211,7 @@
     <country>США, ОАЭ</country>
     <genre>фэнтези, боевик, триллер</genre>
     <director>Марк Невелдайн, Брайан Тейлор</director>
-    <actors>Николас Кейдж, Киран Хайндс, Виоланте Плачидо, Джонни Витуорт, Фергус Риордан, Идрис Эльба, Винсент Риган, Кристофер Ламберт, Спенсер Уидлинг, Сорин Тофан</actors>
+    <actors>Николас Кейдж, Киран Хайндс, Виоланте Плачидо, Джонни Витуорт, Фергус Риордан, Идрис Эльба, Винсент Риган, Кристофер Ламберт, Спенсер Уайлдинг, Сорин Тофан</actors>
     <worldDate>11.12.2011</worldDate>
     <russianDate>23.02.2012</russianDate>
     <discDate>04.06.2012</discDate>
@@ -35072,7 +35234,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2189</audioKbps>
-    <dataCheck>19.07.2016 20:32:03</dataCheck>
+    <dataCheck>14.01.2017 15:49:29</dataCheck>
   </Film>
   <Film>
     <russianTitle>Клятва</russianTitle>
@@ -35104,7 +35266,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>19.07.2016 20:29:39</dataCheck>
+    <dataCheck>13.01.2017 23:14:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Зубная фея 2 (видео)</russianTitle>
@@ -35136,7 +35298,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>19.07.2016 20:27:10</dataCheck>
+    <dataCheck>13.01.2017 23:14:15</dataCheck>
   </Film>
   <Film>
     <russianTitle>Белоснежка: Месть гномов</russianTitle>
@@ -35168,7 +35330,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2245</audioKbps>
-    <dataCheck>19.07.2016 20:24:22</dataCheck>
+    <dataCheck>13.01.2017 23:14:13</dataCheck>
   </Film>
   <Film>
     <russianTitle>Женщина в черном</russianTitle>
@@ -35177,7 +35339,7 @@
     <country>Великобритания, Канада, Швеция</country>
     <genre>ужасы, фэнтези, триллер, драма</genre>
     <director>Джеймс Уоткинс</director>
-    <actors>Дэниэл Рэдклифф, Киран Хайндс, Джанет МакТир, Дэвид Бурк, Шон Дули, Эмма Шори, Молли Хэрмон, Эллиза Уокер-Рид, Софи Стаки, Миша Хэндли</actors>
+    <actors>Дэниэл Рэдклифф, Киран Хайндс, Джанет МакТир, Дэвид Бёрк, Шон Дули, Эмма Шори, Молли Хэрмон, Эллиза Уокер-Рид, Софи Стаки, Миша Хэндли</actors>
     <worldDate>03.02.2012</worldDate>
     <russianDate>15.03.2012</russianDate>
     <discDate>09.07.2012</discDate>
@@ -35200,7 +35362,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>1536</audioKbps>
-    <dataCheck>19.07.2016 20:20:14</dataCheck>
+    <dataCheck>13.01.2017 23:14:53</dataCheck>
   </Film>
   <Film>
     <russianTitle>Тот ещё Карлосон!</russianTitle>
@@ -35235,7 +35397,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2249</audioKbps>
-    <dataCheck>19.07.2016 20:17:11</dataCheck>
+    <dataCheck>13.01.2017 23:14:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Голодные игры</russianTitle>
@@ -35267,7 +35429,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1854</audioKbps>
-    <dataCheck>19.07.2016 20:14:43</dataCheck>
+    <dataCheck>13.01.2017 23:14:05</dataCheck>
   </Film>
   <Film>
     <russianTitle>Не худо бы похудеть</russianTitle>
@@ -35299,7 +35461,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>19.07.2016 20:08:14</dataCheck>
+    <dataCheck>13.01.2017 23:14:02</dataCheck>
   </Film>
   <Film>
     <russianTitle>Гнев Титанов</russianTitle>
@@ -35334,7 +35496,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>19.07.2016 20:02:57</dataCheck>
+    <dataCheck>13.01.2017 18:01:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Американский пирог: Все в сборе</russianTitle>
@@ -35366,7 +35528,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>19.07.2016 19:56:54</dataCheck>
+    <dataCheck>09.01.2017 22:15:23</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мачо и ботан</russianTitle>
@@ -35398,7 +35560,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>19.07.2016 19:53:43</dataCheck>
+    <dataCheck>09.01.2017 18:28:54</dataCheck>
   </Film>
   <Film>
     <russianTitle>Свидание</russianTitle>
@@ -35431,7 +35593,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>19.07.2016 19:51:04</dataCheck>
+    <dataCheck>08.01.2017 8:54:53</dataCheck>
   </Film>
   <Film>
     <russianTitle>1+1</russianTitle>
@@ -35463,7 +35625,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3214</audioKbps>
-    <dataCheck>19.07.2016 19:47:55</dataCheck>
+    <dataCheck>07.01.2017 17:22:45</dataCheck>
   </Film>
   <Film>
     <russianTitle>Няньки</russianTitle>
@@ -35497,7 +35659,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1986</audioKbps>
-    <dataCheck>19.07.2016 19:43:31</dataCheck>
+    <dataCheck>07.01.2017 17:22:42</dataCheck>
   </Film>
   <Film>
     <russianTitle>Белый тигр</russianTitle>
@@ -35530,7 +35692,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3904</audioKbps>
-    <dataCheck>19.07.2016 19:39:06</dataCheck>
+    <dataCheck>07.01.2017 11:28:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дети сексу не помеха</russianTitle>
@@ -35563,7 +35725,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1719</audioKbps>
-    <dataCheck>19.07.2016 19:35:25</dataCheck>
+    <dataCheck>07.01.2017 11:28:01</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мстители</russianTitle>
@@ -35596,7 +35758,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>19.07.2016 19:32:23</dataCheck>
+    <dataCheck>07.01.2017 11:27:59</dataCheck>
   </Film>
   <Film>
     <russianTitle>Свадебный разгром</russianTitle>
@@ -35628,7 +35790,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1844</audioKbps>
-    <dataCheck>19.07.2016 19:28:54</dataCheck>
+    <dataCheck>07.01.2017 11:27:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мрачные тени</russianTitle>
@@ -35660,7 +35822,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>19.07.2016 19:24:02</dataCheck>
+    <dataCheck>06.01.2017 15:04:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Люди в черном 3</russianTitle>
@@ -35692,7 +35854,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>19.07.2016 19:18:51</dataCheck>
+    <dataCheck>05.01.2017 18:10:29</dataCheck>
   </Film>
   <Film>
     <russianTitle>Прометей</russianTitle>
@@ -35702,7 +35864,7 @@
     <genre>фантастика, детектив, приключения</genre>
     <director>Ридли Скотт</director>
     <actors>Нуми Рапас, Майкл Фассбендер, Шарлиз Терон, Идрис Эльба, Гай Пирс, Логан Маршалл-Грин, Шон Харрис, Рейф Сполл, Иман Эллиотт, Бенедикт Вонг</actors>
-    <worldDate>30.05.2012</worldDate>
+    <worldDate>11.04.2012</worldDate>
     <russianDate>31.05.2012</russianDate>
     <discDate>04.10.2012</discDate>
     <description>В поисках сакрального знания группа ученых отправляется в самые темные и неизведанные чертоги вселенной. Именно там, в отдаленных мирах, находясь на пределе своих умственных и физических возможностей, им предстоит вступить в безжалостную схватку за будущее всего человечества…</description>
@@ -35724,7 +35886,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>18.07.2016 20:13:51</dataCheck>
+    <dataCheck>05.01.2017 18:10:55</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мадагаскар 3</russianTitle>
@@ -35756,7 +35918,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>18.07.2016 20:07:02</dataCheck>
+    <dataCheck>05.01.2017 18:10:23</dataCheck>
   </Film>
   <Film>
     <russianTitle>Белоснежка и охотник</russianTitle>
@@ -35788,7 +35950,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>18.07.2016 19:54:00</dataCheck>
+    <dataCheck>01.01.2017 9:25:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Президент Линкольн: Охотник на вампиров</russianTitle>
@@ -35820,7 +35982,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>18.07.2016 19:48:39</dataCheck>
+    <dataCheck>01.01.2017 9:25:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Рапунцель: Счастлива навсегда</russianTitle>
@@ -35852,7 +36014,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>18.07.2016 18:21:17</dataCheck>
+    <dataCheck>01.01.2017 9:25:05</dataCheck>
   </Film>
   <Film>
     <russianTitle>Храбрая сердцем</russianTitle>
@@ -35884,7 +36046,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>18.07.2016 18:16:47</dataCheck>
+    <dataCheck>01.01.2017 9:25:04</dataCheck>
   </Film>
   <Film>
     <russianTitle>Лето. Одноклассники. Любовь</russianTitle>
@@ -35916,7 +36078,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3571</audioKbps>
-    <dataCheck>18.07.2016 18:10:50</dataCheck>
+    <dataCheck>30.12.2016 9:59:11</dataCheck>
   </Film>
   <Film>
     <russianTitle>Новый Человек-паук</russianTitle>
@@ -35949,7 +36111,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>18.07.2016 17:54:14</dataCheck>
+    <dataCheck>29.12.2016 19:22:11</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ледниковый период 4: Континентальный дрейф</russianTitle>
@@ -35981,7 +36143,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>18.07.2016 17:47:24</dataCheck>
+    <dataCheck>29.12.2016 7:38:35</dataCheck>
   </Film>
   <Film>
     <russianTitle>Папа-досвидос</russianTitle>
@@ -36013,7 +36175,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>18.07.2016 17:36:59</dataCheck>
+    <dataCheck>29.12.2016 7:38:33</dataCheck>
   </Film>
   <Film>
     <russianTitle>Солдаты удачи</russianTitle>
@@ -36046,7 +36208,7 @@
     <audioCodec>LPCM</audioCodec>
     <channels>6</channels>
     <audioKbps>4608</audioKbps>
-    <dataCheck>17.07.2016 20:13:15</dataCheck>
+    <dataCheck>29.12.2016 7:38:31</dataCheck>
   </Film>
   <Film>
     <russianTitle>Звездный десант: Вторжение</russianTitle>
@@ -36078,7 +36240,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2401</audioKbps>
-    <dataCheck>26.07.2016 17:29:15</dataCheck>
+    <dataCheck>05.01.2017 18:10:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Шаг вперед 4</russianTitle>
@@ -36110,7 +36272,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>8</channels>
     <audioKbps>2955</audioKbps>
-    <dataCheck>17.07.2016 20:05:36</dataCheck>
+    <dataCheck>26.12.2016 7:43:36</dataCheck>
   </Film>
   <Film>
     <russianTitle>Большая ржака</russianTitle>
@@ -36142,7 +36304,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>17.07.2016 19:58:29</dataCheck>
+    <dataCheck>26.12.2016 7:43:35</dataCheck>
   </Film>
   <Film>
     <russianTitle>Золушка: Полный вперед!</russianTitle>
@@ -36174,7 +36336,7 @@
     <audioCodec>TrueHD</audioCodec>
     <channels>8</channels>
     <audioKbps>1497</audioKbps>
-    <dataCheck>17.07.2016 19:53:23</dataCheck>
+    <dataCheck>26.12.2016 7:43:33</dataCheck>
   </Film>
   <Film>
     <russianTitle>Третий лишний</russianTitle>
@@ -36206,7 +36368,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>17.07.2016 19:47:15</dataCheck>
+    <dataCheck>26.12.2016 7:43:31</dataCheck>
   </Film>
   <Film>
     <russianTitle>Вспомнить всё</russianTitle>
@@ -36238,7 +36400,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>4127</audioKbps>
-    <dataCheck>17.07.2016 19:41:08</dataCheck>
+    <dataCheck>26.12.2016 7:43:30</dataCheck>
   </Film>
   <Film>
     <russianTitle>От винта 3D</russianTitle>
@@ -36270,7 +36432,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2336</audioKbps>
-    <dataCheck>17.07.2016 19:33:38</dataCheck>
+    <dataCheck>26.12.2016 7:43:28</dataCheck>
   </Film>
   <Film>
     <russianTitle>Фрилансеры</russianTitle>
@@ -36302,7 +36464,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>17.07.2016 19:29:38</dataCheck>
+    <dataCheck>26.12.2016 7:43:26</dataCheck>
   </Film>
   <Film>
     <russianTitle>Неудержимые 2</russianTitle>
@@ -36311,7 +36473,7 @@
     <country>США</country>
     <genre>боевик, триллер, приключения</genre>
     <director>Саймон Уэст</director>
-    <actors>Сильвестр Сталлоне, Джейсон Стэйтем, Дольф Лундгрен, Жан-Клод Ван Дамм, Терри Крюс, Рэнди Кутюр, Лиам Хемсворт, Нань Юй, Чак Норрис, Арнольд Шварценеггер</actors>
+    <actors>Сильвестр Сталлоне, Джейсон Стэйтем, Дольф Лундгрен, Жан-Клод Ван Дамм, Терри Крюс, Рэнди Кутюр, Лиам Хемсворт, Юй Нань, Чак Норрис, Арнольд Шварценеггер</actors>
     <worldDate>08.08.2012</worldDate>
     <russianDate>16.08.2012</russianDate>
     <discDate>20.11.2012</discDate>
@@ -36335,7 +36497,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2169</audioKbps>
-    <dataCheck>17.07.2016 19:21:32</dataCheck>
+    <dataCheck>24.12.2016 8:24:42</dataCheck>
   </Film>
   <Film>
     <russianTitle>Шевели ластами 2</russianTitle>
@@ -36344,7 +36506,7 @@
     <country>Бельгия, США, Франция</country>
     <genre>мультфильм, приключения, семейный</genre>
     <director>Винсент Кестелут, Бен Стассен</director>
-    <actors>Билли Ангер, Пэт Кэрролл, Карлос МакКаллерс II, Синда Адамс, Jaylen Ahmadyar, Джейн Алан, Дино Андраде, Mario Anthony, Джордж Бэббит, Deanne Basque</actors>
+    <actors>Алан Ширман, Thomas Lee, Синда Адамс, Джейн Алан, Карлос МакКаллерс II, Дино Андраде, Mario Anthony, Джордж Бэббит, Deanne Basque, Брианн Брози</actors>
     <worldDate>02.08.2012</worldDate>
     <russianDate>16.08.2012</russianDate>
     <discDate>26.03.2013</discDate>
@@ -36368,7 +36530,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>17.07.2016 19:17:09</dataCheck>
+    <dataCheck>24.12.2016 8:24:34</dataCheck>
   </Film>
   <Film>
     <russianTitle>Замбезия</russianTitle>
@@ -36400,7 +36562,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2015</audioKbps>
-    <dataCheck>17.07.2016 19:13:46</dataCheck>
+    <dataCheck>23.12.2016 18:29:42</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пираньи 3DD</russianTitle>
@@ -36432,7 +36594,39 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>17.07.2016 19:10:06</dataCheck>
+    <dataCheck>23.12.2016 18:29:38</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Шкатулка проклятия</russianTitle>
+    <originalTitle>The Possession</originalTitle>
+    <year>2012</year>
+    <country>США, Канада</country>
+    <genre>ужасы, триллер</genre>
+    <director>Уле Борнедаль</director>
+    <actors>Джеффри Дин Морган, Наташа Калис, Кира Седжвик, Мэдисон Девенпорт, Роб ЛаБелль, Матисьяху, Грант Шоу, Нана Гбивонио, Анна Хэган, Бренда Кричлоу</actors>
+    <worldDate>30.08.2012</worldDate>
+    <russianDate>30.08.2012</russianDate>
+    <discDate>15.01.2013</discDate>
+    <description>Девочка покупает винтажную шкатулку на ярмарке в одном из соседних дворов. Поначалу родители не видят повода для беспокойства, когда их младшая дочь становится одержима новой игрушкой. Со временем поведение девочки становится все более странным, а реакции неожиданными, родители пытаются раскрыть секрет шкатулки. Они не подозревают, что в деревянной коробке живет злой дух, который творит страшные вещи со своими хозяевами — их было много и владели они этим «сокровищем» очень недолго. Отец девочки объединяется с бывшей женой в попытках найти способ снять проклятие с их ребенка.</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=4418978</link>
+    <code>88147</code>
+    <width>1920</width>
+    <height>798</height>
+    <duration>01:32:13</duration>
+    <qualityTitle>BDRemux</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>32818</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>DTS-HD MA</audioCodec>
+    <channels>8</channels>
+    <audioKbps>2320</audioKbps>
+    <dataCheck>07.01.2017 19:26:55</dataCheck>
   </Film>
   <Film>
     <russianTitle>Обитель зла: Возмездие</russianTitle>
@@ -36441,7 +36635,7 @@
     <country>Германия, Канада, США, Франция</country>
     <genre>ужасы, фантастика, боевик, триллер</genre>
     <director>Пол У. С. Андерсон</director>
-    <actors>Милла Йовович, Сиенна Гиллори, Йохан Урб, Ли Бинбин, Ариана Энджинир, Мишель Родригес, Борис Коджо, Кевин Дюран, Одед Фер, Колин Сэлмон</actors>
+    <actors>Милла Йовович, Сиенна Гиллори, Йохан Урб, Бинбин Ли, Ариана Энджинир, Мишель Родригес, Борис Коджо, Кевин Дюран, Одед Фер, Колин Сэлмон</actors>
     <worldDate>03.09.2012</worldDate>
     <russianDate>13.09.2012</russianDate>
     <discDate>17.12.2012</discDate>
@@ -36464,7 +36658,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>17.07.2016 19:07:15</dataCheck>
+    <dataCheck>22.12.2016 7:07:20</dataCheck>
   </Film>
   <Film>
     <russianTitle>Патруль</russianTitle>
@@ -36496,7 +36690,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2227</audioKbps>
-    <dataCheck>17.07.2016 19:02:07</dataCheck>
+    <dataCheck>20.12.2016 7:05:27</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мужчина с гарантией</russianTitle>
@@ -36530,7 +36724,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2041</audioKbps>
-    <dataCheck>17.07.2016 18:57:36</dataCheck>
+    <dataCheck>20.12.2016 7:05:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>Петля времени</russianTitle>
@@ -36562,7 +36756,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2130</audioKbps>
-    <dataCheck>17.07.2016 18:53:54</dataCheck>
+    <dataCheck>20.12.2016 7:05:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Цунами 3D</russianTitle>
@@ -36594,7 +36788,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3896</audioKbps>
-    <dataCheck>17.07.2016 18:49:37</dataCheck>
+    <dataCheck>20.12.2016 7:05:00</dataCheck>
   </Film>
   <Film>
     <russianTitle>Духless</russianTitle>
@@ -36626,7 +36820,7 @@
     <audioCodec>LPCM</audioCodec>
     <channels>6</channels>
     <audioKbps>4608</audioKbps>
-    <dataCheck>17.07.2016 18:34:40</dataCheck>
+    <dataCheck>20.12.2016 7:04:56</dataCheck>
   </Film>
   <Film>
     <russianTitle>Аэротачки</russianTitle>
@@ -36659,7 +36853,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>17.07.2016 18:31:10</dataCheck>
+    <dataCheck>20.12.2016 7:04:52</dataCheck>
   </Film>
   <Film>
     <russianTitle>Любовь с акцентом</russianTitle>
@@ -36691,7 +36885,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>17.07.2016 18:27:12</dataCheck>
+    <dataCheck>17.12.2016 15:10:49</dataCheck>
   </Film>
   <Film>
     <russianTitle>Самый страшный фильм 3D</russianTitle>
@@ -36723,7 +36917,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>17.07.2016 18:23:21</dataCheck>
+    <dataCheck>17.12.2016 15:10:46</dataCheck>
   </Film>
   <Film>
     <russianTitle>Синистер</russianTitle>
@@ -36755,7 +36949,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>17.07.2016 18:19:18</dataCheck>
+    <dataCheck>17.12.2016 15:10:42</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мертвые души</russianTitle>
@@ -36787,7 +36981,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>17.07.2016 18:16:31</dataCheck>
+    <dataCheck>17.12.2016 15:10:38</dataCheck>
   </Film>
   <Film>
     <russianTitle>Монстры на каникулах</russianTitle>
@@ -36819,7 +37013,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>17.07.2016 18:07:42</dataCheck>
+    <dataCheck>17.12.2016 8:23:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Поворот не туда 5: Кровное родство</russianTitle>
@@ -36851,7 +37045,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>17.07.2016 18:03:26</dataCheck>
+    <dataCheck>17.12.2016 8:23:15</dataCheck>
   </Film>
   <Film>
     <russianTitle>Астерикс и Обеликс в Британии</russianTitle>
@@ -36886,7 +37080,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2173</audioKbps>
-    <dataCheck>17.07.2016 17:17:02</dataCheck>
+    <dataCheck>16.12.2016 18:42:33</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пушистые против Зубастых 3D</russianTitle>
@@ -36894,7 +37088,7 @@
     <year>2012</year>
     <country>Корея Южная, США</country>
     <genre>мультфильм, приключения, семейный</genre>
-    <director>Кюнг Хо Ли</director>
+    <director>Ли Гён-хо</director>
     <actors>Роб Шнайдер, Брэт МакКензи, Ивонн Страховски, Алан Камминг, Фрэнк Уэлкер, Норм МакДональд, Дженни Пулос, Тим Карри, Эрик Лопез, Крис Эджерли</actors>
     <worldDate>12.01.2012</worldDate>
     <russianDate>25.10.2012</russianDate>
@@ -36918,7 +37112,7 @@
     <audioCodec>TrueHD</audioCodec>
     <channels>8</channels>
     <audioKbps>1808</audioKbps>
-    <dataCheck>17.07.2016 16:58:46</dataCheck>
+    <dataCheck>16.12.2016 18:46:23</dataCheck>
   </Film>
   <Film>
     <russianTitle>Сайлент Хилл 2</russianTitle>
@@ -36950,7 +37144,39 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>17.07.2016 16:51:50</dataCheck>
+    <dataCheck>16.12.2016 18:42:30</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Путешествие к Рождественской звезде</russianTitle>
+    <originalTitle>Reisen til julestjernen</originalTitle>
+    <year>2012</year>
+    <country>Норвегия</country>
+    <genre>фэнтези, приключения, семейный</genre>
+    <director>Нильс Гёуп</director>
+    <actors>Вилде Зейнер, Андерс Баасмо Кристиансен, Агнес Киттелсен, Стиг Вернер Мо, Эйлиф Хеллум Норакер, Кристин Сакарияссен, Андреас Каппелен, Кнут Валле, Соня Асплин, Якоб Офтебро</actors>
+    <worldDate>09.11.2012</worldDate>
+    <russianDate />
+    <discDate>17.12.2013</discDate>
+    <description>Храбрая маленькая девочка Соня отправляется в опасное путешествие, чтобы найти Рождественскую звезду, освободить королевство от заклятия и вернуть давно пропавшую принцессу. Но коварные враги всеми силами пытаются помешать ей. И тогда в покрытых снегом норвежских горах начинается настоящее волшебное приключение…</description>
+    <link>http://kinozal.tv/details.php?id=1155371</link>
+    <code>619080</code>
+    <width>1280</width>
+    <height>536</height>
+    <duration>01:16:49</duration>
+    <qualityTitle>BDRip</qualityTitle>
+    <qualityPixel>720p</qualityPixel>
+    <translateTitle>Двухголосый</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1280</originalWidth>
+    <originalHeight>536</originalHeight>
+    <videoKbps>4582</videoKbps>
+    <fps>24</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>448</audioKbps>
+    <dataCheck>07.01.2017 22:44:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Сумерки. Сага. Рассвет: Часть 2</russianTitle>
@@ -36983,7 +37209,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>17.07.2016 16:44:47</dataCheck>
+    <dataCheck>16.12.2016 18:42:28</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хранители снов</russianTitle>
@@ -37015,7 +37241,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>17.07.2016 16:31:25</dataCheck>
+    <dataCheck>16.12.2016 18:42:26</dataCheck>
   </Film>
   <Film>
     <russianTitle>Один дома 5: Праздничное ограбление</russianTitle>
@@ -37047,7 +37273,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>17.07.2016 16:26:56</dataCheck>
+    <dataCheck>16.12.2016 18:42:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Клин клином</russianTitle>
@@ -37111,7 +37337,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>17.07.2016 16:12:09</dataCheck>
+    <dataCheck>16.12.2016 18:42:23</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мужчина нарасхват</russianTitle>
@@ -37143,7 +37369,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>8</channels>
     <audioKbps>2382</audioKbps>
-    <dataCheck>17.07.2016 16:08:26</dataCheck>
+    <dataCheck>16.12.2016 18:42:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хоббит: Нежданное путешествие</russianTitle>
@@ -41487,7 +41713,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>10.10.2016 7:30:03</dataCheck>
+    <dataCheck>21.01.2017 8:08:45</dataCheck>
   </Film>
   <Film>
     <russianTitle>Авантюристы</russianTitle>
@@ -41521,7 +41747,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.10.2016 9:39:56</dataCheck>
+    <dataCheck>19.01.2017 7:05:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дивергент</russianTitle>
@@ -41554,7 +41780,7 @@
     <audioCodec>LPCM</audioCodec>
     <channels>6</channels>
     <audioKbps>4608</audioKbps>
-    <dataCheck>09.10.2016 9:39:54</dataCheck>
+    <dataCheck>19.01.2017 7:05:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Окулус</russianTitle>
@@ -41586,7 +41812,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.10.2016 9:39:53</dataCheck>
+    <dataCheck>19.01.2017 7:05:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Реальная белка</russianTitle>
@@ -41618,7 +41844,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3856</audioKbps>
-    <dataCheck>08.10.2016 14:15:35</dataCheck>
+    <dataCheck>17.01.2017 18:06:23</dataCheck>
   </Film>
   <Film>
     <russianTitle>Новый Человек-паук: Высокое напряжение</russianTitle>
@@ -41650,7 +41876,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>08.10.2016 14:15:33</dataCheck>
+    <dataCheck>16.01.2017 17:53:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Оторвы</russianTitle>
@@ -41683,7 +41909,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>08.10.2016 14:15:32</dataCheck>
+    <dataCheck>16.01.2017 17:53:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>Танцуй отсюда!</russianTitle>
@@ -41715,7 +41941,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>08.10.2016 14:15:31</dataCheck>
+    <dataCheck>16.01.2017 17:53:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Другая женщина</russianTitle>
@@ -41747,7 +41973,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>06.10.2016 17:31:30</dataCheck>
+    <dataCheck>13.01.2017 18:01:01</dataCheck>
   </Film>
   <Film>
     <russianTitle>Кухня в Париже</russianTitle>
@@ -41779,7 +42005,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2048</audioKbps>
-    <dataCheck>06.10.2016 17:31:28</dataCheck>
+    <dataCheck>13.01.2017 18:01:00</dataCheck>
   </Film>
   <Film>
     <russianTitle>Блондинка в эфире</russianTitle>
@@ -41811,7 +42037,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3721</audioKbps>
-    <dataCheck>06.10.2016 5:58:36</dataCheck>
+    <dataCheck>13.01.2017 18:00:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>13-й район: Кирпичные особняки</russianTitle>
@@ -41843,7 +42069,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>1536</audioKbps>
-    <dataCheck>06.10.2016 5:58:35</dataCheck>
+    <dataCheck>13.01.2017 18:00:56</dataCheck>
   </Film>
   <Film>
     <russianTitle>Восьмерка</russianTitle>
@@ -41875,7 +42101,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>06.10.2016 5:58:31</dataCheck>
+    <dataCheck>13.01.2017 18:00:55</dataCheck>
   </Film>
   <Film>
     <russianTitle>Кот Гром и заколдованный дом</russianTitle>
@@ -41907,7 +42133,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>06.10.2016 5:58:30</dataCheck>
+    <dataCheck>13.01.2017 18:00:53</dataCheck>
   </Film>
   <Film>
     <russianTitle>Холостяки в отрыве</russianTitle>
@@ -41939,7 +42165,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>06.10.2016 5:58:28</dataCheck>
+    <dataCheck>13.01.2017 18:00:50</dataCheck>
   </Film>
   <Film>
     <russianTitle>Годзилла</russianTitle>
@@ -41971,7 +42197,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>05.10.2016 7:19:50</dataCheck>
+    <dataCheck>13.01.2017 18:00:48</dataCheck>
   </Film>
   <Film>
     <russianTitle>Люди Икс: Дни минувшего будущего</russianTitle>
@@ -42003,7 +42229,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>04.10.2016 17:46:11</dataCheck>
+    <dataCheck>09.01.2017 18:28:52</dataCheck>
   </Film>
   <Film>
     <russianTitle>Этим утром в Нью-Йорке</russianTitle>
@@ -42035,7 +42261,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>04.10.2016 17:45:02</dataCheck>
+    <dataCheck>09.01.2017 18:28:51</dataCheck>
   </Film>
   <Film>
     <russianTitle>Малефисента</russianTitle>
@@ -42067,7 +42293,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>03.10.2016 19:31:12</dataCheck>
+    <dataCheck>07.01.2017 8:32:15</dataCheck>
   </Film>
   <Film>
     <russianTitle>Соседи. На тропе войны</russianTitle>
@@ -42099,7 +42325,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>03.10.2016 19:31:11</dataCheck>
+    <dataCheck>07.01.2017 8:32:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Всё и сразу</russianTitle>
@@ -42132,7 +42358,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>02.10.2016 20:52:08</dataCheck>
+    <dataCheck>05.01.2017 18:10:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Грань будущего</russianTitle>
@@ -42164,7 +42390,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>02.10.2016 20:52:07</dataCheck>
+    <dataCheck>05.01.2017 18:10:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>Повар на колесах</russianTitle>
@@ -42196,7 +42422,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>02.10.2016 20:52:05</dataCheck>
+    <dataCheck>05.01.2017 18:10:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Как приручить дракона 2</russianTitle>
@@ -42228,7 +42454,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>02.10.2016 13:50:45</dataCheck>
+    <dataCheck>05.01.2017 18:10:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Смешанные</russianTitle>
@@ -42260,7 +42486,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>01.10.2016 7:46:04</dataCheck>
+    <dataCheck>05.01.2017 18:10:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Трансформеры: Эпоха истребления</russianTitle>
@@ -42269,7 +42495,7 @@
     <country>США, Китай</country>
     <genre>фантастика, боевик, приключения</genre>
     <director>Майкл Бэй</director>
-    <actors>Марк Уолберг, Никола Пельтц, Джек Рейнор, Стэнли Туччи, Келси Грэммер, Титус Уэлливер, ТиДжей Миллер, Ли Бинбин, София Майлс, Питер Каллен</actors>
+    <actors>Марк Уолберг, Никола Пельтц, Джек Рейнор, Стэнли Туччи, Келси Грэммер, Титус Уэлливер, ТиДжей Миллер, Бинбин Ли, София Майлс, Питер Каллен</actors>
     <worldDate>19.06.2014</worldDate>
     <russianDate>26.06.2014</russianDate>
     <discDate>15.12.2014</discDate>
@@ -42292,7 +42518,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>01.10.2016 7:46:02</dataCheck>
+    <dataCheck>01.01.2017 9:25:25</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мачо и ботан 2</russianTitle>
@@ -42324,7 +42550,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>29.09.2016 21:15:16</dataCheck>
+    <dataCheck>30.12.2016 9:59:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Миллион способов потерять голову</russianTitle>
@@ -42356,7 +42582,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>28.09.2016 21:25:53</dataCheck>
+    <dataCheck>29.12.2016 7:38:28</dataCheck>
   </Film>
   <Film>
     <russianTitle>Превосходство</russianTitle>
@@ -42389,7 +42615,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>28.09.2016 21:25:51</dataCheck>
+    <dataCheck>29.12.2016 7:38:26</dataCheck>
   </Film>
   <Film>
     <russianTitle>Безумная свадьба</russianTitle>
@@ -42421,7 +42647,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>28.09.2016 21:25:49</dataCheck>
+    <dataCheck>29.12.2016 7:38:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Шаг вперёд: Всё или ничего</russianTitle>
@@ -42453,14 +42679,14 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>28.09.2016 21:25:47</dataCheck>
+    <dataCheck>29.12.2016 7:38:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Домашнее видео</russianTitle>
     <originalTitle>Sex Tape</originalTitle>
     <year>2014</year>
     <country>США</country>
-    <genre>комедия</genre>
+    <genre>мелодрама, комедия</genre>
     <director>Джейк Кэздан</director>
     <actors>Кэмерон Диаз, Джейсон Сигел, Роб Кордри, Элли Кемпер, Роб Лоу, Нат Факсон, Нэнси Ленехан, Жизелль Эйзенберг, Харрисон Хольцер, Себастьян Хеджес Томас</actors>
     <worldDate>16.07.2014</worldDate>
@@ -42485,7 +42711,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>27.09.2016 7:20:38</dataCheck>
+    <dataCheck>26.12.2016 7:43:37</dataCheck>
   </Film>
   <Film>
     <russianTitle>Стражи Галактики</russianTitle>
@@ -42518,13 +42744,13 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>06.10.2016 19:10:41</dataCheck>
+    <dataCheck>05.01.2017 18:10:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Судная ночь 2</russianTitle>
     <originalTitle>The Purge: Anarchy</originalTitle>
     <year>2014</year>
-    <country>США, Франция</country>
+    <country>Франция, США</country>
     <genre>триллер, криминал, боевик</genre>
     <director>Джеймс ДеМонако</director>
     <actors>Фрэнк Грилло, Кармен Эджого, Зак Гилфорд, Киле Санчес, Майкл Кеннет Уильямс, Зои Соул, Жустина Мачадо, Джон Бизли, Джек Конли, Ноэль Гульеми</actors>
@@ -42550,7 +42776,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>27.09.2016 7:20:37</dataCheck>
+    <dataCheck>24.12.2016 8:24:30</dataCheck>
   </Film>
   <Film>
     <russianTitle>Навстречу шторму</russianTitle>
@@ -42582,7 +42808,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>27.09.2016 7:20:36</dataCheck>
+    <dataCheck>23.12.2016 18:29:36</dataCheck>
   </Film>
   <Film>
     <russianTitle>Зодиак: Предвестия апокалипсиса (ТВ)</russianTitle>
@@ -42614,7 +42840,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>27.09.2016 7:20:34</dataCheck>
+    <dataCheck>23.12.2016 18:29:33</dataCheck>
   </Film>
   <Film>
     <russianTitle>Инструкции не прилагаются</russianTitle>
@@ -42646,7 +42872,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>27.09.2016 7:20:33</dataCheck>
+    <dataCheck>22.12.2016 18:47:00</dataCheck>
   </Film>
   <Film>
     <russianTitle>Красотки в Париже</russianTitle>
@@ -42678,7 +42904,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2153</audioKbps>
-    <dataCheck>27.09.2016 7:20:31</dataCheck>
+    <dataCheck>22.12.2016 18:46:57</dataCheck>
   </Film>
   <Film>
     <russianTitle>Неудержимые 3</russianTitle>
@@ -42710,7 +42936,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2211</audioKbps>
-    <dataCheck>27.09.2016 7:20:30</dataCheck>
+    <dataCheck>22.12.2016 18:46:55</dataCheck>
   </Film>
   <Film>
     <russianTitle>Город грехов 2: Женщина, ради которой стоит убивать</russianTitle>
@@ -42742,7 +42968,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3946</audioKbps>
-    <dataCheck>24.09.2016 18:51:59</dataCheck>
+    <dataCheck>20.12.2016 7:04:47</dataCheck>
   </Film>
   <Film>
     <russianTitle>Поворот не туда 6</russianTitle>
@@ -42774,7 +43000,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>24.09.2016 18:51:56</dataCheck>
+    <dataCheck>20.12.2016 7:04:38</dataCheck>
   </Film>
   <Film>
     <russianTitle>Избави нас от лукавого</russianTitle>
@@ -42806,7 +43032,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>23.09.2016 17:59:07</dataCheck>
+    <dataCheck>17.12.2016 8:23:13</dataCheck>
   </Film>
   <Film>
     <russianTitle>Моя девушка – зомби</russianTitle>
@@ -42838,7 +43064,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.09.2016 21:18:06</dataCheck>
+    <dataCheck>16.12.2016 18:42:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Если твоя девушка – зомби</russianTitle>
@@ -42870,13 +43096,13 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.09.2016 7:09:56</dataCheck>
+    <dataCheck>16.12.2016 18:42:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Люси</russianTitle>
     <originalTitle>Lucy</originalTitle>
     <year>2014</year>
-    <country>США, Франция</country>
+    <country>Франция</country>
     <genre>боевик, фантастика</genre>
     <director>Люк Бессон</director>
     <actors>Скарлетт Йоханссон, Морган Фриман, Чхве Мин-сик, Амр Вакед, Джулиан Райнд-Татт, Йохан Филип Асбек, Анали Типтон, Николас Фонгфет, Ян Оливер Шрёдер, Лука Анджелетти</actors>
@@ -42903,7 +43129,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>22.09.2016 7:09:54</dataCheck>
+    <dataCheck>16.12.2016 18:46:15</dataCheck>
   </Film>
   <Film>
     <russianTitle>Корпоратив</russianTitle>
@@ -42935,7 +43161,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.09.2016 7:09:52</dataCheck>
+    <dataCheck>16.12.2016 18:42:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Великий уравнитель</russianTitle>
@@ -42967,7 +43193,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>22.09.2016 7:09:51</dataCheck>
+    <dataCheck>16.12.2016 18:42:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Семейка монстров</russianTitle>
@@ -42999,7 +43225,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>22.09.2016 7:09:49</dataCheck>
+    <dataCheck>16.12.2016 18:42:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Таймлесс 2: Сапфировая книга</russianTitle>
@@ -43031,7 +43257,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>22.09.2016 7:09:47</dataCheck>
+    <dataCheck>16.12.2016 18:42:09</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дружба и никакого секса?</russianTitle>
@@ -43063,7 +43289,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>23.09.2016 18:00:58</dataCheck>
+    <dataCheck>16.12.2016 18:46:02</dataCheck>
   </Film>
   <Film>
     <russianTitle>Париж: Город мёртвых</russianTitle>
@@ -43616,7 +43842,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>04.11.2016 9:08:57</dataCheck>
+    <dataCheck>22.01.2017 11:46:13</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ищу попутчика</russianTitle>
@@ -44035,7 +44261,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>30.11.2016 7:20:18</dataCheck>
+    <dataCheck>01.01.2017 19:00:26</dataCheck>
   </Film>
   <Film>
     <russianTitle>Царь скорпионов 4: Утерянный трон (видео)</russianTitle>
@@ -44131,7 +44357,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>15.11.2016 21:12:09</dataCheck>
+    <dataCheck>01.01.2017 19:00:22</dataCheck>
   </Film>
   <Film>
     <russianTitle>Приключения Паддингтона</russianTitle>
@@ -44260,7 +44486,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>25.10.2016 6:50:18</dataCheck>
+    <dataCheck>05.01.2017 18:10:09</dataCheck>
   </Film>
   <Film>
     <russianTitle>Развод по-французски</russianTitle>
@@ -44277,8 +44503,8 @@
 Два года спустя, Ариан поняла, что хочет выйти замуж и переехать в Америку с известным дирижером по имени Кристен, но для бракоразводного дела в Италии требуется 5 лет, в то время как во Франции 8 дней. Ариан предлагает Нино развестись. Он согласен лишь с одним условием: они проводят эти 8 дней в Париже, вместо медового месяца, которого у них никогда не было…</description>
     <link>http://kinozal.tv/details.php?id=1317735</link>
     <code>839853</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>804</height>
     <duration>01:19:44</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -44293,7 +44519,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>13.11.2016 14:12:17</dataCheck>
+    <dataCheck>01.01.2017 19:00:20</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пятьдесят оттенков серого</russianTitle>
@@ -44357,7 +44583,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>05.11.2016 15:38:15</dataCheck>
+    <dataCheck>01.01.2017 19:00:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Духless 2</russianTitle>
@@ -44389,7 +44615,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>1536</audioKbps>
-    <dataCheck>04.11.2016 9:08:56</dataCheck>
+    <dataCheck>13.01.2017 18:00:45</dataCheck>
   </Film>
   <Film>
     <russianTitle>Робот по имени Чаппи</russianTitle>
@@ -44421,7 +44647,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>04.11.2016 9:08:54</dataCheck>
+    <dataCheck>13.01.2017 18:00:43</dataCheck>
   </Film>
   <Film>
     <russianTitle>Золушка</russianTitle>
@@ -44454,7 +44680,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>03.11.2016 18:51:52</dataCheck>
+    <dataCheck>13.01.2017 18:00:40</dataCheck>
   </Film>
   <Film>
     <russianTitle>Холодное торжество</russianTitle>
@@ -44486,7 +44712,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>320</audioKbps>
-    <dataCheck>03.11.2016 18:51:50</dataCheck>
+    <dataCheck>09.01.2017 18:28:50</dataCheck>
   </Film>
   <Film>
     <russianTitle>P-51: Истребитель драконов</russianTitle>
@@ -44502,8 +44728,8 @@
     <description>1943 год. В разгар Второй мировой войны нацисты используют против войск секретное оружие. Это оружие — живые драконы, которые были обнаружены в Северной Африке. Единственная надежда войск союзников — эскадрилья истребителей P-51, которая должна вступить в бой с древними чудовищами. На плечи пилотов эскадрильи ложится самое ответственное задание в их жизни. От исхода миссии будет зависеть исход войны…</description>
     <link>http://kinozal.tv/details.php?id=1322225</link>
     <code>739619</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1080</height>
     <duration>01:24:25</duration>
     <qualityTitle>BDRip</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -44518,7 +44744,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>256</audioKbps>
-    <dataCheck>02.11.2016 18:01:44</dataCheck>
+    <dataCheck>01.01.2017 19:00:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дивергент, глава 2: Инсургент</russianTitle>
@@ -44550,7 +44776,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>1536</audioKbps>
-    <dataCheck>02.11.2016 18:01:42</dataCheck>
+    <dataCheck>07.01.2017 22:44:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дом</russianTitle>
@@ -44582,7 +44808,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>25.10.2016 6:50:16</dataCheck>
+    <dataCheck>29.12.2016 19:22:09</dataCheck>
   </Film>
   <Film>
     <russianTitle>Машина времени в джакузи 2</russianTitle>
@@ -44614,7 +44840,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>01.11.2016 17:58:14</dataCheck>
+    <dataCheck>06.01.2017 15:04:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Призрак</russianTitle>
@@ -44631,8 +44857,8 @@
 Школьник Ваня Кузнецов был пустым местом всегда. Жертва гиперопеки матери, объект насмешек одноклассников, он боится даже заговорить с девочкой, в которую давно влюблен. У Юры есть неделя, чтобы закончить дело своей жизни и поднять самолет в воздух. Ваня — единственный, кто его видит и может ему помочь.</description>
     <link>http://kinozal.tv/details.php?id=1333073</link>
     <code>839960</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>800</height>
     <duration>01:53:44</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -44647,7 +44873,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>01.11.2016 17:58:12</dataCheck>
+    <dataCheck>01.01.2017 19:00:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Женщины против мужчин</russianTitle>
@@ -44663,8 +44889,8 @@
     <description>Школьная любовь трех замечательных пар заканчивается тремя прекрасными свадьбами и сумасшедшим свадебным путешествием на экзотическую и горячую Кубу. Но первый же день долгожданного медового месяца окончился гигантской ссорой, переходящей в вечную войну мужчин против женщин. А на войне, как и в любви, правил нет! Пираньи в бассейн? Запросто! Пожар в номере? Не вопрос! Флирт на глазах у любимого мужа? Однозначно, да! И все это, конечно же, во имя любви!</description>
     <link>http://kinozal.tv/details.php?id=1336236</link>
     <code>841956</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1908</width>
+    <height>800</height>
     <duration>01:24:04</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -44679,7 +44905,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>27.10.2016 21:20:52</dataCheck>
+    <dataCheck>01.01.2017 19:00:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Форсаж 7</russianTitle>
@@ -44711,7 +44937,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>26.10.2016 18:18:42</dataCheck>
+    <dataCheck>29.12.2016 7:38:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Эффект Лазаря</russianTitle>
@@ -44743,7 +44969,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>26.10.2016 18:16:51</dataCheck>
+    <dataCheck>01.01.2017 18:57:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мама дарагая!</russianTitle>
@@ -44760,8 +44986,8 @@
 Как Славику вырасти и стать, наконец, мужчиной?! Как Жене вытащить парня из-под маминой юбки?! В этом помогут верные и опытные друзья с большим чувством юмора…</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=4999900</link>
     <code>565710</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1080</height>
     <duration>01:25:43</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -44776,7 +45002,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>25.10.2016 6:50:15</dataCheck>
+    <dataCheck>01.01.2017 18:57:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мстители: Эра Альтрона</russianTitle>
@@ -44808,7 +45034,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>25.10.2016 6:50:13</dataCheck>
+    <dataCheck>26.12.2016 7:43:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мисс Переполох</russianTitle>
@@ -44840,7 +45066,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>20.10.2016 7:02:44</dataCheck>
+    <dataCheck>01.01.2017 18:57:15</dataCheck>
   </Film>
   <Film>
     <russianTitle>Одной левой</russianTitle>
@@ -44856,8 +45082,8 @@
     <description>Макс — успешный скульптор. Он убежденный холостяк. У него нет отбоя от девушек и выгодных заказов. Привычный ход жизни нарушает собственная правая рука Макса. Она перестает слушаться его и ведет себя, как рука избалованной девушки. Друзья, клиенты и поклонницы думают, что Макс сошел с ума. Но причина не в этом, в его руку вселилась душа незнакомки. Справится ли герой одной левой?</description>
     <link>http://kinozal.tv/details.php?id=1347415</link>
     <code>797709</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1080</height>
     <duration>01:19:09</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -44872,7 +45098,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>20.10.2016 7:02:40</dataCheck>
+    <dataCheck>01.01.2017 18:57:13</dataCheck>
   </Film>
   <Film>
     <russianTitle>Факап, или Хуже не бывает</russianTitle>
@@ -44937,7 +45163,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>16.10.2016 12:35:12</dataCheck>
+    <dataCheck>16.12.2016 18:42:05</dataCheck>
   </Film>
   <Film>
     <russianTitle>Однажды</russianTitle>
@@ -44953,8 +45179,8 @@
     <description>Однажды Лешка понял, что влюблен. В бывшую девушку брата. Ему еще не было и 16-ти, а ей уже исполнилось 17. Она носила очень короткую юбку и ходила гулять с ребятами из другого района. Впереди у Лешки был последний звонок, последний год жизни в городке и первое серьезное испытание. Он согласился с Таней на пари: проигравший обязан исполнить любое желание победителя…</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5029428</link>
     <code>705700</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>800</height>
     <duration>01:41:06</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -44969,7 +45195,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>16.10.2016 12:35:11</dataCheck>
+    <dataCheck>01.01.2017 18:57:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Человеческая многоножка 3</russianTitle>
@@ -44985,8 +45211,8 @@
     <description>Надзиратель беспокойной тюрьмы, у которого не получается заслужить уважение заключенных и губернатора штата, решается на внедрение революционного наказания, способного не только навести порядок в тюремной системе, но и сэкономить миллионы долларов, — в буквальном смысле поставить заключенных на колени, сшив их в гигантскую многоножку из 500 человек.</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5031445</link>
     <code>599868</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1280</width>
+    <height>542</height>
     <duration>01:42:40</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>720p</qualityPixel>
@@ -45001,7 +45227,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>16.10.2016 12:35:40</dataCheck>
+    <dataCheck>01.01.2017 15:55:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Разлом Сан-Андреас</russianTitle>
@@ -45114,8 +45340,8 @@
     <description>Коллекция короткометражных фильмов. Все шесть работ сделаны молодыми российскими режиссерами, все отличает та свобода, которую редко встретишь в большом отечественном кино. Молодежь не зависит от финансового диктата, ей плевать на цензурные запреты, она смела в обращении с жанрами и не стесняется нарушать любые правила.</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5126072</link>
     <code>911117</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1080</height>
     <duration>01:29:10</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -45130,7 +45356,7 @@
     <audioCodec>AAC</audioCodec>
     <channels>2</channels>
     <audioKbps>156</audioKbps>
-    <dataCheck>07.12.2016 7:18:22</dataCheck>
+    <dataCheck>01.01.2017 15:55:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Шпион</russianTitle>
@@ -45292,7 +45518,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>30.11.2016 7:20:17</dataCheck>
+    <dataCheck>01.01.2017 15:55:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Терминатор: Генезис</russianTitle>
@@ -45356,7 +45582,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>23.11.2016 7:43:06</dataCheck>
+    <dataCheck>18.01.2017 7:13:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Гороскоп на удачу</russianTitle>
@@ -45372,8 +45598,8 @@
     <description>В руки Макса попадает «счастливый» гороскоп, которому он должен следовать 30 дней, выполняя все его безумные предписания, чтобы добиться расположения недоступной прежде красавицы и удачи во всех делах. Но в один прекрасный день гороскоп Макса подменяют…</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5056280</link>
     <code>840231</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>812</height>
     <duration>01:36:29</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -45388,7 +45614,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.11.2016 18:42:42</dataCheck>
+    <dataCheck>01.01.2017 15:55:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пиксели</russianTitle>
@@ -45420,7 +45646,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>19.11.2016 7:31:22</dataCheck>
+    <dataCheck>13.01.2017 18:00:38</dataCheck>
   </Film>
   <Film>
     <russianTitle>Левша</russianTitle>
@@ -45452,7 +45678,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1900</audioKbps>
-    <dataCheck>15.11.2016 21:12:02</dataCheck>
+    <dataCheck>07.01.2017 17:22:40</dataCheck>
   </Film>
   <Film>
     <russianTitle>Агенты А.Н.К.Л.</russianTitle>
@@ -45484,7 +45710,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>12.11.2016 8:19:21</dataCheck>
+    <dataCheck>05.01.2017 18:10:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Синистер 2</russianTitle>
@@ -45517,7 +45743,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>08.11.2016 19:58:09</dataCheck>
+    <dataCheck>01.01.2017 15:55:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Упс… Ной уплыл!</russianTitle>
@@ -45549,7 +45775,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>08.11.2016 19:58:06</dataCheck>
+    <dataCheck>01.01.2017 15:55:11</dataCheck>
   </Film>
   <Film>
     <russianTitle>Фантастическая четверка</russianTitle>
@@ -45581,7 +45807,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>08.11.2016 19:58:02</dataCheck>
+    <dataCheck>29.12.2016 7:38:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Каникулы</russianTitle>
@@ -45614,7 +45840,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>08.11.2016 7:23:26</dataCheck>
+    <dataCheck>29.12.2016 7:38:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ультраамериканцы</russianTitle>
@@ -45646,7 +45872,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2127</audioKbps>
-    <dataCheck>05.11.2016 15:38:13</dataCheck>
+    <dataCheck>24.12.2016 8:23:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Парень с нашего кладбища</russianTitle>
@@ -45662,8 +45888,8 @@
     <description>Двадцатипятилетний провинциальный парень Коля приезжает в Москву к своему дяде. Ему нужно как можно быстрее отдать долг, который висит на нем с прошлого места работы, он готов работать каждый день. Точнее, каждую ночь. Так как дядя устраивает племянника ночным сторожем на… кладбище. Новый сторож приступает к первому дежурству, но к тому, что происходит на кладбище, когда стемнеет, он оказывается не готов. А впереди еще не одна ночь, и Коле нужно сделать выбор: разобраться с таинственными гостями или сбежать.</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5105154</link>
     <code>841830</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1918</width>
+    <height>1080</height>
     <duration>01:27:22</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -45678,7 +45904,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>04.11.2016 9:08:53</dataCheck>
+    <dataCheck>01.01.2017 15:55:09</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хитмэн: Агент 47</russianTitle>
@@ -45710,7 +45936,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>04.11.2016 9:08:52</dataCheck>
+    <dataCheck>22.12.2016 7:06:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Девушка без комплексов</russianTitle>
@@ -45742,7 +45968,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>01.11.2016 17:58:39</dataCheck>
+    <dataCheck>20.12.2016 7:04:13</dataCheck>
   </Film>
   <Film>
     <russianTitle>Перевозчик: Наследие</russianTitle>
@@ -45775,7 +46001,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2192</audioKbps>
-    <dataCheck>01.11.2016 17:58:08</dataCheck>
+    <dataCheck>20.12.2016 7:04:01</dataCheck>
   </Film>
   <Film>
     <russianTitle>Развод по собственному желанию</russianTitle>
@@ -45792,8 +46018,8 @@
 Сиюминутное решение Сергея — начать все заново. Он уходит из дома и не подозревает, что жизнь может кардинально поменяться всего за несколько часов. Круговерть невероятных приключений, в которые втягивает лучший друг, и безумных ситуаций с близкими проверят на прочность крепость семейных уз Сергея и Елены.</description>
     <link>http://kinozal.tv/details.php?id=1382733</link>
     <code>803412</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1010</height>
     <duration>01:25:17</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -45808,7 +46034,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>01.11.2016 17:58:06</dataCheck>
+    <dataCheck>01.01.2017 15:55:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Клетка</russianTitle>
@@ -45824,8 +46050,8 @@
     <description>Ростовщик женится на бедной юной девушке, чтобы потешить свое тщеславие и начать новую жизнь. Кроткая и Неизвестный — их союз начисто лишен любви и счастья. Казалось бы, обычная бытовая история, но между супругами вспыхивает настоящая психологическая война, которая разрушает обоих и приводит к страшным последствиям. Неизвестный в буквальном смысле заточает жену в клетку, но в итоге сам оказывается её пленником.</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5092897</link>
     <code>838695</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1080</height>
     <duration>01:42:26</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -45840,7 +46066,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>28.10.2016 19:49:24</dataCheck>
+    <dataCheck>01.01.2017 15:55:05</dataCheck>
   </Film>
   <Film>
     <russianTitle>Новые русские 2</russianTitle>
@@ -45856,8 +46082,8 @@
     <description>Романтическая эротика, жизнь как триллер, жёсткая криминально-психологическая драма, головокружительная черная комедия и интимный киноэскиз о непостоянстве красивых актрис — новая коллекция молодого и прогрессивного российского кино.</description>
     <link>http://kinozal.tv/details.php?id=1407006</link>
     <code>927708</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1080</height>
     <duration>01:42:34</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -45872,7 +46098,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>28.10.2016 19:49:23</dataCheck>
+    <dataCheck>01.01.2017 15:55:02</dataCheck>
   </Film>
   <Film>
     <russianTitle>Мой парень – киллер</russianTitle>
@@ -45904,7 +46130,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>10.11.2016 18:52:38</dataCheck>
+    <dataCheck>01.01.2017 15:55:00</dataCheck>
   </Film>
   <Film>
     <russianTitle>Стажёр</russianTitle>
@@ -45936,7 +46162,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>27.10.2016 21:20:50</dataCheck>
+    <dataCheck>16.12.2016 18:41:57</dataCheck>
   </Film>
   <Film>
     <russianTitle>Эверест</russianTitle>
@@ -45969,7 +46195,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>27.10.2016 21:21:55</dataCheck>
+    <dataCheck>16.12.2016 18:41:56</dataCheck>
   </Film>
   <Film>
     <russianTitle>Монстервилль</russianTitle>
@@ -46017,8 +46243,8 @@
     <description>Эдди проводит свой первый урок в средней школе и обнаруживает, что его ученики не получают никакого полового воспитания. Он решает это исправить, хотя сам не слишком опытен в этой сфере.</description>
     <link>http://kinozal.tv/details.php?id=1396055</link>
     <code>775209</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>800</height>
     <duration>01:28:21</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -46033,7 +46259,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>07.12.2016 21:57:49</dataCheck>
+    <dataCheck>01.01.2017 15:54:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>Я плюю на ваши могилы 3</russianTitle>
@@ -46065,7 +46291,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 21:57:47</dataCheck>
+    <dataCheck>01.01.2017 15:54:56</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дрожь земли 5: Кровное родство</russianTitle>
@@ -46195,7 +46421,39 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>01.12.2016 20:03:52</dataCheck>
+    <dataCheck>17.01.2017 18:06:21</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Они нашли Ад</russianTitle>
+    <originalTitle>They Found Hell</originalTitle>
+    <year>2015</year>
+    <country>США</country>
+    <genre>ужасы, фантастика, фэнтези, приключения</genre>
+    <director>Ник Лион</director>
+    <actors>Крис Шелленгер, Katy Reece, Остин Скотт, Кэбби Бордерс, Мирела Берк, Макс Райнхарт, Хантер Канеди, Лори Кинастон, Джеймс Собол Келли, Иван Костадинов</actors>
+    <worldDate>17.10.2015</worldDate>
+    <russianDate />
+    <discDate />
+    <description>После случайного открытия портала в другое измерение студенты колледжа оказываются в ловушке, где за ними охотятся обитатели ада.</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5215500</link>
+    <code>939135</code>
+    <width>1280</width>
+    <height>720</height>
+    <duration>01:27:13</duration>
+    <qualityTitle>WEB-DL</qualityTitle>
+    <qualityPixel>720p</qualityPixel>
+    <translateTitle>Многоголосый</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1280</originalWidth>
+    <originalHeight>720</originalHeight>
+    <videoKbps>3967</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>08.01.2017 7:41:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>Без границ</russianTitle>
@@ -46211,8 +46469,8 @@
     <description>События картины начинаются в московском аэропорту, откуда главные герои отправляются в захватывающие путешествия к живописным горным долинам Армении, утопающим в зелени улочкам Тбилиси и праздничным огням новогодней Москвы навстречу любви — яркой и страстной, наивной и нелепой, трогательной и грустной, счастливой и безрассудной, которая не знает границ и условностей, возраста и национальностей.</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5123211</link>
     <code>839742</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>804</height>
     <duration>01:36:02</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -46227,7 +46485,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>26.11.2016 9:34:13</dataCheck>
+    <dataCheck>01.01.2017 15:54:52</dataCheck>
   </Film>
   <Film>
     <russianTitle>Война полов</russianTitle>
@@ -46243,8 +46501,8 @@
     <description>Что завтра на рассвете с каждым из нас случится, не знает никто. И когда ТРИ наших героя проснулись на необитаемом острове, в компании ДВУХ красивых… но не очень дружелюбных девушек… да еще без воды и еды… Вот тут они и поняли, что жизнь действительно полна сюрпризов!</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5122062</link>
     <code>840230</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>806</height>
     <duration>01:26:14</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -46259,7 +46517,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>26.11.2016 9:34:12</dataCheck>
+    <dataCheck>01.01.2017 15:54:50</dataCheck>
   </Film>
   <Film>
     <russianTitle>Монстры на каникулах 2</russianTitle>
@@ -46291,7 +46549,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>26.11.2016 9:34:11</dataCheck>
+    <dataCheck>13.01.2017 18:00:35</dataCheck>
   </Film>
   <Film>
     <russianTitle>Последний охотник на ведьм</russianTitle>
@@ -46324,7 +46582,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1869</audioKbps>
-    <dataCheck>26.11.2016 9:34:09</dataCheck>
+    <dataCheck>09.01.2017 18:28:49</dataCheck>
   </Film>
   <Film>
     <russianTitle>Голос улиц</russianTitle>
@@ -46356,7 +46614,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>20.11.2016 9:10:12</dataCheck>
+    <dataCheck>01.01.2017 9:24:59</dataCheck>
   </Film>
   <Film>
     <russianTitle>Голодные игры: Сойка-пересмешница. Часть II</russianTitle>
@@ -46388,7 +46646,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>19.11.2016 18:55:49</dataCheck>
+    <dataCheck>01.01.2017 15:54:48</dataCheck>
   </Film>
   <Film>
     <russianTitle>Виктор Франкенштейн</russianTitle>
@@ -46397,7 +46655,7 @@
     <country>США, Великобритания, Канада</country>
     <genre>ужасы, фантастика, триллер, драма</genre>
     <director>Пол МакГиган</director>
-    <actors>Дэниэл Рэдклифф, Джеймс МакЭвой, Джессика Браун-Финдли, Бронсон Уэбб, Дэниэл Мейс, Спенсер Уидлинг, Робин Пирс, Эндрю Скотт, Каллум Тернер, Ди Ботчер</actors>
+    <actors>Дэниэл Рэдклифф, Джеймс МакЭвой, Джессика Браун-Финдли, Бронсон Уэбб, Дэниэл Мейс, Спенсер Уайлдинг, Робин Пирс, Эндрю Скотт, Каллум Тернер, Ди Ботчер</actors>
     <worldDate>10.11.2015</worldDate>
     <russianDate>26.11.2015</russianDate>
     <discDate />
@@ -46420,7 +46678,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>10.11.2016 7:01:03</dataCheck>
+    <dataCheck>20.12.2016 7:03:57</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хороший динозавр</russianTitle>
@@ -46452,7 +46710,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>10.11.2016 7:01:01</dataCheck>
+    <dataCheck>20.12.2016 7:03:28</dataCheck>
   </Film>
   <Film>
     <russianTitle>Superнянь 2</russianTitle>
@@ -46469,8 +46727,8 @@
 Но настоящая катастрофа — впереди. Когда друзья — сексуально озабоченный Сэм, наивный чудак Эрнест и умственно отсталый Алекс — вместе с беднягой Фрэнком собрались на экскурсию, ушлый папаша пользуется возможностью и засылает в джунгли с этой бандой свою крикливую и надоедливую старушку. В общем, Амазонка и ее девственные леса еще никогда не были в такой опасности!</description>
     <link>http://kinozal.tv/details.php?id=1406987</link>
     <code>887519</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>1040</height>
     <duration>01:32:54</duration>
     <qualityTitle>BDRip</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -46485,7 +46743,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>08.11.2016 7:23:23</dataCheck>
+    <dataCheck>01.01.2017 15:54:45</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ужастики</russianTitle>
@@ -46518,7 +46776,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>08.11.2016 7:23:22</dataCheck>
+    <dataCheck>16.12.2016 18:41:52</dataCheck>
   </Film>
   <Film>
     <russianTitle>SOS, Дед Мороз или Все сбудется!</russianTitle>
@@ -46534,8 +46792,8 @@
     <description>Света отчаянно хочет, чтобы ее родители помирились. Она верит, что эту мечту обязательно исполнит Дед Мороз, только стоит найти его и попросить об этом. Как же кстати он встречается Свете как раз накануне Нового года. Только вот девочка приняла за Деда Мороза переодетого мошенника и обаятельного афериста Мышкина. Теперь эта парочка на пути к исполнению своих желаний вовлечет в круговорот новогодних приключений еще десяток ни в чем неповинных людей, у которых теперь тоже появится надежда встретить эту новогоднюю ночь счастливыми.</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5142304</link>
     <code>893103</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>804</height>
     <duration>01:26:59</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -46550,7 +46808,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>08.11.2016 7:23:20</dataCheck>
+    <dataCheck>01.01.2017 15:54:43</dataCheck>
   </Film>
   <Film>
     <russianTitle>Любите Куперов</russianTitle>
@@ -46582,7 +46840,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1929</audioKbps>
-    <dataCheck>08.11.2016 7:23:18</dataCheck>
+    <dataCheck>16.12.2016 18:41:49</dataCheck>
   </Film>
   <Film>
     <russianTitle>Любовь без обязательств</russianTitle>
@@ -46614,7 +46872,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>08.11.2016 7:23:16</dataCheck>
+    <dataCheck>01.01.2017 15:54:40</dataCheck>
   </Film>
   <Film>
     <russianTitle>Безумные преподы: Миссия в Лондон</russianTitle>
@@ -46630,8 +46888,8 @@
     <description>Худшие учителя Франции отправляются в Англию для выполнения сверхсекретной миссии. Вместе с «Королем Болванов» Боулардом они должны будут парашютироваться в лучшую школу страны и применить свои знаменитые методики обучения к будущему.</description>
     <link>http://kinozal.tv/details.php?id=1410620</link>
     <code>867346</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>808</height>
     <duration>01:32:45</duration>
     <qualityTitle>BDRip</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -46646,7 +46904,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>09.12.2016 18:04:35</dataCheck>
+    <dataCheck>01.01.2017 15:54:38</dataCheck>
   </Film>
   <Film>
     <russianTitle>Срочно выйду замуж</russianTitle>
@@ -46662,8 +46920,8 @@
     <description>Женя — редактор-трудоголик, Стас — светский фотограф. Она амбициозна, а у него по жизни — ни задачи, ни проблемы. Женя хочет и может стать главным редактором журнала, но для этого у нее срочно должен появиться супруг! Условие акционеров издания — семейная аудитория нуждается в семейном руководителе. И на решение этой задачи у девушки есть всего неделя. Стас берется помочь девушке, в картотеке у модного фотографа есть немало холостяков, которые вполне могли бы подойти на роль мужа. Но неожиданно Женя понимает, что совсем не расчетлива, а Стас с удивлением обнаруживает, что влюблен.</description>
     <link>https://rutracker.org/forum/viewtopic.php?t=5163651</link>
     <code>765119</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1912</width>
+    <height>800</height>
     <duration>01:43:33</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
@@ -46678,7 +46936,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:15</dataCheck>
+    <dataCheck>01.01.2017 15:54:36</dataCheck>
   </Film>
   <Film>
     <russianTitle>Иван Царевич и Серый Волк 3</russianTitle>
@@ -46711,14 +46969,14 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>1536</audioKbps>
-    <dataCheck>01.12.2016 20:03:51</dataCheck>
+    <dataCheck>08.01.2017 7:41:56</dataCheck>
   </Film>
   <Film>
     <russianTitle>Страна чудес</russianTitle>
     <originalTitle />
     <year>2015</year>
     <country>Россия</country>
-    <genre>комедия</genre>
+    <genre>комедия, фантастика</genre>
     <director>Дмитрий Дьяченко, Максим Свешников</director>
     <actors>Елена Яковлева, Федор Добронравов, Александр Паль, Олеся Железняк, Сергей Лавыгин, Грант Тохатян, Ольга Лерман, Тимофей Трибунцев, Иван Добронравов, Анна Назарова</actors>
     <worldDate>08.01.2016</worldDate>
@@ -46745,7 +47003,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3699</audioKbps>
-    <dataCheck>01.12.2016 20:03:50</dataCheck>
+    <dataCheck>08.01.2017 7:43:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Выживший</russianTitle>
@@ -46777,7 +47035,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>8</channels>
     <audioKbps>4600</audioKbps>
-    <dataCheck>30.11.2016 7:20:14</dataCheck>
+    <dataCheck>06.01.2017 15:04:04</dataCheck>
   </Film>
   <Film>
     <russianTitle>Здравствуй, папа, Новый год</russianTitle>
@@ -46809,7 +47067,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>30.11.2016 7:20:12</dataCheck>
+    <dataCheck>06.01.2017 15:04:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Сестры</russianTitle>
@@ -46841,7 +47099,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>26.11.2016 9:34:08</dataCheck>
+    <dataCheck>01.01.2017 9:24:55</dataCheck>
   </Film>
   <Film>
     <russianTitle>Элвин и бурундуки: Грандиозное бурундуключение</russianTitle>
@@ -46874,7 +47132,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>26.11.2016 9:34:06</dataCheck>
+    <dataCheck>01.01.2017 9:24:53</dataCheck>
   </Film>
   <Film>
     <russianTitle>5-я волна</russianTitle>
@@ -46906,7 +47164,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>26.11.2016 9:34:04</dataCheck>
+    <dataCheck>01.01.2017 9:24:51</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дедушка легкого поведения</russianTitle>
@@ -46938,7 +47196,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>26.11.2016 9:34:03</dataCheck>
+    <dataCheck>01.01.2017 9:24:49</dataCheck>
   </Film>
   <Film>
     <russianTitle>Зачётный препод 2</russianTitle>
@@ -46971,7 +47229,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>19.11.2016 7:31:20</dataCheck>
+    <dataCheck>22.12.2016 7:06:20</dataCheck>
   </Film>
   <Film>
     <russianTitle>Кунг-фу Панда 3</russianTitle>
@@ -47004,7 +47262,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>19.11.2016 7:31:19</dataCheck>
+    <dataCheck>22.12.2016 7:06:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>30 свиданий</russianTitle>
@@ -47036,7 +47294,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:36:02</dataCheck>
+    <dataCheck>06.01.2017 15:04:01</dataCheck>
   </Film>
   <Film>
     <russianTitle>И грянул шторм</russianTitle>
@@ -47068,7 +47326,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>03.12.2016 8:36:01</dataCheck>
+    <dataCheck>06.01.2017 15:03:59</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пятьдесят оттенков черного</russianTitle>
@@ -47100,7 +47358,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:35:59</dataCheck>
+    <dataCheck>06.01.2017 15:03:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дэдпул</russianTitle>
@@ -47132,7 +47390,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>23.11.2016 7:42:44</dataCheck>
+    <dataCheck>26.12.2016 7:43:20</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ставка на любовь</russianTitle>
@@ -47164,7 +47422,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>23.11.2016 7:42:42</dataCheck>
+    <dataCheck>26.12.2016 7:43:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>День выборов 2</russianTitle>
@@ -47196,7 +47454,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.11.2016 18:42:40</dataCheck>
+    <dataCheck>23.12.2016 18:29:31</dataCheck>
   </Film>
   <Film>
     <russianTitle>Из тьмы</russianTitle>
@@ -47228,7 +47486,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.11.2016 18:42:39</dataCheck>
+    <dataCheck>23.12.2016 18:29:29</dataCheck>
   </Film>
   <Film>
     <russianTitle>Образцовый самец 2</russianTitle>
@@ -47260,7 +47518,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>22.11.2016 18:42:37</dataCheck>
+    <dataCheck>23.12.2016 18:29:27</dataCheck>
   </Film>
   <Film>
     <russianTitle>Разборка в Маниле</russianTitle>
@@ -47292,7 +47550,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1993</audioKbps>
-    <dataCheck>22.11.2016 18:42:35</dataCheck>
+    <dataCheck>23.12.2016 18:29:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Боги Египта</russianTitle>
@@ -47324,7 +47582,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2227</audioKbps>
-    <dataCheck>12.11.2016 8:19:19</dataCheck>
+    <dataCheck>18.01.2017 18:10:31</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пятница</russianTitle>
@@ -47356,7 +47614,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>4179</audioKbps>
-    <dataCheck>12.11.2016 8:19:17</dataCheck>
+    <dataCheck>18.01.2017 18:10:30</dataCheck>
   </Film>
   <Film>
     <russianTitle>8 лучших свиданий</russianTitle>
@@ -47389,7 +47647,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>01.12.2016 20:03:49</dataCheck>
+    <dataCheck>01.01.2017 9:24:48</dataCheck>
   </Film>
   <Film>
     <russianTitle>Да здравствует Цезарь!</russianTitle>
@@ -47421,7 +47679,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>448</audioKbps>
-    <dataCheck>01.12.2016 20:03:47</dataCheck>
+    <dataCheck>01.01.2017 9:24:46</dataCheck>
   </Film>
   <Film>
     <russianTitle>Зверополис</russianTitle>
@@ -47453,7 +47711,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>01.12.2016 20:03:44</dataCheck>
+    <dataCheck>01.01.2017 9:24:44</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ошибка времени</russianTitle>
@@ -47486,7 +47744,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>224</audioKbps>
-    <dataCheck>01.12.2016 20:03:43</dataCheck>
+    <dataCheck>01.01.2017 9:24:41</dataCheck>
   </Film>
   <Film>
     <russianTitle>Тряпичный союз</russianTitle>
@@ -47518,7 +47776,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>01.12.2016 20:03:41</dataCheck>
+    <dataCheck>01.01.2017 9:24:40</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дивергент, глава 3: За стеной</russianTitle>
@@ -47551,7 +47809,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2094</audioKbps>
-    <dataCheck>26.11.2016 9:34:01</dataCheck>
+    <dataCheck>26.12.2016 7:43:17</dataCheck>
   </Film>
   <Film>
     <russianTitle>Джейн берет ружье</russianTitle>
@@ -47583,7 +47841,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3668</audioKbps>
-    <dataCheck>19.11.2016 7:31:17</dataCheck>
+    <dataCheck>17.01.2017 18:06:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Падение Лондона</russianTitle>
@@ -47615,7 +47873,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>19.11.2016 7:31:16</dataCheck>
+    <dataCheck>17.01.2017 18:06:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>Смешарики. Легенда о золотом драконе</russianTitle>
@@ -47647,12 +47905,12 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2234</audioKbps>
-    <dataCheck>19.11.2016 7:31:15</dataCheck>
+    <dataCheck>17.01.2017 18:06:15</dataCheck>
   </Film>
   <Film>
     <russianTitle>СуперБобровы</russianTitle>
     <originalTitle />
-    <year>2015</year>
+    <year>2016</year>
     <country>Россия</country>
     <genre>комедия, семейный, фантастика</genre>
     <director>Дмитрий Дьяченко</director>
@@ -47680,7 +47938,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3840</audioKbps>
-    <dataCheck>19.11.2016 7:31:13</dataCheck>
+    <dataCheck>17.01.2017 18:07:13</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ледниковый период: Погоня за яйцами</russianTitle>
@@ -47712,7 +47970,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>18.11.2016 18:29:13</dataCheck>
+    <dataCheck>16.01.2017 7:34:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Бэтмен против Супермена: На заре справедливости</russianTitle>
@@ -47744,7 +48002,7 @@
     <audioCodec>TrueHD</audioCodec>
     <channels>8</channels>
     <audioKbps>3927</audioKbps>
-    <dataCheck>09.12.2016 18:04:34</dataCheck>
+    <dataCheck>07.01.2017 17:43:30</dataCheck>
   </Film>
   <Film>
     <russianTitle>Уроки выживания</russianTitle>
@@ -47776,7 +48034,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.12.2016 18:05:33</dataCheck>
+    <dataCheck>07.01.2017 17:43:27</dataCheck>
   </Film>
   <Film>
     <russianTitle>Миссия в Майами</russianTitle>
@@ -47808,7 +48066,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>07.12.2016 21:57:45</dataCheck>
+    <dataCheck>05.01.2017 18:10:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Помню – не помню!</russianTitle>
@@ -47840,7 +48098,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 21:57:44</dataCheck>
+    <dataCheck>05.01.2017 18:10:01</dataCheck>
   </Film>
   <Film>
     <russianTitle>Экстрасенсы</russianTitle>
@@ -47872,7 +48130,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 21:58:15</dataCheck>
+    <dataCheck>16.01.2017 7:34:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Книга джунглей</russianTitle>
@@ -47904,7 +48162,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>03.12.2016 8:35:58</dataCheck>
+    <dataCheck>30.12.2016 9:59:09</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пришельцы 3: Взятие Бастилии</russianTitle>
@@ -47918,25 +48176,25 @@
     <russianDate>07.04.2016</russianDate>
     <discDate>10.10.2016</discDate>
     <description>В третьей части граф с оруженосцем отправляются в самое сложное для Франции время — период Французской революции.</description>
-    <link>http://kinozal.tv/details.php?id=1467586</link>
+    <link>http://kinozal.tv/details.php?id=1503251</link>
     <code>712568</code>
-    <width>0</width>
-    <height>0</height>
+    <width>1920</width>
+    <height>802</height>
     <duration>01:49:29</duration>
-    <qualityTitle>BDRip</qualityTitle>
+    <qualityTitle>BD</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
-    <translateComment>iTunes</translateComment>
-    <Color>Плохой</Color>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
     <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
-    <originalHeight>804</originalHeight>
-    <videoKbps>18100</videoKbps>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>29978</videoKbps>
     <fps>24</fps>
-    <audioCodec>AC3</audioCodec>
+    <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
-    <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:35:55</dataCheck>
+    <audioKbps>3674</audioKbps>
+    <dataCheck>22.01.2017 11:46:11</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хардкор</russianTitle>
@@ -47969,7 +48227,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:35:53</dataCheck>
+    <dataCheck>14.01.2017 15:48:55</dataCheck>
   </Film>
   <Film>
     <russianTitle>Белоснежка и Охотник 2</russianTitle>
@@ -48001,7 +48259,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>10.12.2016 10:16:35</dataCheck>
+    <dataCheck>06.01.2017 15:03:56</dataCheck>
   </Film>
   <Film>
     <russianTitle>Несносные леди</russianTitle>
@@ -48033,7 +48291,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>01.12.2016 20:03:38</dataCheck>
+    <dataCheck>13.01.2017 18:00:33</dataCheck>
   </Film>
   <Film>
     <russianTitle>Первый мститель: Противостояние</russianTitle>
@@ -48066,7 +48324,39 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>22.11.2016 18:42:33</dataCheck>
+    <dataCheck>13.01.2017 18:00:31</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Любовь не по размеру</russianTitle>
+    <originalTitle>Un homme à la hauteur</originalTitle>
+    <year>2016</year>
+    <country>Франция</country>
+    <genre>комедия</genre>
+    <director>Лоран Тирар</director>
+    <actors>Жан Дюжарден, Виржини Эфира, Седрик Кан, Стефани Папаниан, Сезар Домбой, Эдмон Франчи, Мануэлль Гайар, Бруно Гомила, Камилль Дамур, Франсуа-Доминик Блен</actors>
+    <worldDate>25.04.2016</worldDate>
+    <russianDate>12.05.2016</russianDate>
+    <discDate>12.12.2016</discDate>
+    <description>Потерянный мобильник оборачивается для Дианы знакомством с поистине невероятным человеком по имени Александр. Он умен, неутомим и чертовски обаятелен. У него замечательное чувство юмора и, кажется, нет недостатков. Кроме одного… Его рост — чуть больше метра. Это небольшое препятствие оказывается источником огромных проблем и множества неудобных и смешных ситуаций для Дианы. Но настоящая любовь может победить всё, если, конечно, это очень большая любовь.</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5320459</link>
+    <code>915039</code>
+    <width>1920</width>
+    <height>800</height>
+    <duration>01:37:54</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>18572</videoKbps>
+    <fps>24</fps>
+    <audioCodec>DTS-HD MA</audioCodec>
+    <channels>6</channels>
+    <audioKbps>3487</audioKbps>
+    <dataCheck>14.01.2017 21:51:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Люди Икс: Апокалипсис</russianTitle>
@@ -48098,7 +48388,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>03.12.2016 8:35:51</dataCheck>
+    <dataCheck>20.01.2017 7:14:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Неслабый пол</russianTitle>
@@ -48130,7 +48420,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:35:49</dataCheck>
+    <dataCheck>13.01.2017 18:00:28</dataCheck>
   </Film>
   <Film>
     <russianTitle>Алиса в Зазеркалье</russianTitle>
@@ -48162,7 +48452,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>07.12.2016 21:57:40</dataCheck>
+    <dataCheck>29.12.2016 19:22:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Варкрафт</russianTitle>
@@ -48195,7 +48485,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>01.12.2016 20:03:37</dataCheck>
+    <dataCheck>16.01.2017 7:34:12</dataCheck>
   </Film>
   <Film>
     <russianTitle>Проклятие Спящей красавицы</russianTitle>
@@ -48227,7 +48517,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>01.12.2016 20:03:36</dataCheck>
+    <dataCheck>08.01.2017 10:06:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Сезон охоты: Байки из леса</russianTitle>
@@ -48259,7 +48549,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>01.12.2016 20:03:35</dataCheck>
+    <dataCheck>08.01.2017 10:06:02</dataCheck>
   </Film>
   <Film>
     <russianTitle>Иллюзия обмана 2</russianTitle>
@@ -48291,7 +48581,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1920</audioKbps>
-    <dataCheck>07.12.2016 21:57:38</dataCheck>
+    <dataCheck>21.01.2017 8:08:40</dataCheck>
   </Film>
   <Film>
     <russianTitle>В поисках Дори</russianTitle>
@@ -48323,7 +48613,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>07.12.2016 7:18:13</dataCheck>
+    <dataCheck>17.01.2017 18:06:11</dataCheck>
   </Film>
   <Film>
     <russianTitle>Одноклассницы</russianTitle>
@@ -48355,7 +48645,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>26.11.2016 16:29:43</dataCheck>
+    <dataCheck>06.01.2017 15:03:55</dataCheck>
   </Film>
   <Film>
     <russianTitle>Славные парни</russianTitle>
@@ -48388,7 +48678,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>26.11.2016 16:29:42</dataCheck>
+    <dataCheck>06.01.2017 15:03:53</dataCheck>
   </Film>
   <Film>
     <russianTitle>День независимости: Возрождение</russianTitle>
@@ -48420,7 +48710,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>03.12.2016 8:35:48</dataCheck>
+    <dataCheck>13.01.2017 18:00:26</dataCheck>
   </Film>
   <Film>
     <russianTitle>Завтрак у папы</russianTitle>
@@ -48452,7 +48742,7 @@
     <audioCodec>AAC</audioCodec>
     <channels>2</channels>
     <audioKbps>153</audioKbps>
-    <dataCheck>03.12.2016 8:35:45</dataCheck>
+    <dataCheck>13.01.2017 18:00:24</dataCheck>
   </Film>
   <Film>
     <russianTitle>Соседи. На тропе войны 2</russianTitle>
@@ -48484,7 +48774,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:35:43</dataCheck>
+    <dataCheck>06.01.2017 15:03:52</dataCheck>
   </Film>
   <Film>
     <russianTitle>Таймлесс 3: Изумрудная книга</russianTitle>
@@ -48516,7 +48806,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>23.11.2016 18:28:50</dataCheck>
+    <dataCheck>05.01.2017 18:10:00</dataCheck>
   </Film>
   <Film>
     <russianTitle>Большой и добрый великан</russianTitle>
@@ -48531,25 +48821,58 @@
     <discDate>20.12.2016</discDate>
     <description>В центре истории девочка по имени Софи, которая не смогла заснуть до полуночи и в окошко увидела огромного великана, который подходил к соседним домам и начинал дуть в окна спален. В полном соответствии со старинными поверьями и детскими страшилками, великан увидел Софи и унес к себе домой, в страну великанов.
 Как оказалось, он в этой самой стране был единственным добрым великаном: действуя в обстановке строжайшей секретности, он коллекционировал хорошие сны, которые по ночам раздавал детям. Уши у него устроены таким образом, что он слышит, что и о чем снится ребятам, и никогда не позволяет им видеть кошмары.</description>
-    <link>http://kinozal.tv/details.php?id=1494432</link>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5343296</link>
     <code>840885</code>
     <width>1920</width>
     <height>804</height>
-    <duration>01:57:06</duration>
+    <duration>01:57:38</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>29881</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>640</audioKbps>
+    <dataCheck>19.01.2017 7:05:05</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Человек – швейцарский нож</russianTitle>
+    <originalTitle>Swiss Army Man</originalTitle>
+    <year>2016</year>
+    <country>США</country>
+    <genre>фэнтези, драма, мелодрама, комедия, приключения</genre>
+    <director>Дэн Кван, Дэниэл Шайнерт</director>
+    <actors>Пол Дано, Дэниэл Рэдклифф, Мэри Элизабет Уинстэд, Антония Риберо, Тимоти Йолих, Ричард Гросс, Марика Кастил, Энди Халл, Аарон Маршалл, Шейн Каррут</actors>
+    <worldDate>22.01.2016</worldDate>
+    <russianDate>30.06.2016</russianDate>
+    <discDate />
+    <description>Оказавшись на необитаемом острове, Хэнк уже был готов потерять всякую надежду, но все меняется, когда на берегу он находит труп по имени Мэнни.
+Многофункциональность Мэнни поможет Хэнку выжить в диких условиях и заново обрести радость жизни. Вместе они отправятся в эпическое приключение, которое вернет Хэнка к девушке его мечты.</description>
+    <link>http://kinozal.tv/details.php?id=1479607</link>
+    <code>918087</code>
+    <width>1920</width>
+    <height>800</height>
+    <duration>01:37:23</duration>
     <qualityTitle>BDRemux</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
-    <translateComment />
+    <translateComment>iTunes</translateComment>
     <Color>Нейтральный</Color>
     <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
     <originalHeight>1080</originalHeight>
-    <videoKbps>25787</videoKbps>
+    <videoKbps>34227</videoKbps>
     <fps>23.976</fps>
     <audioCodec>AC3</audioCodec>
-    <channels>2</channels>
-    <audioKbps>192</audioKbps>
-    <dataCheck>09.12.2016 18:04:31</dataCheck>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>16.01.2017 7:34:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Полтора шпиона</russianTitle>
@@ -48581,7 +48904,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>26.11.2016 9:34:00</dataCheck>
+    <dataCheck>05.01.2017 18:09:57</dataCheck>
   </Film>
   <Film>
     <russianTitle>Свадебный угар</russianTitle>
@@ -48613,7 +48936,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>10.12.2016 10:16:34</dataCheck>
+    <dataCheck>18.01.2017 7:13:22</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ледниковый период: Столкновение неизбежно</russianTitle>
@@ -48645,7 +48968,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>03.12.2016 8:35:40</dataCheck>
+    <dataCheck>07.01.2017 8:32:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Равные</russianTitle>
@@ -48678,7 +49001,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>1877</audioKbps>
-    <dataCheck>03.12.2016 8:35:38</dataCheck>
+    <dataCheck>07.01.2017 8:32:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Случайно беременна</russianTitle>
@@ -48710,7 +49033,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:12</dataCheck>
+    <dataCheck>05.01.2017 18:09:54</dataCheck>
   </Film>
   <Film>
     <russianTitle>Крутые меры</russianTitle>
@@ -48742,7 +49065,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>30.11.2016 7:21:19</dataCheck>
+    <dataCheck>05.01.2017 18:09:51</dataCheck>
   </Film>
   <Film>
     <russianTitle>Охотники за привидениями</russianTitle>
@@ -48774,7 +49097,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>30.11.2016 7:20:09</dataCheck>
+    <dataCheck>19.01.2017 7:05:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Судная ночь 3</russianTitle>
@@ -48806,7 +49129,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>30.11.2016 7:20:08</dataCheck>
+    <dataCheck>19.01.2017 7:05:00</dataCheck>
   </Film>
   <Film>
     <russianTitle>Отряд самоубийц</russianTitle>
@@ -48820,25 +49143,25 @@
     <russianDate>04.08.2016</russianDate>
     <discDate />
     <description>Правительство решает дать команде суперзлодеев шанс на искупление. Подвох в том, что их отправляют на миссию, где они, вероятнее всего, погибнут.</description>
-    <link>http://kinozal.tv/details.php?id=1497402</link>
+    <link>http://kinozal.tv/details.php?id=1499550</link>
     <code>468522</code>
     <width>1920</width>
     <height>800</height>
     <duration>02:14:32</duration>
-    <qualityTitle>BDRemux</qualityTitle>
+    <qualityTitle>BD</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
-    <translateComment>iTunes</translateComment>
-    <Color>Нейтральный</Color>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
     <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
     <originalHeight>1080</originalHeight>
-    <videoKbps>24800</videoKbps>
+    <videoKbps>24846</videoKbps>
     <fps>23.976</fps>
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
-    <audioKbps>640</audioKbps>
-    <dataCheck>01.12.2016 20:03:34</dataCheck>
+    <audioKbps>448</audioKbps>
+    <dataCheck>18.01.2017 7:13:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Диггеры</russianTitle>
@@ -48870,7 +49193,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>04.12.2016 8:42:18</dataCheck>
+    <dataCheck>17.01.2017 18:06:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пит и его дракон</russianTitle>
@@ -48902,7 +49225,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>05.12.2016 7:15:36</dataCheck>
+    <dataCheck>22.01.2017 11:46:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Арло: Говорящий поросёнок</russianTitle>
@@ -48934,7 +49257,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>04.12.2016 8:42:16</dataCheck>
+    <dataCheck>14.01.2017 10:22:48</dataCheck>
   </Film>
   <Film>
     <russianTitle>Парни со стволами</russianTitle>
@@ -48966,7 +49289,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>04.12.2016 8:42:14</dataCheck>
+    <dataCheck>14.01.2017 10:22:47</dataCheck>
   </Film>
   <Film>
     <russianTitle>Повелители снов</russianTitle>
@@ -48999,7 +49322,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>04.12.2016 8:42:13</dataCheck>
+    <dataCheck>14.01.2017 10:22:46</dataCheck>
   </Film>
   <Film>
     <russianTitle>Тайная жизнь домашних животных</russianTitle>
@@ -49031,7 +49354,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>04.12.2016 8:42:11</dataCheck>
+    <dataCheck>14.01.2017 10:22:45</dataCheck>
   </Film>
   <Film>
     <russianTitle>Не дыши</russianTitle>
@@ -49045,25 +49368,25 @@
     <russianDate>25.08.2016</russianDate>
     <discDate />
     <description>Грабители забираются в дом одинокого слепого старика с целью украсть огромную сумму, которая, по слухам, спрятана где-то внутри. Казалось бы — что может быть проще, чем вынести деньги из дома практического беспомощного человека. Но они жестоко ошибаются: преследуемый становится преследователем. И тайна, которую он хранит, гораздо страшнее, чем обычные пенсионные накопления.</description>
-    <link>http://kinozal.tv/details.php?id=1494108</link>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5337090</link>
     <code>910327</code>
     <width>1920</width>
     <height>800</height>
     <duration>01:28:32</duration>
-    <qualityTitle>BDRemux</qualityTitle>
+    <qualityTitle>BD</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
-    <translateComment>iTunes</translateComment>
-    <Color>Нейтральный</Color>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
     <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
     <originalHeight>1080</originalHeight>
-    <videoKbps>24900</videoKbps>
+    <videoKbps>24933</videoKbps>
     <fps>23.976</fps>
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
-    <audioKbps>384</audioKbps>
-    <dataCheck>30.11.2016 7:20:07</dataCheck>
+    <audioKbps>640</audioKbps>
+    <dataCheck>07.01.2017 11:28:47</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ночные стражи</russianTitle>
@@ -49075,7 +49398,7 @@
     <actors>Иван Янковский, Любовь Аксенова, Леонид Ярмольник, Михаил Евланов, Сабина Ахмедова, Константин Адаев, Юрий Ваксман, Алексей Дмитриев, Денис Бузин, Евгений Косырев</actors>
     <worldDate>02.09.2016</worldDate>
     <russianDate>25.08.2016</russianDate>
-    <discDate />
+    <discDate>06.10.2016</discDate>
     <description>Оборотни, упыри и ведьмы — существуют. Если вы до сих пор не сталкивались с ними, то это заслуга отдела по надзору за представителями альтернативной жизни.
 Обычный курьер случайно становится свидетелем зачистки нечисти в одном из столичных отелей, после чего получает новую работу.
 Сотрудники отдела «Н» не бессмертны, но даже вампирам они не по зубам.</description>
@@ -49097,7 +49420,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>30.11.2016 7:20:05</dataCheck>
+    <dataCheck>13.01.2017 18:00:21</dataCheck>
   </Film>
   <Film>
     <russianTitle>Спарта</russianTitle>
@@ -49129,7 +49452,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>30.11.2016 7:20:04</dataCheck>
+    <dataCheck>13.01.2017 18:00:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Механик: Воскрешение</russianTitle>
@@ -49161,7 +49484,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:35:36</dataCheck>
+    <dataCheck>13.01.2017 18:00:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Все о мужчинах</russianTitle>
@@ -49193,7 +49516,7 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>2797</audioKbps>
-    <dataCheck>10.12.2016 10:16:32</dataCheck>
+    <dataCheck>20.01.2017 7:14:05</dataCheck>
   </Film>
   <Film>
     <russianTitle>Девять жизней</russianTitle>
@@ -49225,7 +49548,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>10.12.2016 10:16:31</dataCheck>
+    <dataCheck>13.01.2017 18:00:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Джейсон Борн</russianTitle>
@@ -49257,7 +49580,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>10.12.2016 10:16:54</dataCheck>
+    <dataCheck>20.01.2017 7:14:04</dataCheck>
   </Film>
   <Film>
     <russianTitle>Очень плохие мамочки</russianTitle>
@@ -49289,7 +49612,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>10.12.2016 10:16:28</dataCheck>
+    <dataCheck>13.01.2017 18:00:11</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хроники мстителя</russianTitle>
@@ -49321,7 +49644,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>03.12.2016 8:35:34</dataCheck>
+    <dataCheck>13.01.2017 18:00:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дочь Бога</russianTitle>
@@ -49353,7 +49676,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.12.2016 18:04:29</dataCheck>
+    <dataCheck>13.01.2017 18:00:04</dataCheck>
   </Film>
   <Film>
     <russianTitle>Морган</russianTitle>
@@ -49367,25 +49690,25 @@
     <russianDate>08.09.2016</russianDate>
     <discDate />
     <description>Сотрудница по устранению аварий отправляется в отдаленный секретный филиал, где должна расследовать и оценить потери от происшествия. На месте она узнает, что случившееся было вызвано, казалось бы, невинным «человеком», чьё существование само по себе является тайной.</description>
-    <link>http://kinozal.tv/details.php?id=1498804</link>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5340374</link>
     <code>906340</code>
     <width>1920</width>
     <height>804</height>
     <duration>01:31:52</duration>
-    <qualityTitle>BDRemux</qualityTitle>
+    <qualityTitle>BD</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
-    <translateComment>iTunes</translateComment>
-    <Color>Нейтральный</Color>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
     <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
     <originalHeight>1080</originalHeight>
     <videoKbps>27635</videoKbps>
     <fps>23.976</fps>
-    <audioCodec>AC3</audioCodec>
+    <audioCodec>DTS</audioCodec>
     <channels>6</channels>
-    <audioKbps>384</audioKbps>
-    <dataCheck>04.12.2016 8:43:16</dataCheck>
+    <audioKbps>768</audioKbps>
+    <dataCheck>14.01.2017 8:14:16</dataCheck>
   </Film>
   <Film>
     <russianTitle>Полный расколбас</russianTitle>
@@ -49417,7 +49740,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>640</audioKbps>
-    <dataCheck>09.12.2016 18:04:27</dataCheck>
+    <dataCheck>14.01.2017 8:14:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Бриджит Джонс 3</russianTitle>
@@ -49449,7 +49772,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>05.12.2016 7:15:34</dataCheck>
+    <dataCheck>13.01.2017 17:59:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>Жених</russianTitle>
@@ -49481,7 +49804,39 @@
     <audioCodec>DTS-HD MA</audioCodec>
     <channels>6</channels>
     <audioKbps>3592</audioKbps>
-    <dataCheck>05.12.2016 7:15:33</dataCheck>
+    <dataCheck>13.01.2017 17:59:55</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Сноуден</russianTitle>
+    <originalTitle>Snowden</originalTitle>
+    <year>2016</year>
+    <country>Франция, Германия, США</country>
+    <genre>триллер, драма, биография</genre>
+    <director>Оливер Стоун</director>
+    <actors>Джозеф Гордон-Левитт, Шейлин Вудли, Мелисса Лео, Закари Куинто, Том Уилкинсон, Скотт Иствуд, Рис Иванс, Николас Кейдж, Тимоти Олифант, Джеймс Батлер</actors>
+    <worldDate>21.07.2016</worldDate>
+    <russianDate>15.09.2016</russianDate>
+    <discDate />
+    <description>Он мечтал продолжить семейную традицию и посвятить свою жизнь служению Родине. Он безоговорочно верил в правительство США и поддерживал антитеррористическую программу. На заре его карьеры в спецслужбах никто, даже он сам, не мог бы предположить, что именно он, Эдвард Сноуден, совершит самое крупное разоблачение в мировой истории, обнародовав секретные документы, касающиеся тотальной слежки США за своими гражданами и гражданами других государств. Открыв миру глаза на правду, он навсегда закрыл для себя двери в счастливое будущее: отказался от карьеры, любимой девушки и Родины, которая назвала его предателем…</description>
+    <link>http://kinozal.tv/details.php?id=1503441</link>
+    <code>843831</code>
+    <width>1920</width>
+    <height>800</height>
+    <duration>02:14:49</duration>
+    <qualityTitle>BDRemux</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Нейтральный</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>30832</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>20.01.2017 7:14:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Секреты секса и любви</russianTitle>
@@ -49513,7 +49868,40 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>05.12.2016 7:15:31</dataCheck>
+    <dataCheck>13.01.2017 17:59:53</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Аисты</russianTitle>
+    <originalTitle>Storks</originalTitle>
+    <year>2016</year>
+    <country>США</country>
+    <genre>мультфильм, фэнтези, комедия, приключения, семейный</genre>
+    <director>Николас Столлер, Даг Свитлэнд</director>
+    <actors>Энди Сэмберг, Кэти Краун, Келси Грэммер, Дженнифер Энистон, Тай Бурелл, Антон Старкман, Кигэн-Майкл Ки, Джордан Пил, Дэнни Трехо, Стив Гликман</actors>
+    <worldDate>22.09.2016</worldDate>
+    <russianDate>22.09.2016</russianDate>
+    <discDate />
+    <description>Аисты приносят детей… или, во всяком случае, раньше приносили. Теперь же они занимаются доставкой посылок для огромного сайта интернет-продаж. Джуниор, лучший аист в курьерской компании, должен пойти на повышение, но он случайно активирует машину для создания детей и получает очаровательную, но совершенно незапланированную девочку.
+Пытаясь доставить эту «посылку» до того, как босс узнает о произошедшем, Джуниор и его подруга Лютик, единственный человек на Горе Аистов, решаются на свою первую доставку ребёнка и отправляются в безумное и насыщенное удивительными открытиями приключение, благодаря которому многие семьи могут стать полными, а аисты — вернуться к своей истинной миссии на Земле.</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5328810</link>
+    <code>894045</code>
+    <width>1920</width>
+    <height>804</height>
+    <duration>01:26:57</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>24604</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>448</audioKbps>
+    <dataCheck>19.01.2017 7:04:54</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дизлайк</russianTitle>
@@ -49547,7 +49935,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.12.2016 18:04:26</dataCheck>
+    <dataCheck>13.01.2017 17:59:51</dataCheck>
   </Film>
   <Film>
     <russianTitle>Искусственный интеллект. Доступ неограничен</russianTitle>
@@ -49579,7 +49967,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.12.2016 18:04:24</dataCheck>
+    <dataCheck>22.01.2017 11:46:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Крейсер</russianTitle>
@@ -49593,25 +49981,24 @@
     <russianDate>22.09.2016</russianDate>
     <discDate />
     <description>Лето 1945 года. До конца Второй мировой оставались считанные недели… Крейсер ВМС США «Индианополис» доставил на американскую военную базу на острове Тиниан боеголовку атомной бомбы. На обратном рейде корабль был торпедирован японцами и пошел ко дну. «SOS!» капитана Маквэя не был услышан. И живые позавидовали мертвым: палящее солнце и зубы акул, жажда и галлюцинации, безумие и адские муки отчаяния…</description>
-    <link>https://rutracker.org/forum/viewtopic.php?t=5296358</link>
+    <link>http://kinozal.tv/details.php?id=1507554</link>
     <code>609875</code>
-    <width>0</width>
-    <height>0</height>
-    <duration>02:04:34</duration>
-    <qualityTitle>WEB-DL</qualityTitle>
+    <width>1920</width>
+    <height>800</height>
+    <duration>02:09:55</duration>
+    <qualityTitle>BDRemux</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
     <translateComment>iTunes</translateComment>
-    <Color>Плохой</Color>
+    <Color>Нейтральный</Color>
     <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
-    <originalHeight>800</originalHeight>
-    <videoKbps>4521</videoKbps>
-    <fps>25</fps>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>27560</videoKbps>
+    <fps>23.976</fps>
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>09.12.2016 18:04:23</dataCheck>
   </Film>
   <Film>
     <russianTitle>Глубоководный горизонт</russianTitle>
@@ -49625,25 +50012,25 @@
     <russianDate>29.09.2016</russianDate>
     <discDate />
     <description>Эта лента расскажет о последствиях взрыва нефтяной платформы Deepwater Horizon, произошедшего в 2010 году в Мексиканском заливе и ставшего причиной второй по масштабам экологической катастрофы в истории США.</description>
-    <link />
+    <link>http://kinozal.tv/details.php?id=1505883</link>
     <code>607737</code>
-    <width>0</width>
-    <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>07.12.2016 7:18:11</dataCheck>
+    <width>1920</width>
+    <height>800</height>
+    <duration>01:47:17</duration>
+    <qualityTitle>BDRemux</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Нейтральный</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>24969</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>13.01.2017 17:59:48</dataCheck>
   </Film>
   <Film>
     <russianTitle>Зачинщики</russianTitle>
@@ -49675,7 +50062,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:10</dataCheck>
+    <dataCheck>16.01.2017 17:53:14</dataCheck>
   </Film>
   <Film>
     <russianTitle>Держи удар, детка</russianTitle>
@@ -49708,7 +50095,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:09</dataCheck>
+    <dataCheck>16.01.2017 7:34:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дом странных детей Мисс Перегрин</russianTitle>
@@ -49740,7 +50127,7 @@
     <audioCodec>DTS</audioCodec>
     <channels>6</channels>
     <audioKbps>768</audioKbps>
-    <dataCheck>07.12.2016 7:18:07</dataCheck>
+    <dataCheck>16.01.2017 7:34:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Еще один мальчишник</russianTitle>
@@ -49772,7 +50159,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:06</dataCheck>
+    <dataCheck>19.01.2017 7:04:52</dataCheck>
   </Film>
   <Film>
     <russianTitle>Имущество с хвостом</russianTitle>
@@ -49804,7 +50191,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:05</dataCheck>
+    <dataCheck>19.01.2017 7:04:47</dataCheck>
   </Film>
   <Film>
     <russianTitle>Инферно</russianTitle>
@@ -49818,25 +50205,25 @@
     <russianDate>13.10.2016</russianDate>
     <discDate />
     <description>Профессор Роберт Лэнгдон приходит в сознание в одной из итальянских больниц, полностью потеряв память. Местный врач Сиенна Брукс пытается помочь Роберту не только восстановить воспоминания, но и остановить загадочных злоумышленников, которые намерены распространить смертоносный вирус. Разгадка таинственной истории связана с «Адом» (ит. Inferno) — первой частью «Божественной комедии» Данте.</description>
-    <link />
+    <link>https://rutracker.org/forum/viewtopic.php?t=5343728</link>
     <code>780470</code>
-    <width>0</width>
-    <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>05.12.2016 18:07:29</dataCheck>
+    <width>1920</width>
+    <height>1036</height>
+    <duration>02:01:35</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>24102</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>640</audioKbps>
+    <dataCheck>20.01.2017 7:14:02</dataCheck>
   </Film>
   <Film>
     <russianTitle>Суперплохие</russianTitle>
@@ -49868,7 +50255,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>05.12.2016 18:07:28</dataCheck>
+    <dataCheck>16.01.2017 7:34:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>С вещами на вылет!</russianTitle>
@@ -49900,7 +50287,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:04</dataCheck>
+    <dataCheck>17.01.2017 18:06:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Тролли</russianTitle>
@@ -49914,25 +50301,25 @@
     <russianDate>27.10.2016</russianDate>
     <discDate />
     <description>Отправляясь в увлекательное приключение, которое заведет ее далеко от привычного ей мира, Розочка объединяет усилия с самым мрачным троллем на свете по имени Цветан для достижения успеха в своей смелой миссии спасти ее друзей из тисков зловещих бергенов и их лидера, короля Хрящ Старший. Невероятные приключения Розочки проверят ее силу, покажут ее истинную суть и бросят вызов ее способности ударяться в пение в любой момент.</description>
-    <link />
+    <link>https://rutracker.org/forum/viewtopic.php?t=5330011</link>
     <code>689774</code>
     <width>0</width>
     <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>09.12.2016 18:04:21</dataCheck>
+    <duration>01:32:48</duration>
+    <qualityTitle>WEB-DL</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1916</originalWidth>
+    <originalHeight>812</originalHeight>
+    <videoKbps>4428</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>17.01.2017 18:06:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Большой собачий побег</russianTitle>
@@ -49946,11 +50333,43 @@
     <russianDate>03.11.2016</russianDate>
     <discDate />
     <description>Жизнь беспечного бигля Оззи переворачивается с лап на голову, когда, отправляясь в отпуск, семья Мартинов отдает его в элитный спа-отель для собак. Но хозяева не могли и представить, что это всего лишь ловушка, а их любимец окажется в настоящей собачьей тюрьме. Чтобы прорваться через супер-систему охраны и злющих сторожевых псов, Оззи вместе с такими же бедолагами, как он, должен будет спланировать самый хитроумный и дерзкий побег в истории.</description>
-    <link>https://rutracker.org/forum/viewtopic.php?t=5319213</link>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5340894</link>
     <code>982760</code>
+    <width>1920</width>
+    <height>1080</height>
+    <duration>01:30:44</duration>
+    <qualityTitle>BD</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>лицензия</translateComment>
+    <Color>Хороший</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>18870</videoKbps>
+    <fps>24</fps>
+    <audioCodec>DTS-HD MA</audioCodec>
+    <channels>6</channels>
+    <audioKbps>4107</audioKbps>
+    <dataCheck>14.01.2017 16:31:34</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Война против всех</russianTitle>
+    <originalTitle>War on Everyone</originalTitle>
+    <year>2016</year>
+    <country>Великобритания</country>
+    <genre>комедия, криминал</genre>
+    <director>Джон Майкл МакДона</director>
+    <actors>Александр Скарсгард, Майкл Пенья, Тесса Томпсон, Тео Джеймс, Калеб Лэндри Джонс, Малкольм Баррет, Дэвид Уилмот, Стефани Сигман, Пол Райзер, Джеффри Померой</actors>
+    <worldDate>12.02.2016</worldDate>
+    <russianDate>03.11.2016</russianDate>
+    <discDate />
+    <description>Двое коррумпированных копов-отморозков из Нью-Мексико прессуют всех, кто попадается им под руку… или под колеса авто. Судьба подкидывает им шанс срубить целый миллион долларов, но на смачный куш также претендует эксцентричный английский лорд не без странных пристрастий. В борьбе за заслуженный улов напарники случайно узнают о стрёмных секретах красавчика-лорда и впрягаются нести возмездие. Плохим копам не терпится попробовать нечто совсем новое — борьбу за справедливость… ну, за то, как они понимают справедливость.</description>
+    <link>https://rutracker.org/forum/viewtopic.php?t=5342190</link>
+    <code>841311</code>
     <width>0</width>
     <height>0</height>
-    <duration>01:27:06</duration>
+    <duration>01:37:38</duration>
     <qualityTitle>WEB-DL</qualityTitle>
     <qualityPixel>1080p</qualityPixel>
     <translateTitle>Дублированный</translateTitle>
@@ -49958,45 +50377,13 @@
     <Color>Плохой</Color>
     <videoCodec>H.264</videoCodec>
     <originalWidth>1920</originalWidth>
-    <originalHeight>1080</originalHeight>
-    <videoKbps>5113</videoKbps>
-    <fps>25</fps>
+    <originalHeight>796</originalHeight>
+    <videoKbps>4534</videoKbps>
+    <fps>24</fps>
     <audioCodec>AC3</audioCodec>
     <channels>6</channels>
     <audioKbps>384</audioKbps>
-    <dataCheck>07.12.2016 7:18:03</dataCheck>
-  </Film>
-  <Film>
-    <russianTitle>Война против всех</russianTitle>
-    <originalTitle>War on Everyone</originalTitle>
-    <year>2016</year>
-    <country>Великобритания</country>
-    <genre>комедия</genre>
-    <director>Джон Майкл МакДона</director>
-    <actors>Александр Скарсгард, Майкл Пенья, Тесса Томпсон, Тео Джеймс, Калеб Лэндри Джонс, Малкольм Баррет, Дэвид Уилмот, Стефани Сигман, Пол Райзер, Джеффри Померой</actors>
-    <worldDate>12.02.2016</worldDate>
-    <russianDate>03.11.2016</russianDate>
-    <discDate />
-    <description>Двое коррумпированных копов-отморозков из Нью-Мексико прессуют всех, кто попадается им под руку… или под колеса авто. Судьба подкидывает им шанс срубить целый миллион долларов, но на смачный куш также претендует эксцентричный английский лорд не без странных пристрастий. В борьбе за заслуженный улов напарники случайно узнают о стрёмных секретах красавчика-лорда и впрягаются нести возмездие. Плохим копам не терпится попробовать нечто совсем новое — борьбу за справедливость… ну, за то, как они понимают справедливость.</description>
-    <link />
-    <code>841311</code>
-    <width>0</width>
-    <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>07.12.2016 7:18:02</dataCheck>
+    <dataCheck>17.01.2017 18:06:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Взломать блогеров</russianTitle>
@@ -50010,25 +50397,25 @@
     <russianDate>10.11.2016</russianDate>
     <discDate />
     <description>Звездные блогеры рунета: Саша Спилберг, Ивангай и Марьяна Ро были «взломаны» неизвестным вирусом и перенеслись на «рабочие столы» своих компьютеров в виде анимационных героев. Под угрозой отношения Вани и Марьяны, карьера Саши и аккаунты миллионов их фанатов. Кто вторгся в их аккаунты и завладел всеми данными? Как вернуться в привычную онлайн-жизнь? Пошел обратный отсчет — ребята должны вырваться из цифровой ловушки.</description>
-    <link />
+    <link>http://kinozal.tv/details.php?id=1508276</link>
     <code>994649</code>
     <width>0</width>
     <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:26</dataCheck>
+    <duration>01:07:00</duration>
+    <qualityTitle>WEB-DL</qualityTitle>
+    <qualityPixel>720p</qualityPixel>
+    <translateTitle>Оригинал</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1280</originalWidth>
+    <originalHeight>720</originalHeight>
+    <videoKbps>3992</videoKbps>
+    <fps>24</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>18.01.2017 7:13:19</dataCheck>
   </Film>
   <Film>
     <russianTitle>Любовь без правил</russianTitle>
@@ -50042,25 +50429,25 @@
     <russianDate>10.11.2016</russianDate>
     <discDate />
     <description>В городе Зареченске жены часто отказывали мужьям. Когда же проблема накрыла и мэра города, Сергей Николаевич не стал терпеть и начал действовать. С родственником жены, местным олигархом, они решают перепрофилировать построенный на противоположном берегу реки санаторий в «Оздоровительный центр». Для чего бизнесмен приглашает из столицы специально обученный «медицинский персонал». И вот уже на другую сторону реки пришвартовывается катер с симпатичными, молодыми и очень профессиональными «медсестрами» и «санитарками». Вооружившись биноклями зареченские жены придирчиво рассматривают конкуренток. А что-же мужья? Надев парадные костюмы и галстуки они садятся в лодки и через несколько минут оказываются на другом берегу, среди молодых, красивых, покладистых и совсем не стервозных девушек. Другие правила или наоборот, любовь без правил?</description>
-    <link />
+    <link>http://kinozal.tv/details.php?id=1504489</link>
     <code>1002690</code>
     <width>0</width>
     <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:25</dataCheck>
+    <duration>01:30:02</duration>
+    <qualityTitle>WEB-DL</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Оригинал</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>802</originalHeight>
+    <videoKbps>4548</videoKbps>
+    <fps>25</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>2</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>21.01.2017 8:08:34</dataCheck>
   </Film>
   <Film>
     <russianTitle>Маменькин сынок</russianTitle>
@@ -50074,25 +50461,25 @@
     <russianDate>10.11.2016</russianDate>
     <discDate />
     <description>Фильм рассказывает о трудоголичке Виолетте из мира моды, которая неожиданно влюбляется в компьютерщика Жана-Рене. Однако 19-летний сын Виолетты, Лоло, не в восторге от их отношений. Лоло решает во что бы то ни стало избавиться от возлюбленного своей матери…</description>
-    <link />
+    <link>http://kinozal.tv/details.php?id=1498988</link>
     <code>858668</code>
-    <width>0</width>
-    <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:24</dataCheck>
+    <width>1918</width>
+    <height>800</height>
+    <duration>01:39:28</duration>
+    <qualityTitle>BDRemux</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Нейтральный</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>29938</videoKbps>
+    <fps>24</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>21.01.2017 8:08:30</dataCheck>
   </Film>
   <Film>
     <russianTitle>Хороший мальчик</russianTitle>
@@ -50104,27 +50491,27 @@
     <actors>Семен Трескунов, Константин Хабенский, Михаил Ефремов, Александр Паль, Анастасия Богатырева, Василий Буткевич, Иева Андреевайте, Ирина Денисова, Татьяна Догилева, Ирина Пегова</actors>
     <worldDate>03.11.2016</worldDate>
     <russianDate>10.11.2016</russianDate>
-    <discDate />
+    <discDate>22.12.2016</discDate>
     <description>Обычная, казалось бы, неделя из жизни ничем не примечательного школьника Коли Смирнова превращается в череду невероятных происшествий: Коля влюбляется в учительницу английского, кто-то поджигает школьную пристройку с новыми компьютерами, а папа Коли заявляет семье о необходимости отказа от ночного сна, из-за чего никому в доме не удается выспаться и собраться с мыслями. Вдобавок в самого Колю влюбляется дочка директора, старшеклассница Ксюша, решившая, что это именно он поджёг школу. Остаётся всего несколько дней до субботнего праздника школы, где должны встретиться все действующие лица этого водоворота событий, и теперь хорошему мальчику Коле необходимо успеть разобраться со своей личной жизнью, расследовать поджог и наладить взаимоотношения с родителями.</description>
-    <link />
+    <link>http://kinozal.tv/details.php?id=1503402</link>
     <code>915270</code>
     <width>0</width>
     <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:22</dataCheck>
+    <duration>01:35:07</duration>
+    <qualityTitle>WEB-DL</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Оригинал</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>856</originalHeight>
+    <videoKbps>4895</videoKbps>
+    <fps>24</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>16.01.2017 17:53:10</dataCheck>
   </Film>
   <Film>
     <russianTitle>Шпионы по соседству</russianTitle>
@@ -50138,25 +50525,25 @@
     <russianDate>10.11.2016</russianDate>
     <discDate />
     <description>Супружеская пара из пригорода оказывается втянутой в международный шпионский заговор, когда обнаруживает, что их, казалось бы, идеальные новые соседи являются правительственными агентами.</description>
-    <link />
+    <link>http://kinozal.tv/details.php?id=1507715</link>
     <code>681503</code>
-    <width>0</width>
-    <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:20</dataCheck>
+    <width>1920</width>
+    <height>800</height>
+    <duration>01:45:21</duration>
+    <qualityTitle>BDRemux</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Нейтральный</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1080</originalHeight>
+    <videoKbps>27421</videoKbps>
+    <fps>23.976</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>16.01.2017 7:34:01</dataCheck>
   </Film>
   <Film>
     <russianTitle>Прибытие</russianTitle>
@@ -50188,7 +50575,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:19</dataCheck>
+    <dataCheck>22.01.2017 11:46:07</dataCheck>
   </Film>
   <Film>
     <russianTitle>Моя большая греческая свадьба 2</russianTitle>
@@ -50220,7 +50607,7 @@
     <audioCodec>AC3</audioCodec>
     <channels>2</channels>
     <audioKbps>192</audioKbps>
-    <dataCheck>09.12.2016 18:04:20</dataCheck>
+    <dataCheck>21.01.2017 8:08:28</dataCheck>
   </Film>
   <Film>
     <russianTitle>Стоп! Снято! На Байкал!</russianTitle>
@@ -50252,7 +50639,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>12.11.2016 8:21:18</dataCheck>
+    <dataCheck>21.01.2017 8:09:08</dataCheck>
   </Film>
   <Film>
     <russianTitle>Фантастические твари и где они обитают</russianTitle>
@@ -50284,7 +50671,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>09.12.2016 18:04:17</dataCheck>
+    <dataCheck>22.01.2017 11:46:06</dataCheck>
   </Film>
   <Film>
     <russianTitle>Другой мир: Войны крови</russianTitle>
@@ -50293,7 +50680,7 @@
     <country>США</country>
     <genre>ужасы, боевик</genre>
     <director>Анна Ферстер</director>
-    <actors>Кейт Бекинсейл, Тео Джеймс, Лара Пулвер, Чарльз Дэнс, Тобайас Мензис, Брэдли Джеймс, Алисия Вела-Бэйли, Дэйзи Хэд, Трент Гарретт, Клементайн Николсон</actors>
+    <actors>Кейт Бекинсейл, Тео Джеймс, Тобайас Мензис, Лара Пулвер, Чарльз Дэнс, Джеймс Фолкнер, Петер Андерссон, Клементайн Николсон, Брэдли Джеймс, Дэйзи Хэд</actors>
     <worldDate>24.11.2016</worldDate>
     <russianDate>24.11.2016</russianDate>
     <discDate />
@@ -50316,7 +50703,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>09.12.2016 18:05:31</dataCheck>
+    <dataCheck>22.01.2017 11:46:04</dataCheck>
   </Film>
   <Film>
     <russianTitle>Плохой Санта 2</russianTitle>
@@ -50330,25 +50717,25 @@
     <russianDate>01.12.2016</russianDate>
     <discDate />
     <description>Продолжение новогодних приключений проходимца Вилли, который в канун Рождества, как всегда, переодевается в Санта-Клауса. Ограбить очередной супермаркет в этом наряде не представляет никаких проблем. Но в Рождество случаются всякие чудеса. Каким оно будет для Вилли на этот раз?</description>
-    <link />
+    <link>http://kinozal.tv/details.php?id=1503676</link>
     <code>577229</code>
     <width>0</width>
     <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>09.12.2016 18:04:13</dataCheck>
+    <duration>01:28:28</duration>
+    <qualityTitle>WEB-DL</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Дублированный</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>1038</originalHeight>
+    <videoKbps>5182</videoKbps>
+    <fps>25</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>19.01.2017 7:04:45</dataCheck>
   </Film>
   <Film>
     <russianTitle>Новогодний корпоратив</russianTitle>
@@ -50380,7 +50767,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:16</dataCheck>
+    <dataCheck>22.01.2017 11:46:03</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ура! Каникулы!</russianTitle>
@@ -50412,7 +50799,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:15</dataCheck>
+    <dataCheck>22.01.2017 11:46:01</dataCheck>
   </Film>
   <Film>
     <russianTitle>Любовь не за горами</russianTitle>
@@ -50444,7 +50831,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:14</dataCheck>
+    <dataCheck>22.01.2017 11:46:00</dataCheck>
   </Film>
   <Film>
     <russianTitle>Ёлки 5</russianTitle>
@@ -50452,31 +50839,31 @@
     <year>2016</year>
     <country>Россия</country>
     <genre>семейный, комедия</genre>
-    <director>Тимур Бекмамбетов, Александр Котт, Вадим Перельман</director>
+    <director>Тимур Бекмамбетов, Вадим Перельман, Индар Джендубаев</director>
     <actors>Иван Ургант, Сергей Светлаков, Гоша Куценко, Мария Шукшина, Александр Головин, Анна Хилькевич, Александр Домогаров мл., Кирилл Плетнёв, Александр Робак, Анастасия Сметанина</actors>
-    <worldDate>29.12.2016</worldDate>
+    <worldDate>23.12.2016</worldDate>
     <russianDate>22.12.2016</russianDate>
     <discDate />
     <description>В этот новый год любимые герои «Ёлок» всё также делают глупости и надеются на чудо. Боре нужно как-то восстановить семейное счастье и ради этого он готов украсть у лучшего друга Жени пингвина. Лыжник и Сноубордист, так и не повзрослевшие, устраивают сумасшедшую погоню за ёлкой. Баба Маня осваивает интернет в надежде найти старую любовь. Профессор из Екатеринбурга остепенился, но теперь сам сходит с ума от ревности. На далеком Севере инженер по технике безопасности должен рискнуть и, наконец, признаться в любви. Ну а пингвину просто очень нужно сесть на яйцо…</description>
-    <link />
+    <link>https://rutracker.org/forum/viewtopic.php?t=5344176</link>
     <code>893500</code>
     <width>0</width>
     <height>0</height>
-    <duration />
-    <qualityTitle />
-    <qualityPixel />
-    <translateTitle />
-    <translateComment />
-    <Color />
-    <videoCodec />
-    <originalWidth>0</originalWidth>
-    <originalHeight>0</originalHeight>
-    <videoKbps>0</videoKbps>
-    <fps>0</fps>
-    <audioCodec />
-    <channels>0</channels>
-    <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:13</dataCheck>
+    <duration>01:27:43</duration>
+    <qualityTitle>WEB-DL</qualityTitle>
+    <qualityPixel>1080p</qualityPixel>
+    <translateTitle>Оригинал</translateTitle>
+    <translateComment>iTunes</translateComment>
+    <Color>Плохой</Color>
+    <videoCodec>H.264</videoCodec>
+    <originalWidth>1920</originalWidth>
+    <originalHeight>804</originalHeight>
+    <videoKbps>4541</videoKbps>
+    <fps>24</fps>
+    <audioCodec>AC3</audioCodec>
+    <channels>6</channels>
+    <audioKbps>384</audioKbps>
+    <dataCheck>21.01.2017 8:08:18</dataCheck>
   </Film>
   <Film>
     <russianTitle>Пассажиры</russianTitle>
@@ -50485,11 +50872,11 @@
     <country>США</country>
     <genre>фантастика, драма, мелодрама, приключения</genre>
     <director>Мортен Тильдум</director>
-    <actors>Дженнифер Лоуренс, Крис Пратт, Майкл Шин, Энди Гарсиа, Лоренс Фишбёрн, Аврора Перрино, Кимберли Баттиста, Фред Меламед, Джейми Соричелли, Шелби Тейлор Маллинс</actors>
-    <worldDate>21.12.2016</worldDate>
+    <actors>Дженнифер Лоуренс, Крис Пратт, Майкл Шин, Лоренс Фишбёрн, Энди Гарсиа, Винс Фостер, Кара Мишель Уайлдер, Конор Брофи, Джули Серда, Аврора Перрино</actors>
+    <worldDate>14.12.2016</worldDate>
     <russianDate>22.12.2016</russianDate>
     <discDate />
-    <description>Космический корабль с 5,000 пассажиров на борту, погруженных на время полета в искусственный сон, держит курс на планету, которая станет для них новым домом. Всё идет по плану, но из-за сбоя системы двое пассажиров неожиданно просыпаются и понимают, что до конечного пункта путешествия — 90 лет пути, и им суждено остаток жизни провести вдвоем в роскошных интерьерах корабля, оснащенного по последнему слову техники. Постепенно Джима и Аврору начинает непреодолимо тянуть друг к другу, но корабль попадает в беду, и теперь в их руках — жизнь и судьба всех обитателей корабля.</description>
+    <description>Космический корабль с 5,000 пассажиров на борту, погруженных на время полета в искусственный сон, держит курс на планету, которая станет для них новым домом. Всё идет по плану, но из-за сбоя системы двое пассажиров неожиданно просыпаются и понимают, что до конечного пункта путешествия - 90 лет пути, и им суждено остаток жизни провести вдвоем в роскошных интерьерах корабля, оснащенного по последнему слову техники. Постепенно Джима и Аврору начинает непреодолимо тянуть друг к другу, но корабль попадает в беду, и теперь в их руках - жизнь и судьба всех обитателей корабля.</description>
     <link />
     <code>470689</code>
     <width>0</width>
@@ -50508,7 +50895,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:12</dataCheck>
+    <dataCheck>22.01.2017 11:45:59</dataCheck>
   </Film>
   <Film>
     <russianTitle>Дед Мороз. Битва Магов</russianTitle>
@@ -50541,7 +50928,7 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:11</dataCheck>
+    <dataCheck>22.01.2017 11:45:58</dataCheck>
   </Film>
   <Film>
     <russianTitle>Снежная королева 3. Огонь и лед</russianTitle>
@@ -50550,8 +50937,8 @@
     <country>Россия</country>
     <genre>мультфильм, комедия, приключения, семейный</genre>
     <director>Алексей Цицилин</director>
-    <actors>Филипп Лебедев, Диомид Виноградов, Александр Груздев, Михаил Тихонов, Николай Быстров, Ольга Шорохова, Ольга Зубкова, Всеволод Кузнецов, Филл Савенков, Олег Новиков</actors>
-    <worldDate>22.12.2016</worldDate>
+    <actors>Наталия Быстрова, Филипп Лебедев, Диомид Виноградов, Александр Груздев, Михаил Тихонов, Николай Быстров, Ольга Шорохова, Ольга Зубкова, Всеволод Кузнецов, Филл Савенков</actors>
+    <worldDate>23.12.2016</worldDate>
     <russianDate>29.12.2016</russianDate>
     <discDate />
     <description>Редкий дар ввязываться во всевозможные неприятности — их семейная черта, да и что взять с тех, кто вырос среди снегов в компании троллей. Но повзрослев, Кай и Герда выходят на новый уровень — теперь они станут виновниками катастрофы мирового масштаба…</description>
@@ -50573,6 +50960,422 @@
     <audioCodec />
     <channels>0</channels>
     <audioKbps>0</audioKbps>
-    <dataCheck>10.12.2016 10:16:10</dataCheck>
+    <dataCheck>22.01.2017 11:45:56</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Три богатыря и Морской царь</russianTitle>
+    <originalTitle />
+    <year>2016</year>
+    <country>Россия</country>
+    <genre>мультфильм, комедия, приключения</genre>
+    <director>Константин Феоктистов</director>
+    <actors>Сергей Маковецкий, Дмитрий Высоцкий, Олег Куликович, Валерий Соловьев, Дмитрий Быковский-Ромашов, Елена Шульман, Лия Медведева, Мария Цветкова-Овсянникова</actors>
+    <worldDate>01.01.2017</worldDate>
+    <russianDate>01.01.2017</russianDate>
+    <discDate />
+    <description>У богатырей семейные неурядицы. Чтобы развеяться, они решают по-быстрому сгонять в Китай за зубом дракона, символом мудрости и силы. В это же время князь Киевский отправляется на прогулку вместе с конем Юлием за сокровищами морского царя, чтобы пополнить казну и «залатать бюджет». Да вот только морской царь решил жениться и для этого утопил Киев. И как теперь быть? Что поможет нашим героям? Дружба, смелость и, конечно, любовь.</description>
+    <link />
+    <code>893507</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:54</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Без тормозов</russianTitle>
+    <originalTitle>À fond</originalTitle>
+    <year>2016</year>
+    <country>Франция, Македония</country>
+    <genre>комедия</genre>
+    <director>Николас Бенаму</director>
+    <actors>Хосе Гарсия, Андре Дюссолье, Каролин Виньо, Жозефин Калли, Стилан Лекай, Шарлотта Габрис, Венсан Дезанья, Флоренс Форести, Жером Коммандёр, Владимир Хубар</actors>
+    <worldDate>11.11.2016</worldDate>
+    <russianDate>05.01.2017</russianDate>
+    <discDate />
+    <description>Взяв напрокат самый навороченный семейный автомобиль, глава семейства отправляется в долгожданный отпуск со своей женой, детьми и отцом. Но когда новомодный круиз-контроль вдруг полностью отключает тормоза, каникулы перестают быть томными. Пристегните ремни. Вас ждет очень веселая поездочка!</description>
+    <link />
+    <code>931337</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>21.01.2017 8:08:09</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Кредо убийцы</russianTitle>
+    <originalTitle>Assassin's Creed</originalTitle>
+    <year>2016</year>
+    <country>Великобритания, Франция, Гонконг, США</country>
+    <genre>фантастика, фэнтези, боевик, приключения</genre>
+    <director>Джастин Курзель</director>
+    <actors>Майкл Фассбендер, Марион Котийяр, Джереми Айронс, Брендан Глисон, Шарлотта Рэмплинг, Майкл Кеннет Уильямс, Дени Меноше, Ариана Лабед, Халид Абдалла, Эсси Дэвис</actors>
+    <worldDate>14.12.2016</worldDate>
+    <russianDate>05.01.2017</russianDate>
+    <discDate />
+    <description>Благодаря революционным технологиям, позволяющим вызвать в памяти воспоминания прежних поколений, Каллум Линч проживает приключения своего предка Агилара в Испании 15-го века. Каллум узнает, что является потомком членов загадочного тайного общества ассасинов. Накопив невероятные знания и навыки, он вступает в противостояние с могущественной и жестокой организацией тамплиеров в наши дни.</description>
+    <link />
+    <code>690615</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>21.01.2017 8:08:06</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Монстр-траки</russianTitle>
+    <originalTitle>Monster Trucks</originalTitle>
+    <year>2016</year>
+    <country>США</country>
+    <genre>фантастика, боевик, комедия, семейный</genre>
+    <director>Крис Уэдж</director>
+    <actors>Лукас Тилл, Джейн Леви, Томас Леннон, Барри Пеппер, Роб Лоу, Дэнни Гловер, Эми Райан, Холт МакКэллани, Фрэнк Уэйли, Алийа О’Брайен</actors>
+    <worldDate>21.12.2016</worldDate>
+    <russianDate>05.01.2017</russianDate>
+    <discDate />
+    <description>Старшеклассник Трипп мечтает сбежать из скучного городка, где родился и вырос, и увлеченно собирает монстр-трак из обломков старых авто. И когда происшествие на буровой вышке высвобождает из-под земли удивительное создание, знающее толк в скорости, у Триппа появляется реальный шанс не только наконец-то изменить жизнь, но и обрести настоящего друга… Если, конечно, никто не вмешается.</description>
+    <link />
+    <code>784331</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>21.01.2017 8:08:03</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>2+1</russianTitle>
+    <originalTitle>Demain tout commence</originalTitle>
+    <year>2016</year>
+    <country>Франция, Великобритания</country>
+    <genre>комедия, семейный</genre>
+    <director>Хьюго Желен</director>
+    <actors>Омар Си, Клеманс Поэзи, Антуан Бертран, Эшли Уолтерс, Глория Колстон, Клементин Селарье, Анна Коттис, Ральф фон Блюменталь, Бен Хоумвуд, Алис Давид</actors>
+    <worldDate>04.11.2016</worldDate>
+    <russianDate>12.01.2017</russianDate>
+    <discDate />
+    <description>Жизнь главного героя была легка и беззаботна ровно до тех пор, пока одна из его бывших не подкинула ему грудного ребёнка. Решив, что такая проблема ему не нужна, он поехал искать мать малышки Глории. Но все сложилось иначе…</description>
+    <link />
+    <code>934130</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:53</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Не стучи дважды</russianTitle>
+    <originalTitle>Don't Knock Twice</originalTitle>
+    <year>2016</year>
+    <country>Великобритания</country>
+    <genre>ужасы</genre>
+    <director>Карадог В. Джеймс</director>
+    <actors>Кэти Сакхофф, Люси Бойнтон, Хавьер Ботет, Ник Моран, Джордан Болджер, Пунех Хаджимохаммади, Ричард Милан, Каллум Гриффитс, Меган Пурвис, Селин Эванс</actors>
+    <worldDate>29.09.2016</worldDate>
+    <russianDate>12.01.2017</russianDate>
+    <discDate />
+    <description>Поиски пропавшего друга приводят Хлою в родной город. По местному преданию, в странном доме на его окраине живет опасная ведьма, охотящаяся на жителей города. Хлое придется вызвать древнего демона и ступить за порог реального мира в мир потусторонний, чтобы открыть страшную правду городской легенды.</description>
+    <link />
+    <code>910183</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:52</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Почему он?</russianTitle>
+    <originalTitle>Why Him?</originalTitle>
+    <year>2016</year>
+    <country>США</country>
+    <genre>комедия</genre>
+    <director>Джон Гамбург</director>
+    <actors>Зои Дойч, Джеймс Франко, Тэнджи Эмброуз, Седрик «Развлекатель», Боб Стефенсон, Брайан Крэнстон, Меган Маллалли, Зак Перлман, Гриффин Глюк, Джи Янг Хань</actors>
+    <worldDate>17.12.2016</worldDate>
+    <russianDate>12.01.2017</russianDate>
+    <discDate />
+    <description>Глава семейства вступает в противостояние с молодым и богатым парнем своей дочери.</description>
+    <link />
+    <code>930000</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:50</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Преисподняя</russianTitle>
+    <originalTitle>Brimstone</originalTitle>
+    <year>2016</year>
+    <country>Нидерланды, Франция, Германия, Бельгия, Швеция, Великобритания</country>
+    <genre>триллер, детектив, вестерн</genre>
+    <director>Мартин Кулховен</director>
+    <actors>Дакота Фаннинг, Кит Харингтон, Кэрис ван Хаутен, Гай Пирс, Пол Андерсон, Эмилия Джонс, Карла Юри, Джек Рот, Тиго Гернандт, Наоми Баттрик</actors>
+    <worldDate>03.09.2016</worldDate>
+    <russianDate>12.01.2017</russianDate>
+    <discDate />
+    <description>История о девушке по имени Лиз, которая пытается сбежать от своего темного прошлого и скрывается от преследования «дьявольского» проповедника.</description>
+    <link />
+    <code>607928</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:49</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Ловушка</russianTitle>
+    <originalTitle>A Kind of Murder</originalTitle>
+    <year>2016</year>
+    <country>США</country>
+    <genre>триллер, драма</genre>
+    <director>Энди Годдард</director>
+    <actors>Патрик Уилсон, Хейли Беннетт, Джессика Бил, Винсент Картайзер, Эдди Марсан, Кен Штрунк, Радек Лорд, Корри Дэниэли, Дженнифер Энскат, Мишель Пул</actors>
+    <worldDate>17.04.2016</worldDate>
+    <russianDate>19.01.2017</russianDate>
+    <discDate />
+    <description>Нью-Йорк, шестидесятые годы прошлого века. Стэкхаусы — внешне идеальная семейная пара: молодые, красивые, успешные. Он — удачливый архитектор, она — процветающий риелтор и великолепная хозяйка великолепного дома. На самом деле Уолтер давно думает о разводе, потому что Клара замучила его своими претензиями, истериками, ревностью и угрозами покончить с собой, если он ее оставит. Однажды внимание Уолтера привлекает газетная заметка: женщина, жена букиниста, жестоко убита неподалеку от стоянки автобуса, преступника не нашли. Ему кажется, что убийцей мог быть муж жертвы, хотя у того, казалось бы, надежное алиби. Стекхаус решает с ним встретиться, не предполагая, в какую ловушку угодит…</description>
+    <link />
+    <code>741062</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:48</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Невеста</russianTitle>
+    <originalTitle />
+    <year>2017</year>
+    <country>Россия</country>
+    <genre>ужасы, триллер</genre>
+    <director>Святослав Подгаевский</director>
+    <actors>Виктория Агалакова, Вячеслав Чепурченко, Александра Ребенок, Игорь Хрипунов, Анастасия Акатова, Виктор Соловьев, Мария Арнаут, Лада Чуровская, Евгений Коряковский, Татьяна Филатова</actors>
+    <worldDate />
+    <russianDate>19.01.2017</russianDate>
+    <discDate />
+    <description>После свадьбы Настя уговаривает мужа взять её с собой к его родственникам, которые живут в маленьком, почти заброшенном городке. Но скоро начинает сожалеть о своей просьбе. Семья Вани хочет провести таинственный свадебный обряд по своим традициям, и Настю начинают пугать страшные сны и непонятные предчувствия. Попытка понять что происходит, приводит девушку к жуткой находке — шкатулке с фотографиями мертвых людей.</description>
+    <link />
+    <code>984360</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:47</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Три икса: Мировое господство</russianTitle>
+    <originalTitle>xXx: Return of Xander Cage</originalTitle>
+    <year>2017</year>
+    <country>США</country>
+    <genre>боевик, триллер, приключения</genre>
+    <director>Ди Джей Карузо</director>
+    <actors>Вин Дизель, Донни Йен, Дипика Падукон, Крис У, Руби Роуз, Тони Джа, Нина Добрев, Рори МакКанн, Тони Коллетт, Сэмюэл Л. Джексон</actors>
+    <worldDate>05.01.2017</worldDate>
+    <russianDate>19.01.2017</russianDate>
+    <discDate />
+    <description>Ксандер Кейдж спустя годы возвращается из добровольного изгнания и попадает в безумный водоворот событий. Он собирает команду безбашенных экстремалов, вместе с которыми ему предстоит найти мощнейшее секретное оружие — «Ящик Пандоры». Действовать нужно быстро: за разработкой охотятся опасные головорезы. Ставки в смертельной игре повышаются, когда выясняется, что мировые правительства вовлечены в кровавый заговор, а на кону — судьба мира.</description>
+    <link />
+    <code>428709</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:45</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Притяжение</russianTitle>
+    <originalTitle />
+    <year>2017</year>
+    <country>Россия</country>
+    <genre>фантастика</genre>
+    <director>Фёдор Бондарчук</director>
+    <actors>Ирина Старшенбаум, Александр Петров, Риналь Мухаметов, Олег Меньшиков, Евгений Сангаджиев, Алексей Маслодудов, Никита Кукушкин, Евгений Михеев, Антон Шпиньков, Евгений Коряковский</actors>
+    <worldDate>26.01.2017</worldDate>
+    <russianDate>26.01.2017</russianDate>
+    <discDate />
+    <description>…Как только что стало известно, сбитый над Москвой неопознанный объект имеет, возможно, внеземное происхождение. Большая часть столичного Чертанова оцеплена, к месту крушения стягиваются представители силовых структур, решается вопрос об эвакуации местных жителей. По словам нашего источника в Минобороны, сейчас специальная комиссия пытается вступить в контакт с так называемыми «гостями». В эти минуты мы готовим экстренный выпуск новостей и о развитии событий вы узнаете первыми…</description>
+    <link />
+    <code>840250</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:44</dataCheck>
+  </Film>
+  <Film>
+    <russianTitle>Семейное ограбление</russianTitle>
+    <originalTitle>Mes trésors</originalTitle>
+    <year>2017</year>
+    <country>Франция</country>
+    <genre>комедия</genre>
+    <director>Паскаль Бурдьо</director>
+    <actors>Жан Рено, Рем Кериси, Камиль Шаму, Бруно Санчес, Паскаль Демолон, Jean Reynès, Marion Briet, Фамке Янссен, Juge Thierry, Zina Esepciuc</actors>
+    <worldDate>04.01.2017</worldDate>
+    <russianDate>26.01.2017</russianDate>
+    <discDate />
+    <description>Анжела и Анжелика — две абсолютно разные девушки, которые не имеют ничего общего. Кроме, разве что, отца, которого они никогда не видели. И вот однажды он появился в их жизни. Вор международного масштаба решил наверстать упущенное, создав с дочерьми безумную команду, чтобы совершить ограбление века. И все бы ничего, только гениальный план Патрика дает сбой, и все идет не по запланированному сценарию…</description>
+    <link />
+    <code>959858</code>
+    <width>0</width>
+    <height>0</height>
+    <duration />
+    <qualityTitle />
+    <qualityPixel />
+    <translateTitle />
+    <translateComment />
+    <Color />
+    <videoCodec />
+    <originalWidth>0</originalWidth>
+    <originalHeight>0</originalHeight>
+    <videoKbps>0</videoKbps>
+    <fps>0</fps>
+    <audioCodec />
+    <channels>0</channels>
+    <audioKbps>0</audioKbps>
+    <dataCheck>22.01.2017 11:45:43</dataCheck>
   </Film>
 </ArrayOfFilm>

@@ -221,5 +221,17 @@ namespace Films.Forms
 		{
 			new LogForm().ShowDialog();
 		}
+
+		private void dgFilms_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.KeyData == (Keys.Control | Keys.B))
+			{
+				if (dgFilms.CurrentRow != null)
+				{
+					Clipboard.Clear();
+					Clipboard.SetText(films.GetFilm(dgFilms.CurrentRow.Index).russianTitle);
+				}
+			}
+		}
 	}
 }
