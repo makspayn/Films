@@ -123,9 +123,10 @@ namespace Films.Forms
 					fps = Convert.ToDouble(tbFramePerSec.Text),
 					audioCodec = cbAudioCodec.Text,
 					channels = Convert.ToInt32(tbChannels.Text),
-					audioKbps = Convert.ToInt32(tbAudioKbps.Text)
+					audioKbps = Convert.ToInt32(tbAudioKbps.Text),
+					dataCheck = film.dataCheck
 				};
-				if (newFilm.dataCheck == "") {
+				if (string.IsNullOrEmpty(newFilm.dataCheck)) {
 					newFilm.dataCheck = "10.08.1994 0:00:00";
 				}
 				if (loaded) {
